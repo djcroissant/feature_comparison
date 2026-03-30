@@ -3,72 +3,9 @@
     "section": "Service availability",
     "features": [
       {
-        "feature": "Drive storage and Docs editors",
-        "Enterprise Essentials": "Included",
-        "Enterprise Essentials Plus": "Included",
-        "Frontline Standard": "N/A",
-        "Frontline Plus": "N/A"
-      },
-      {
-        "feature": "Video conferencing with Meet",
-        "Enterprise Essentials": "Included",
-        "Enterprise Essentials Plus": "Included",
-        "Frontline Standard": "Included",
-        "Frontline Plus": "Included"
-      },
-      {
-        "feature": "Tasks",
-        "Enterprise Essentials": "Included",
-        "Enterprise Essentials Plus": "Included",
-        "Frontline Standard": "N/A",
-        "Frontline Plus": "N/A"
-      },
-      {
-        "feature": "Directory management",
-        "Enterprise Essentials": "Included",
-        "Enterprise Essentials Plus": "Included",
-        "Frontline Standard": "Included",
-        "Frontline Plus": "Included"
-      },
-      {
-        "feature": "Sites",
-        "Enterprise Essentials": "Included",
-        "Enterprise Essentials Plus": "Included",
-        "Frontline Standard": "Included",
-        "Frontline Plus": "Included"
-      },
-      {
-        "feature": "Notetaking with Keep",
-        "Enterprise Essentials": "Included",
-        "Enterprise Essentials Plus": "Included",
-        "Frontline Standard": "N/A",
-        "Frontline Plus": "N/A"
-      },
-      {
-        "feature": "Chat and chat spaces",
-        "Enterprise Essentials": "Included",
-        "Enterprise Essentials Plus": "Included",
-        "Frontline Standard": "N/A",
-        "Frontline Plus": "N/A"
-      },
-      {
-        "feature": "Google Vids",
-        "Enterprise Essentials": "Included",
-        "Enterprise Essentials Plus": "Included",
-        "Frontline Standard": "Viewer Only",
-        "Frontline Plus": "Viewer Only"
-      },
-      {
-        "feature": "Calendar",
-        "Enterprise Essentials": "Included",
-        "Enterprise Essentials Plus": "Not included",
-        "Frontline Standard": "N/A",
-        "Frontline Plus": "N/A"
-      },
-      {
-        "feature": "Groups for Business",
-        "Enterprise Essentials": "Included",
-        "Enterprise Essentials Plus": "Included",
+        "feature": "Additional Google services",
+        "Enterprise Essentials": "N/A",
+        "Enterprise Essentials Plus": "N/A",
         "Frontline Standard": "Included",
         "Frontline Plus": "Included"
       },
@@ -80,34 +17,6 @@
         "Frontline Plus": "N/A"
       },
       {
-        "feature": "Colab to collaboratively develop data science and machine learning models (as an additional Google service, no user licenses required)",
-        "Enterprise Essentials": "Included",
-        "Enterprise Essentials Plus": "Included",
-        "Frontline Standard": "Included",
-        "Frontline Plus": "Included"
-      },
-      {
-        "feature": "Colab Pro and Colab Pro+ (add-on)",
-        "Enterprise Essentials": "Included",
-        "Enterprise Essentials Plus": "Included",
-        "Frontline Standard": "Included",
-        "Frontline Plus": "Included"
-      },
-      {
-        "feature": "Gemini app\u00a0with enterprise-grade data protections",
-        "Enterprise Essentials": "Included",
-        "Enterprise Essentials Plus": "Included",
-        "Frontline Standard": "N/A",
-        "Frontline Plus": "N/A"
-      },
-      {
-        "feature": "Google Vault for eDiscovery and information governance",
-        "Enterprise Essentials": "Included",
-        "Enterprise Essentials Plus": "Included",
-        "Frontline Standard": "Included",
-        "Frontline Plus": "Included"
-      },
-      {
         "feature": "AppSheet Core",
         "Enterprise Essentials": "Not included",
         "Enterprise Essentials Plus": "Included",
@@ -115,18 +24,11 @@
         "Frontline Plus": "Included"
       },
       {
-        "feature": "Google Cloud Search for internal search and assist",
-        "Enterprise Essentials": "Not included",
+        "feature": "Calendar",
+        "Enterprise Essentials": "Included",
         "Enterprise Essentials Plus": "Not included",
         "Frontline Standard": "N/A",
         "Frontline Plus": "N/A"
-      },
-      {
-        "feature": "Gmail and Calendar",
-        "Enterprise Essentials": "N/A",
-        "Enterprise Essentials Plus": "N/A",
-        "Frontline Standard": "Included",
-        "Frontline Plus": "Included"
       },
       {
         "feature": "Chat and chat rooms",
@@ -136,14 +38,42 @@
         "Frontline Plus": "Included"
       },
       {
-        "feature": "Drive storage and Docs editors (includes Google Docs, Sheets, Slides, Forms, and Sites)",
-        "Enterprise Essentials": "N/A",
-        "Enterprise Essentials Plus": "N/A",
+        "feature": "Chat and chat spaces",
+        "Enterprise Essentials": "Included",
+        "Enterprise Essentials Plus": "Included",
+        "Frontline Standard": "N/A",
+        "Frontline Plus": "N/A"
+      },
+      {
+        "feature": "Colab Pro and Colab Pro+ (add-on)",
+        "Enterprise Essentials": "Included",
+        "Enterprise Essentials Plus": "Included",
         "Frontline Standard": "Included",
         "Frontline Plus": "Included"
       },
       {
-        "feature": "Additional Google services",
+        "feature": "Colab to collaboratively develop data science and machine learning models (as an additional Google service, no user licenses required)",
+        "Enterprise Essentials": "Included",
+        "Enterprise Essentials Plus": "Included",
+        "Frontline Standard": "Included",
+        "Frontline Plus": "Included"
+      },
+      {
+        "feature": "Directory management",
+        "Enterprise Essentials": "Included",
+        "Enterprise Essentials Plus": "Included",
+        "Frontline Standard": "Included",
+        "Frontline Plus": "Included"
+      },
+      {
+        "feature": "Drive storage and Docs editors",
+        "Enterprise Essentials": "Included",
+        "Enterprise Essentials Plus": "Included",
+        "Frontline Standard": "N/A",
+        "Frontline Plus": "N/A"
+      },
+      {
+        "feature": "Drive storage and Docs editors (includes Google Docs, Sheets, Slides, Forms, and Sites)",
         "Enterprise Essentials": "N/A",
         "Enterprise Essentials Plus": "N/A",
         "Frontline Standard": "Included",
@@ -157,10 +87,52 @@
         "Frontline Plus": "Included"
       },
       {
-        "feature": "NotebookLM",
+        "feature": "Gemini app\u00a0with enterprise-grade data protections",
+        "Enterprise Essentials": "Included",
+        "Enterprise Essentials Plus": "Included",
+        "Frontline Standard": "N/A",
+        "Frontline Plus": "N/A"
+      },
+      {
+        "feature": "Gmail and Calendar",
         "Enterprise Essentials": "N/A",
         "Enterprise Essentials Plus": "N/A",
         "Frontline Standard": "Included",
+        "Frontline Plus": "Included"
+      },
+      {
+        "feature": "Google Cloud Search for internal search and assist",
+        "Enterprise Essentials": "Not included",
+        "Enterprise Essentials Plus": "Not included",
+        "Frontline Standard": "N/A",
+        "Frontline Plus": "N/A"
+      },
+      {
+        "feature": "Google Vault for eDiscovery and information governance",
+        "Enterprise Essentials": "Included",
+        "Enterprise Essentials Plus": "Included",
+        "Frontline Standard": "Included",
+        "Frontline Plus": "Included"
+      },
+      {
+        "feature": "Google Vids",
+        "Enterprise Essentials": "Included",
+        "Enterprise Essentials Plus": "Included",
+        "Frontline Standard": "Viewer Only",
+        "Frontline Plus": "Viewer Only"
+      },
+      {
+        "feature": "Groups for Business",
+        "Enterprise Essentials": "Included",
+        "Enterprise Essentials Plus": "Included",
+        "Frontline Standard": "Included",
+        "Frontline Plus": "Included"
+      },
+      {
+        "feature": "Index third-party data using Cloud Search",
+        "Enterprise Essentials": "N/A",
+        "Enterprise Essentials Plus": "N/A",
+        "Frontline Standard": "Not included",
         "Frontline Plus": "Included"
       },
       {
@@ -171,10 +143,38 @@
         "Frontline Plus": "Included"
       },
       {
-        "feature": "Index third-party data using Cloud Search",
+        "feature": "NotebookLM",
         "Enterprise Essentials": "N/A",
         "Enterprise Essentials Plus": "N/A",
-        "Frontline Standard": "Not included",
+        "Frontline Standard": "Included",
+        "Frontline Plus": "Included"
+      },
+      {
+        "feature": "Notetaking with Keep",
+        "Enterprise Essentials": "Included",
+        "Enterprise Essentials Plus": "Included",
+        "Frontline Standard": "N/A",
+        "Frontline Plus": "N/A"
+      },
+      {
+        "feature": "Sites",
+        "Enterprise Essentials": "Included",
+        "Enterprise Essentials Plus": "Included",
+        "Frontline Standard": "Included",
+        "Frontline Plus": "Included"
+      },
+      {
+        "feature": "Tasks",
+        "Enterprise Essentials": "Included",
+        "Enterprise Essentials Plus": "Included",
+        "Frontline Standard": "N/A",
+        "Frontline Plus": "N/A"
+      },
+      {
+        "feature": "Video conferencing with Meet",
+        "Enterprise Essentials": "Included",
+        "Enterprise Essentials Plus": "Included",
+        "Frontline Standard": "Included",
         "Frontline Plus": "Included"
       }
     ]
@@ -197,14 +197,14 @@
         "Frontline Plus": "N/A"
       },
       {
-        "feature": "Create and delete user accounts",
+        "feature": "Assign custom admin roles",
         "Enterprise Essentials": "Included",
         "Enterprise Essentials Plus": "Included",
         "Frontline Standard": "N/A",
         "Frontline Plus": "N/A"
       },
       {
-        "feature": "Assign custom admin roles",
+        "feature": "Create and delete user accounts",
         "Enterprise Essentials": "Included",
         "Enterprise Essentials Plus": "Included",
         "Frontline Standard": "N/A",
@@ -223,11 +223,11 @@
     "section": "Usage and support",
     "features": [
       {
-        "feature": "Number of users",
-        "Enterprise Essentials": "Any number",
-        "Enterprise Essentials Plus": "Any number",
-        "Frontline Standard": "Unlimited",
-        "Frontline Plus": "Unlimited"
+        "feature": "99.9% uptime guarantee",
+        "Enterprise Essentials": "Included",
+        "Enterprise Essentials Plus": "Included",
+        "Frontline Standard": "Included",
+        "Frontline Plus": "Included"
       },
       {
         "feature": "Email, document, photo storage per user",
@@ -237,23 +237,23 @@
         "Frontline Plus": "5 GB"
       },
       {
-        "feature": "99.9% uptime guarantee",
+        "feature": "Enhanced Support",
         "Enterprise Essentials": "Included",
         "Enterprise Essentials Plus": "Included",
-        "Frontline Standard": "Included",
-        "Frontline Plus": "Included"
+        "Frontline Standard": "N/A",
+        "Frontline Plus": "N/A"
+      },
+      {
+        "feature": "Number of users",
+        "Enterprise Essentials": "Any number",
+        "Enterprise Essentials Plus": "Any number",
+        "Frontline Standard": "Unlimited",
+        "Frontline Plus": "Unlimited"
       },
       {
         "feature": "Purchase additional pooled storage",
         "Enterprise Essentials": "Included",
         "Enterprise Essentials Plus": "Not included",
-        "Frontline Standard": "N/A",
-        "Frontline Plus": "N/A"
-      },
-      {
-        "feature": "Enhanced Support",
-        "Enterprise Essentials": "Included",
-        "Enterprise Essentials Plus": "Included",
         "Frontline Standard": "N/A",
         "Frontline Plus": "N/A"
       },
@@ -270,14 +270,21 @@
     "section": "User access options",
     "features": [
       {
-        "feature": "Supported browsers",
+        "feature": "Access across devices (computers, phones, tablets)",
         "Enterprise Essentials": "Included",
         "Enterprise Essentials Plus": "Included",
         "Frontline Standard": "Included",
         "Frontline Plus": "Included"
       },
       {
-        "feature": "Access across devices (computers, phones, tablets)",
+        "feature": "IMAP and POP mail clients",
+        "Enterprise Essentials": "N/A",
+        "Enterprise Essentials Plus": "N/A",
+        "Frontline Standard": "Included",
+        "Frontline Plus": "Included"
+      },
+      {
+        "feature": "Microsoft Outlook",
         "Enterprise Essentials": "Included",
         "Enterprise Essentials Plus": "Included",
         "Frontline Standard": "Included",
@@ -291,16 +298,9 @@
         "Frontline Plus": "Included"
       },
       {
-        "feature": "Microsoft Outlook",
+        "feature": "Supported browsers",
         "Enterprise Essentials": "Included",
         "Enterprise Essentials Plus": "Included",
-        "Frontline Standard": "Included",
-        "Frontline Plus": "Included"
-      },
-      {
-        "feature": "IMAP and POP mail clients",
-        "Enterprise Essentials": "N/A",
-        "Enterprise Essentials Plus": "N/A",
         "Frontline Standard": "Included",
         "Frontline Plus": "Included"
       }
@@ -310,28 +310,7 @@
     "section": "Reports and monitoring",
     "features": [
       {
-        "feature": "Highlights reports summarizing metrics and trends",
-        "Enterprise Essentials": "Included",
-        "Enterprise Essentials Plus": "Included",
-        "Frontline Standard": "Included",
-        "Frontline Plus": "Included"
-      },
-      {
         "feature": "Apps-usage reports (organization wide)",
-        "Enterprise Essentials": "Included",
-        "Enterprise Essentials Plus": "Included",
-        "Frontline Standard": "Included",
-        "Frontline Plus": "Included"
-      },
-      {
-        "feature": "User- and admin-specific activity reports",
-        "Enterprise Essentials": "Included",
-        "Enterprise Essentials Plus": "Included",
-        "Frontline Standard": "Included",
-        "Frontline Plus": "Included"
-      },
-      {
-        "feature": "Carbon footprint report",
         "Enterprise Essentials": "Included",
         "Enterprise Essentials Plus": "Included",
         "Frontline Standard": "Included",
@@ -345,8 +324,22 @@
         "Frontline Plus": "Included"
       },
       {
+        "feature": "Carbon footprint report",
+        "Enterprise Essentials": "Included",
+        "Enterprise Essentials Plus": "Included",
+        "Frontline Standard": "Included",
+        "Frontline Plus": "Included"
+      },
+      {
         "feature": "Drive DLP data protection insights report",
         "Enterprise Essentials": "Included",
+        "Enterprise Essentials Plus": "Included",
+        "Frontline Standard": "Included",
+        "Frontline Plus": "Included"
+      },
+      {
+        "feature": "Export reports to BigQuery",
+        "Enterprise Essentials": "Not included",
         "Enterprise Essentials Plus": "Included",
         "Frontline Standard": "Included",
         "Frontline Plus": "Included"
@@ -359,8 +352,29 @@
         "Frontline Plus": "Not included"
       },
       {
-        "feature": "Export reports to BigQuery",
+        "feature": "Highlights reports summarizing metrics and trends",
+        "Enterprise Essentials": "Included",
+        "Enterprise Essentials Plus": "Included",
+        "Frontline Standard": "Included",
+        "Frontline Plus": "Included"
+      },
+      {
+        "feature": "Log-event exports to Google Security Operations",
+        "Enterprise Essentials": "N/A",
+        "Enterprise Essentials Plus": "N/A",
+        "Frontline Standard": "Not included",
+        "Frontline Plus": "Included"
+      },
+      {
+        "feature": "Log-event\u00a0exports to Google Security Operations",
         "Enterprise Essentials": "Not included",
+        "Enterprise Essentials Plus": "Not included",
+        "Frontline Standard": "N/A",
+        "Frontline Plus": "N/A"
+      },
+      {
+        "feature": "User- and admin-specific activity reports",
+        "Enterprise Essentials": "Included",
         "Enterprise Essentials Plus": "Included",
         "Frontline Standard": "Included",
         "Frontline Plus": "Included"
@@ -373,23 +387,9 @@
         "Frontline Plus": "Included"
       },
       {
-        "feature": "Log-event\u00a0exports to Google Security Operations",
-        "Enterprise Essentials": "Not included",
-        "Enterprise Essentials Plus": "Not included",
-        "Frontline Standard": "N/A",
-        "Frontline Plus": "N/A"
-      },
-      {
         "feature": "Work Insights reports for users",
         "Enterprise Essentials": "Not included",
         "Enterprise Essentials Plus": "Included",
-        "Frontline Standard": "Not included",
-        "Frontline Plus": "Included"
-      },
-      {
-        "feature": "Log-event exports to Google Security Operations",
-        "Enterprise Essentials": "N/A",
-        "Enterprise Essentials Plus": "N/A",
         "Frontline Standard": "Not included",
         "Frontline Plus": "Included"
       }
@@ -399,11 +399,137 @@
     "section": "Security policies and data protection",
     "features": [
       {
+        "feature": "2-Step Verification",
+        "Enterprise Essentials": "N/A",
+        "Enterprise Essentials Plus": "N/A",
+        "Frontline Standard": "Included",
+        "Frontline Plus": "Included"
+      },
+      {
         "feature": "2-Step Verification (admin managed)",
         "Enterprise Essentials": "Included",
         "Enterprise Essentials Plus": "Included",
         "Frontline Standard": "N/A",
         "Frontline Plus": "N/A"
+      },
+      {
+        "feature": "Advanced data exports",
+        "Enterprise Essentials": "Not included",
+        "Enterprise Essentials Plus": "Included",
+        "Frontline Standard": "Not included",
+        "Frontline Plus": "Included"
+      },
+      {
+        "feature": "Assured Controls for managing compliance & security requirements (add-on)",
+        "Enterprise Essentials": "Not included",
+        "Enterprise Essentials Plus": "Not included",
+        "Frontline Standard": "Not included",
+        "Frontline Plus": "Included"
+      },
+      {
+        "feature": "Basic data exports",
+        "Enterprise Essentials": "Included",
+        "Enterprise Essentials Plus": "Included",
+        "Frontline Standard": "N/A",
+        "Frontline Plus": "N/A"
+      },
+      {
+        "feature": "Basic date export",
+        "Enterprise Essentials": "N/A",
+        "Enterprise Essentials Plus": "N/A",
+        "Frontline Standard": "Included",
+        "Frontline Plus": "Included"
+      },
+      {
+        "feature": "Client-side encryption",
+        "Enterprise Essentials": "Not included",
+        "Enterprise Essentials Plus": "Not included",
+        "Frontline Standard": "Not included",
+        "Frontline Plus": "Included"
+      },
+      {
+        "feature": "Cloud Identity Premium security management (no separate license required)",
+        "Enterprise Essentials": "Not included",
+        "Enterprise Essentials Plus": "Included",
+        "Frontline Standard": "Included",
+        "Frontline Plus": "Included"
+      },
+      {
+        "feature": "Collaboration with trusted domains",
+        "Enterprise Essentials": "N/A",
+        "Enterprise Essentials Plus": "N/A",
+        "Frontline Standard": "Included",
+        "Frontline Plus": "Included"
+      },
+      {
+        "feature": "Collaboration with trusted external domains",
+        "Enterprise Essentials": "Included",
+        "Enterprise Essentials Plus": "Included",
+        "Frontline Standard": "N/A",
+        "Frontline Plus": "N/A"
+      },
+      {
+        "feature": "Control access based on user and device context (Context-Aware Access)",
+        "Enterprise Essentials": "Not included",
+        "Enterprise Essentials Plus": "Included",
+        "Frontline Standard": "N/A",
+        "Frontline Plus": "N/A"
+      },
+      {
+        "feature": "Control app access based on user and device context (Context-Aware Access)",
+        "Enterprise Essentials": "N/A",
+        "Enterprise Essentials Plus": "N/A",
+        "Frontline Standard": "Included",
+        "Frontline Plus": "Included"
+      },
+      {
+        "feature": "Data loss prevention (DLP)",
+        "Enterprise Essentials": "Not included",
+        "Enterprise Essentials Plus": "Included",
+        "Frontline Standard": "Included",
+        "Frontline Plus": "Included"
+      },
+      {
+        "feature": "Drive data protection insights report",
+        "Enterprise Essentials": "Included",
+        "Enterprise Essentials Plus": "Included",
+        "Frontline Standard": "Included",
+        "Frontline Plus": "Included"
+      },
+      {
+        "feature": "Enforced SSL connections",
+        "Enterprise Essentials": "Included",
+        "Enterprise Essentials Plus": "Included",
+        "Frontline Standard": "Included",
+        "Frontline Plus": "Included"
+      },
+      {
+        "feature": "Gemini AI security protections",
+        "Enterprise Essentials": "Not included",
+        "Enterprise Essentials Plus": "Not included",
+        "Frontline Standard": "N/A",
+        "Frontline Plus": "N/A"
+      },
+      {
+        "feature": "Generative AI security protections",
+        "Enterprise Essentials": "N/A",
+        "Enterprise Essentials Plus": "N/A",
+        "Frontline Standard": "Included",
+        "Frontline Plus": "Included"
+      },
+      {
+        "feature": "Multi-party approval for sensitive actions",
+        "Enterprise Essentials": "Not included",
+        "Enterprise Essentials Plus": "Included",
+        "Frontline Standard": "N/A",
+        "Frontline Plus": "N/A"
+      },
+      {
+        "feature": "Password monitoring and strength control",
+        "Enterprise Essentials": "Included",
+        "Enterprise Essentials Plus": "Included",
+        "Frontline Standard": "Included",
+        "Frontline Plus": "Included"
       },
       {
         "feature": "Security keys for 2-Step Verification",
@@ -420,135 +546,9 @@
         "Frontline Plus": "Included"
       },
       {
-        "feature": "Collaboration with trusted external domains",
-        "Enterprise Essentials": "Included",
-        "Enterprise Essentials Plus": "Included",
-        "Frontline Standard": "N/A",
-        "Frontline Plus": "N/A"
-      },
-      {
-        "feature": "Basic data exports",
-        "Enterprise Essentials": "Included",
-        "Enterprise Essentials Plus": "Included",
-        "Frontline Standard": "N/A",
-        "Frontline Plus": "N/A"
-      },
-      {
-        "feature": "Enforced SSL connections",
-        "Enterprise Essentials": "Included",
-        "Enterprise Essentials Plus": "Included",
-        "Frontline Standard": "Included",
-        "Frontline Plus": "Included"
-      },
-      {
-        "feature": "Password monitoring and strength control",
-        "Enterprise Essentials": "Included",
-        "Enterprise Essentials Plus": "Included",
-        "Frontline Standard": "Included",
-        "Frontline Plus": "Included"
-      },
-      {
-        "feature": "Drive data protection insights report",
-        "Enterprise Essentials": "Included",
-        "Enterprise Essentials Plus": "Included",
-        "Frontline Standard": "Included",
-        "Frontline Plus": "Included"
-      },
-      {
         "feature": "Set session length for Google services",
         "Enterprise Essentials": "Not included",
         "Enterprise Essentials Plus": "Included",
-        "Frontline Standard": "Included",
-        "Frontline Plus": "Included"
-      },
-      {
-        "feature": "Data loss prevention (DLP)",
-        "Enterprise Essentials": "Not included",
-        "Enterprise Essentials Plus": "Included",
-        "Frontline Standard": "Included",
-        "Frontline Plus": "Included"
-      },
-      {
-        "feature": "Control access based on user and device context (Context-Aware Access)",
-        "Enterprise Essentials": "Not included",
-        "Enterprise Essentials Plus": "Included",
-        "Frontline Standard": "N/A",
-        "Frontline Plus": "N/A"
-      },
-      {
-        "feature": "Cloud Identity Premium security management (no separate license required)",
-        "Enterprise Essentials": "Not included",
-        "Enterprise Essentials Plus": "Included",
-        "Frontline Standard": "Included",
-        "Frontline Plus": "Included"
-      },
-      {
-        "feature": "Multi-party approval for sensitive actions",
-        "Enterprise Essentials": "Not included",
-        "Enterprise Essentials Plus": "Included",
-        "Frontline Standard": "N/A",
-        "Frontline Plus": "N/A"
-      },
-      {
-        "feature": "Advanced data exports",
-        "Enterprise Essentials": "Not included",
-        "Enterprise Essentials Plus": "Included",
-        "Frontline Standard": "Not included",
-        "Frontline Plus": "Included"
-      },
-      {
-        "feature": "Gemini AI security protections",
-        "Enterprise Essentials": "Not included",
-        "Enterprise Essentials Plus": "Not included",
-        "Frontline Standard": "N/A",
-        "Frontline Plus": "N/A"
-      },
-      {
-        "feature": "Client-side encryption",
-        "Enterprise Essentials": "Not included",
-        "Enterprise Essentials Plus": "Not included",
-        "Frontline Standard": "Not included",
-        "Frontline Plus": "Included"
-      },
-      {
-        "feature": "Assured Controls for managing compliance & security requirements (add-on)",
-        "Enterprise Essentials": "Not included",
-        "Enterprise Essentials Plus": "Not included",
-        "Frontline Standard": "Not included",
-        "Frontline Plus": "Included"
-      },
-      {
-        "feature": "2-Step Verification",
-        "Enterprise Essentials": "N/A",
-        "Enterprise Essentials Plus": "N/A",
-        "Frontline Standard": "Included",
-        "Frontline Plus": "Included"
-      },
-      {
-        "feature": "Collaboration with trusted domains",
-        "Enterprise Essentials": "N/A",
-        "Enterprise Essentials Plus": "N/A",
-        "Frontline Standard": "Included",
-        "Frontline Plus": "Included"
-      },
-      {
-        "feature": "Basic date export",
-        "Enterprise Essentials": "N/A",
-        "Enterprise Essentials Plus": "N/A",
-        "Frontline Standard": "Included",
-        "Frontline Plus": "Included"
-      },
-      {
-        "feature": "Generative AI security protections",
-        "Enterprise Essentials": "N/A",
-        "Enterprise Essentials Plus": "N/A",
-        "Frontline Standard": "Included",
-        "Frontline Plus": "Included"
-      },
-      {
-        "feature": "Control app access based on user and device context (Context-Aware Access)",
-        "Enterprise Essentials": "N/A",
-        "Enterprise Essentials Plus": "N/A",
         "Frontline Standard": "Included",
         "Frontline Plus": "Included"
       }
@@ -572,16 +572,16 @@
         "Frontline Plus": "Included"
       },
       {
-        "feature": "Security investigation tool Log event reporting\u00a0with premium features: Take action based on search results Automate security threat response with activity rules Customize searches with nested queries Group results by attribute when searching Create a custom chart based on an investigation Save, share, delete, and duplicate investigations See also below: Common use cases Log events",
-        "Enterprise Essentials": "Not included",
-        "Enterprise Essentials Plus": "Included",
-        "Frontline Standard": "N/A",
-        "Frontline Plus": "N/A"
-      },
-      {
         "feature": "Security dashboard reports ( See dashboard reports below )",
         "Enterprise Essentials": "Not included",
         "Enterprise Essentials Plus": "Included",
+        "Frontline Standard": "Included",
+        "Frontline Plus": "Included"
+      },
+      {
+        "feature": "Security health page ( See settings analyses below )",
+        "Enterprise Essentials": "N/A",
+        "Enterprise Essentials Plus": "N/A",
         "Frontline Standard": "Included",
         "Frontline Plus": "Included"
       },
@@ -600,11 +600,11 @@
         "Frontline Plus": "Included"
       },
       {
-        "feature": "Security health page ( See settings analyses below )",
-        "Enterprise Essentials": "N/A",
-        "Enterprise Essentials Plus": "N/A",
-        "Frontline Standard": "Included",
-        "Frontline Plus": "Included"
+        "feature": "Security investigation tool Log event reporting\u00a0with premium features: Take action based on search results Automate security threat response with activity rules Customize searches with nested queries Group results by attribute when searching Create a custom chart based on an investigation Save, share, delete, and duplicate investigations See also below: Common use cases Log events",
+        "Enterprise Essentials": "Not included",
+        "Enterprise Essentials Plus": "Included",
+        "Frontline Standard": "N/A",
+        "Frontline Plus": "N/A"
       }
     ]
   },
@@ -612,37 +612,9 @@
     "section": "Data regions",
     "features": [
       {
-        "feature": "Set a single data at rest region policy for everyone in your organization",
-        "Enterprise Essentials": "Not included",
-        "Enterprise Essentials Plus": "Included",
-        "Frontline Standard": "Included",
-        "Frontline Plus": "Included"
-      },
-      {
-        "feature": "Set data\u00a0at rest region policies for organizational units or groups",
-        "Enterprise Essentials": "Not included",
-        "Enterprise Essentials Plus": "Included",
-        "Frontline Standard": "N/A",
-        "Frontline Plus": "N/A"
-      },
-      {
-        "feature": "Basic data regions reports (Includes data at rest, versions, and policy summaries)",
-        "Enterprise Essentials": "Not included",
-        "Enterprise Essentials Plus": "Included",
-        "Frontline Standard": "Not included",
-        "Frontline Plus": "Included"
-      },
-      {
-        "feature": "Set data region processing policies (including for organizational units and groups)",
-        "Enterprise Essentials": "Not included",
-        "Enterprise Essentials Plus": "Included",
-        "Frontline Standard": "N/A",
-        "Frontline Plus": "N/A"
-      },
-      {
-        "feature": "Advanced settings for data regions",
-        "Enterprise Essentials": "Not included",
-        "Enterprise Essentials Plus": "Included",
+        "feature": "Advanced data regions reports (Includes data processing by region and service, and data at rest by service)",
+        "Enterprise Essentials": "N/A",
+        "Enterprise Essentials Plus": "N/A",
         "Frontline Standard": "Not included",
         "Frontline Plus": "Included"
       },
@@ -654,11 +626,32 @@
         "Frontline Plus": "N/A"
       },
       {
+        "feature": "Advanced settings for data regions",
+        "Enterprise Essentials": "Not included",
+        "Enterprise Essentials Plus": "Included",
+        "Frontline Standard": "Not included",
+        "Frontline Plus": "Included"
+      },
+      {
+        "feature": "Basic data regions reports (Includes data at rest, versions, and policy summaries)",
+        "Enterprise Essentials": "Not included",
+        "Enterprise Essentials Plus": "Included",
+        "Frontline Standard": "Not included",
+        "Frontline Plus": "Included"
+      },
+      {
         "feature": "Policy compliance log events",
         "Enterprise Essentials": "Not included",
         "Enterprise Essentials Plus": "Not included",
         "Frontline Standard": "N/A",
         "Frontline Plus": "N/A"
+      },
+      {
+        "feature": "Set a single data at rest region policy for everyone in your organization",
+        "Enterprise Essentials": "Not included",
+        "Enterprise Essentials Plus": "Included",
+        "Frontline Standard": "Included",
+        "Frontline Plus": "Included"
       },
       {
         "feature": "Set data at rest region policies for organizational units or groups",
@@ -668,6 +661,13 @@
         "Frontline Plus": "Included"
       },
       {
+        "feature": "Set data region processing policies (including for organizational units and groups)",
+        "Enterprise Essentials": "Not included",
+        "Enterprise Essentials Plus": "Included",
+        "Frontline Standard": "N/A",
+        "Frontline Plus": "N/A"
+      },
+      {
         "feature": "Set data region processing policies (Including for organizational units and groups)",
         "Enterprise Essentials": "N/A",
         "Enterprise Essentials Plus": "N/A",
@@ -675,11 +675,11 @@
         "Frontline Plus": "Included"
       },
       {
-        "feature": "Advanced data regions reports (Includes data processing by region and service, and data at rest by service)",
-        "Enterprise Essentials": "N/A",
-        "Enterprise Essentials Plus": "N/A",
-        "Frontline Standard": "Not included",
-        "Frontline Plus": "Included"
+        "feature": "Set data\u00a0at rest region policies for organizational units or groups",
+        "Enterprise Essentials": "Not included",
+        "Enterprise Essentials Plus": "Included",
+        "Frontline Standard": "N/A",
+        "Frontline Plus": "N/A"
       }
     ]
   },
@@ -687,7 +687,14 @@
     "section": "Security investigation tool: Common use cases",
     "features": [
       {
-        "feature": "Use the security investigation tool to end meetings",
+        "feature": "Investigate and take action on suspicious session cookies",
+        "Enterprise Essentials": "Not included",
+        "Enterprise Essentials Plus": "Included",
+        "Frontline Standard": "Included",
+        "Frontline Plus": "Included"
+      },
+      {
+        "feature": "Investigate Chat messages to moderate content and protect your data",
         "Enterprise Essentials": "Not included",
         "Enterprise Essentials Plus": "Included",
         "Frontline Standard": "Included",
@@ -701,10 +708,10 @@
         "Frontline Plus": "Included"
       },
       {
-        "feature": "Transfer a Drive file from an unknown owner",
+        "feature": "Investigate reports of malicious emails",
         "Enterprise Essentials": "Not included",
-        "Enterprise Essentials Plus": "Included",
-        "Frontline Standard": "Included",
+        "Enterprise Essentials Plus": "Not included",
+        "Frontline Standard": "Not included",
         "Frontline Plus": "Included"
       },
       {
@@ -722,24 +729,10 @@
         "Frontline Plus": "Included"
       },
       {
-        "feature": "Investigate and take action on suspicious session cookies",
+        "feature": "Transfer a Drive file from an unknown owner",
         "Enterprise Essentials": "Not included",
         "Enterprise Essentials Plus": "Included",
         "Frontline Standard": "Included",
-        "Frontline Plus": "Included"
-      },
-      {
-        "feature": "Investigate Chat messages to moderate content and protect your data",
-        "Enterprise Essentials": "Not included",
-        "Enterprise Essentials Plus": "Included",
-        "Frontline Standard": "Included",
-        "Frontline Plus": "Included"
-      },
-      {
-        "feature": "Investigate reports of malicious emails",
-        "Enterprise Essentials": "Not included",
-        "Enterprise Essentials Plus": "Not included",
-        "Frontline Standard": "Not included",
         "Frontline Plus": "Included"
       },
       {
@@ -748,12 +741,26 @@
         "Enterprise Essentials Plus": "Not included",
         "Frontline Standard": "Not included",
         "Frontline Plus": "Included"
+      },
+      {
+        "feature": "Use the security investigation tool to end meetings",
+        "Enterprise Essentials": "Not included",
+        "Enterprise Essentials Plus": "Included",
+        "Frontline Standard": "Included",
+        "Frontline Plus": "Included"
       }
     ]
   },
   {
     "section": "Log events\u00a0of user and admin activity",
     "features": [
+      {
+        "feature": "Access Transparency log events",
+        "Enterprise Essentials": "Not included",
+        "Enterprise Essentials Plus": "Included",
+        "Frontline Standard": "N/A",
+        "Frontline Plus": "N/A"
+      },
       {
         "feature": "Admin data action log events",
         "Enterprise Essentials": "Included",
@@ -779,6 +786,13 @@
         "feature": "Chat log events",
         "Enterprise Essentials": "Included",
         "Enterprise Essentials Plus": "Included",
+        "Frontline Standard": "N/A",
+        "Frontline Plus": "N/A"
+      },
+      {
+        "feature": "Chrome browsers events",
+        "Enterprise Essentials": "Not included",
+        "Enterprise Essentials Plus": "Not included",
         "Frontline Standard": "N/A",
         "Frontline Plus": "N/A"
       },
@@ -825,6 +839,13 @@
         "Frontline Plus": "N/A"
       },
       {
+        "feature": "Devices log events",
+        "Enterprise Essentials": "Not included",
+        "Enterprise Essentials Plus": "Included",
+        "Frontline Standard": "N/A",
+        "Frontline Plus": "N/A"
+      },
+      {
         "feature": "Directory Sync log events",
         "Enterprise Essentials": "Included",
         "Enterprise Essentials Plus": "Included",
@@ -835,6 +856,20 @@
         "feature": "Drive log events",
         "Enterprise Essentials": "Included",
         "Enterprise Essentials Plus": "Included",
+        "Frontline Standard": "N/A",
+        "Frontline Plus": "N/A"
+      },
+      {
+        "feature": "Gmail log events",
+        "Enterprise Essentials": "Not included",
+        "Enterprise Essentials Plus": "Not included",
+        "Frontline Standard": "N/A",
+        "Frontline Plus": "N/A"
+      },
+      {
+        "feature": "Gmail messages",
+        "Enterprise Essentials": "Not included",
+        "Enterprise Essentials Plus": "Not included",
         "Frontline Standard": "N/A",
         "Frontline Plus": "N/A"
       },
@@ -944,6 +979,13 @@
         "Frontline Plus": "N/A"
       },
       {
+        "feature": "Users events",
+        "Enterprise Essentials": "Not included",
+        "Enterprise Essentials Plus": "Included",
+        "Frontline Standard": "N/A",
+        "Frontline Plus": "N/A"
+      },
+      {
         "feature": "Vault log events",
         "Enterprise Essentials": "Included",
         "Enterprise Essentials Plus": "Included",
@@ -956,48 +998,6 @@
         "Enterprise Essentials Plus": "Included",
         "Frontline Standard": "N/A",
         "Frontline Plus": "N/A"
-      },
-      {
-        "feature": "Access Transparency log events",
-        "Enterprise Essentials": "Not included",
-        "Enterprise Essentials Plus": "Included",
-        "Frontline Standard": "N/A",
-        "Frontline Plus": "N/A"
-      },
-      {
-        "feature": "Devices log events",
-        "Enterprise Essentials": "Not included",
-        "Enterprise Essentials Plus": "Included",
-        "Frontline Standard": "N/A",
-        "Frontline Plus": "N/A"
-      },
-      {
-        "feature": "Users events",
-        "Enterprise Essentials": "Not included",
-        "Enterprise Essentials Plus": "Included",
-        "Frontline Standard": "N/A",
-        "Frontline Plus": "N/A"
-      },
-      {
-        "feature": "Chrome browsers events",
-        "Enterprise Essentials": "Not included",
-        "Enterprise Essentials Plus": "Not included",
-        "Frontline Standard": "N/A",
-        "Frontline Plus": "N/A"
-      },
-      {
-        "feature": "Gmail log events",
-        "Enterprise Essentials": "Not included",
-        "Enterprise Essentials Plus": "Not included",
-        "Frontline Standard": "N/A",
-        "Frontline Plus": "N/A"
-      },
-      {
-        "feature": "Gmail messages",
-        "Enterprise Essentials": "Not included",
-        "Enterprise Essentials Plus": "Not included",
-        "Frontline Standard": "N/A",
-        "Frontline Plus": "N/A"
       }
     ]
   },
@@ -1005,28 +1005,35 @@
     "section": "Security Dashboard reports",
     "features": [
       {
-        "feature": "DLP incidents report",
+        "feature": "Authentication report",
+        "Enterprise Essentials": "Not included",
+        "Enterprise Essentials Plus": "Included",
+        "Frontline Standard": "Not included",
+        "Frontline Plus": "Included"
+      },
+      {
+        "feature": "Chrome data protection summary report",
         "Enterprise Essentials": "Not included",
         "Enterprise Essentials Plus": "Included",
         "Frontline Standard": "Included",
         "Frontline Plus": "Included"
       },
       {
-        "feature": "Top policy incidents report",
+        "feature": "Chrome high risk domains report",
         "Enterprise Essentials": "Not included",
         "Enterprise Essentials Plus": "Included",
         "Frontline Standard": "Included",
         "Frontline Plus": "Included"
       },
       {
-        "feature": "User login attempts report",
+        "feature": "Chrome high risk users report",
         "Enterprise Essentials": "Not included",
         "Enterprise Essentials Plus": "Included",
         "Frontline Standard": "Included",
         "Frontline Plus": "Included"
       },
       {
-        "feature": "Failed device password attempts report",
+        "feature": "Chrome threat protection summary report",
         "Enterprise Essentials": "Not included",
         "Enterprise Essentials Plus": "Included",
         "Frontline Standard": "Included",
@@ -1040,10 +1047,59 @@
         "Frontline Plus": "Included"
       },
       {
-        "feature": "Suspicious device activities report",
+        "feature": "Custom settings report",
+        "Enterprise Essentials": "Not included",
+        "Enterprise Essentials Plus": "Included",
+        "Frontline Standard": "Not included",
+        "Frontline Plus": "Included"
+      },
+      {
+        "feature": "DLP incidents report",
         "Enterprise Essentials": "Not included",
         "Enterprise Essentials Plus": "Included",
         "Frontline Standard": "Included",
+        "Frontline Plus": "Included"
+      },
+      {
+        "feature": "Domain types with most sensitive content transfer on Chrome report",
+        "Enterprise Essentials": "Not included",
+        "Enterprise Essentials Plus": "Included",
+        "Frontline Standard": "Included",
+        "Frontline Plus": "Included"
+      },
+      {
+        "feature": "Domains with most sensitive content transfer on Chrome report",
+        "Enterprise Essentials": "Not included",
+        "Enterprise Essentials Plus": "Included",
+        "Frontline Standard": "Included",
+        "Frontline Plus": "Included"
+      },
+      {
+        "feature": "Encryption report",
+        "Enterprise Essentials": "Not included",
+        "Enterprise Essentials Plus": "Included",
+        "Frontline Standard": "Not included",
+        "Frontline Plus": "Included"
+      },
+      {
+        "feature": "Failed device password attempts report",
+        "Enterprise Essentials": "Not included",
+        "Enterprise Essentials Plus": "Included",
+        "Frontline Standard": "Included",
+        "Frontline Plus": "Included"
+      },
+      {
+        "feature": "File exposure report",
+        "Enterprise Essentials": "Not included",
+        "Enterprise Essentials Plus": "Included",
+        "Frontline Standard": "Not included",
+        "Frontline Plus": "Included"
+      },
+      {
+        "feature": "Message delivery report",
+        "Enterprise Essentials": "Not included",
+        "Enterprise Essentials Plus": "Included",
+        "Frontline Standard": "Not included",
         "Frontline Plus": "Included"
       },
       {
@@ -1068,105 +1124,7 @@
         "Frontline Plus": "Included"
       },
       {
-        "feature": "Users with most sensitive content transfer on Chrome report",
-        "Enterprise Essentials": "Not included",
-        "Enterprise Essentials Plus": "Included",
-        "Frontline Standard": "Included",
-        "Frontline Plus": "Included"
-      },
-      {
-        "feature": "Domains with most sensitive content transfer on Chrome report",
-        "Enterprise Essentials": "Not included",
-        "Enterprise Essentials Plus": "Included",
-        "Frontline Standard": "Included",
-        "Frontline Plus": "Included"
-      },
-      {
-        "feature": "Domain types with most sensitive content transfer on Chrome report",
-        "Enterprise Essentials": "Not included",
-        "Enterprise Essentials Plus": "Included",
-        "Frontline Standard": "Included",
-        "Frontline Plus": "Included"
-      },
-      {
-        "feature": "Chrome threat protection summary report",
-        "Enterprise Essentials": "Not included",
-        "Enterprise Essentials Plus": "Included",
-        "Frontline Standard": "Included",
-        "Frontline Plus": "Included"
-      },
-      {
-        "feature": "Chrome data protection summary report",
-        "Enterprise Essentials": "Not included",
-        "Enterprise Essentials Plus": "Included",
-        "Frontline Standard": "Included",
-        "Frontline Plus": "Included"
-      },
-      {
-        "feature": "Chrome high risk users report",
-        "Enterprise Essentials": "Not included",
-        "Enterprise Essentials Plus": "Included",
-        "Frontline Standard": "Included",
-        "Frontline Plus": "Included"
-      },
-      {
-        "feature": "Chrome high risk domains report",
-        "Enterprise Essentials": "Not included",
-        "Enterprise Essentials Plus": "Included",
-        "Frontline Standard": "Included",
-        "Frontline Plus": "Included"
-      },
-      {
-        "feature": "Suspicious attachments report",
-        "Enterprise Essentials": "Not included",
-        "Enterprise Essentials Plus": "Included",
-        "Frontline Standard": "Not included",
-        "Frontline Plus": "Included"
-      },
-      {
-        "feature": "File exposure report",
-        "Enterprise Essentials": "Not included",
-        "Enterprise Essentials Plus": "Included",
-        "Frontline Standard": "Not included",
-        "Frontline Plus": "Included"
-      },
-      {
-        "feature": "Authentication report",
-        "Enterprise Essentials": "Not included",
-        "Enterprise Essentials Plus": "Included",
-        "Frontline Standard": "Not included",
-        "Frontline Plus": "Included"
-      },
-      {
-        "feature": "Custom settings report",
-        "Enterprise Essentials": "Not included",
-        "Enterprise Essentials Plus": "Included",
-        "Frontline Standard": "Not included",
-        "Frontline Plus": "Included"
-      },
-      {
-        "feature": "Encryption report",
-        "Enterprise Essentials": "Not included",
-        "Enterprise Essentials Plus": "Included",
-        "Frontline Standard": "Not included",
-        "Frontline Plus": "Included"
-      },
-      {
-        "feature": "Message delivery report",
-        "Enterprise Essentials": "Not included",
-        "Enterprise Essentials Plus": "Included",
-        "Frontline Standard": "Not included",
-        "Frontline Plus": "Included"
-      },
-      {
         "feature": "Spam filter report",
-        "Enterprise Essentials": "Not included",
-        "Enterprise Essentials Plus": "Included",
-        "Frontline Standard": "Not included",
-        "Frontline Plus": "Included"
-      },
-      {
-        "feature": "User report",
         "Enterprise Essentials": "Not included",
         "Enterprise Essentials Plus": "Included",
         "Frontline Standard": "Not included",
@@ -1178,6 +1136,48 @@
         "Enterprise Essentials Plus": "Included",
         "Frontline Standard": "Not included",
         "Frontline Plus": "Included"
+      },
+      {
+        "feature": "Suspicious attachments report",
+        "Enterprise Essentials": "Not included",
+        "Enterprise Essentials Plus": "Included",
+        "Frontline Standard": "Not included",
+        "Frontline Plus": "Included"
+      },
+      {
+        "feature": "Suspicious device activities report",
+        "Enterprise Essentials": "Not included",
+        "Enterprise Essentials Plus": "Included",
+        "Frontline Standard": "Included",
+        "Frontline Plus": "Included"
+      },
+      {
+        "feature": "Top policy incidents report",
+        "Enterprise Essentials": "Not included",
+        "Enterprise Essentials Plus": "Included",
+        "Frontline Standard": "Included",
+        "Frontline Plus": "Included"
+      },
+      {
+        "feature": "User login attempts report",
+        "Enterprise Essentials": "Not included",
+        "Enterprise Essentials Plus": "Included",
+        "Frontline Standard": "Included",
+        "Frontline Plus": "Included"
+      },
+      {
+        "feature": "User report",
+        "Enterprise Essentials": "Not included",
+        "Enterprise Essentials Plus": "Included",
+        "Frontline Standard": "Not included",
+        "Frontline Plus": "Included"
+      },
+      {
+        "feature": "Users with most sensitive content transfer on Chrome report",
+        "Enterprise Essentials": "Not included",
+        "Enterprise Essentials Plus": "Included",
+        "Frontline Standard": "Included",
+        "Frontline Plus": "Included"
       }
     ]
   },
@@ -1185,24 +1185,17 @@
     "section": "Security health page reports",
     "features": [
       {
+        "feature": "Calendar settings that can be monitored Calendar sharing policy",
+        "Enterprise Essentials": "Not included",
+        "Enterprise Essentials Plus": "Included",
+        "Frontline Standard": "Not included",
+        "Frontline Plus": "Included"
+      },
+      {
         "feature": "Device management settings that can be monitored Blocking of compromised mobile devices Mobile management Mobile password requirements Device encryption Mobile inactivity reports Auto account wipe Application verification Installation of mobile applications from unknown sources External media storage",
         "Enterprise Essentials": "Not included",
         "Enterprise Essentials Plus": "Included",
         "Frontline Standard": "Included",
-        "Frontline Plus": "Included"
-      },
-      {
-        "feature": "Security settings that can be monitored Two-step verification for users Two-step verification for admins Security key enforcement for admins Security key enforcement for users",
-        "Enterprise Essentials": "Not included",
-        "Enterprise Essentials Plus": "Included",
-        "Frontline Standard": "Included",
-        "Frontline Plus": "Included"
-      },
-      {
-        "feature": "Gmail settings that can be monitored Automatic email forwarding Comprehensive mail storage Bypassing spam filters for internal senders POP and IMAP access for users DKIM, SPF records, & DMARC Approved senders without authentication Approved domain senders Email whitelist IPs Add spam headers setting to all default routing rules MX record configuration MTA-STS configuration Attachment safety Links and external images safety Spoofing and authentication safety",
-        "Enterprise Essentials": "Not included",
-        "Enterprise Essentials Plus": "Included",
-        "Frontline Standard": "Not included",
         "Frontline Plus": "Included"
       },
       {
@@ -1213,7 +1206,7 @@
         "Frontline Plus": "Included"
       },
       {
-        "feature": "Hangouts settings that can be monitored Hangouts out of domain warning",
+        "feature": "Gmail settings that can be monitored Automatic email forwarding Comprehensive mail storage Bypassing spam filters for internal senders POP and IMAP access for users DKIM, SPF records, & DMARC Approved senders without authentication Approved domain senders Email whitelist IPs Add spam headers setting to all default routing rules MX record configuration MTA-STS configuration Attachment safety Links and external images safety Spoofing and authentication safety",
         "Enterprise Essentials": "Not included",
         "Enterprise Essentials Plus": "Included",
         "Frontline Standard": "Not included",
@@ -1227,21 +1220,7 @@
         "Frontline Plus": "Included"
       },
       {
-        "feature": "Marketplace apps settings that can be monitored Google Workspace\u00a0Marketplace applications usage",
-        "Enterprise Essentials": "Not included",
-        "Enterprise Essentials Plus": "Included",
-        "Frontline Standard": "N/A",
-        "Frontline Plus": "N/A"
-      },
-      {
-        "feature": "Calendar settings that can be monitored Calendar sharing policy",
-        "Enterprise Essentials": "Not included",
-        "Enterprise Essentials Plus": "Included",
-        "Frontline Standard": "Not included",
-        "Frontline Plus": "Included"
-      },
-      {
-        "feature": "Sites settings that can be monitored Access to Calendar when offline",
+        "feature": "Hangouts settings that can be monitored Hangouts out of domain warning",
         "Enterprise Essentials": "Not included",
         "Enterprise Essentials Plus": "Included",
         "Frontline Standard": "Not included",
@@ -1253,6 +1232,27 @@
         "Enterprise Essentials Plus": "N/A",
         "Frontline Standard": "Not included",
         "Frontline Plus": "Included"
+      },
+      {
+        "feature": "Marketplace apps settings that can be monitored Google Workspace\u00a0Marketplace applications usage",
+        "Enterprise Essentials": "Not included",
+        "Enterprise Essentials Plus": "Included",
+        "Frontline Standard": "N/A",
+        "Frontline Plus": "N/A"
+      },
+      {
+        "feature": "Security settings that can be monitored Two-step verification for users Two-step verification for admins Security key enforcement for admins Security key enforcement for users",
+        "Enterprise Essentials": "Not included",
+        "Enterprise Essentials Plus": "Included",
+        "Frontline Standard": "Included",
+        "Frontline Plus": "Included"
+      },
+      {
+        "feature": "Sites settings that can be monitored Access to Calendar when offline",
+        "Enterprise Essentials": "Not included",
+        "Enterprise Essentials Plus": "Included",
+        "Frontline Standard": "Not included",
+        "Frontline Plus": "Included"
       }
     ]
   },
@@ -1260,60 +1260,11 @@
     "section": "Device security settings",
     "features": [
       {
-        "feature": "Fundamental endpoint management",
-        "Enterprise Essentials": "Not included",
-        "Enterprise Essentials Plus": "Not included",
-        "Frontline Standard": "Not included",
-        "Frontline Plus": "Not included"
-      },
-      {
-        "feature": "Basic passcode enforcement (mobile)",
-        "Enterprise Essentials": "Included",
-        "Enterprise Essentials Plus": "Included",
-        "Frontline Standard": "Included",
-        "Frontline Plus": "Included"
-      },
-      {
-        "feature": "Google Credential Provider for Windows (standalone)",
-        "Enterprise Essentials": "Included",
-        "Enterprise Essentials Plus": "Included",
-        "Frontline Standard": "Included",
-        "Frontline Plus": "Included"
-      },
-      {
-        "feature": "Network management (ChromeOS, meeting room hardware)",
-        "Enterprise Essentials": "Included",
-        "Enterprise Essentials Plus": "Included",
-        "Frontline Standard": "Included",
-        "Frontline Plus": "Included"
-      },
-      {
         "feature": "Advanced endpoint management",
         "Enterprise Essentials": "Not included",
         "Enterprise Essentials Plus": "Not included",
         "Frontline Standard": "Not included",
         "Frontline Plus": "Not included"
-      },
-      {
-        "feature": "Strong passcode enforcement",
-        "Enterprise Essentials": "Included",
-        "Enterprise Essentials Plus": "Included",
-        "Frontline Standard": "N/A",
-        "Frontline Plus": "N/A"
-      },
-      {
-        "feature": "Network management (mobile)",
-        "Enterprise Essentials": "Included",
-        "Enterprise Essentials Plus": "Included",
-        "Frontline Standard": "Included",
-        "Frontline Plus": "Included"
-      },
-      {
-        "feature": "Mobile device security policies",
-        "Enterprise Essentials": "Included",
-        "Enterprise Essentials Plus": "Included",
-        "Frontline Standard": "Included",
-        "Frontline Plus": "Included"
       },
       {
         "feature": "Android work profiles",
@@ -1323,7 +1274,14 @@
         "Frontline Plus": "Included"
       },
       {
-        "feature": "Strong password enforcement",
+        "feature": "Basic passcode enforcement (mobile)",
+        "Enterprise Essentials": "Included",
+        "Enterprise Essentials Plus": "Included",
+        "Frontline Standard": "Included",
+        "Frontline Plus": "Included"
+      },
+      {
+        "feature": "Context-Aware Access",
         "Enterprise Essentials": "N/A",
         "Enterprise Essentials Plus": "N/A",
         "Frontline Standard": "Included",
@@ -1335,6 +1293,20 @@
         "Enterprise Essentials Plus": "N/A",
         "Frontline Standard": "Not included",
         "Frontline Plus": "Not included"
+      },
+      {
+        "feature": "Fundamental endpoint management",
+        "Enterprise Essentials": "Not included",
+        "Enterprise Essentials Plus": "Not included",
+        "Frontline Standard": "Not included",
+        "Frontline Plus": "Not included"
+      },
+      {
+        "feature": "Google Credential Provider for Windows (standalone)",
+        "Enterprise Essentials": "Included",
+        "Enterprise Essentials Plus": "Included",
+        "Frontline Standard": "Included",
+        "Frontline Plus": "Included"
       },
       {
         "feature": "iOS data protection",
@@ -1351,7 +1323,35 @@
         "Frontline Plus": "Included"
       },
       {
-        "feature": "Context-Aware Access",
+        "feature": "Mobile device security policies",
+        "Enterprise Essentials": "Included",
+        "Enterprise Essentials Plus": "Included",
+        "Frontline Standard": "Included",
+        "Frontline Plus": "Included"
+      },
+      {
+        "feature": "Network management (ChromeOS, meeting room hardware)",
+        "Enterprise Essentials": "Included",
+        "Enterprise Essentials Plus": "Included",
+        "Frontline Standard": "Included",
+        "Frontline Plus": "Included"
+      },
+      {
+        "feature": "Network management (mobile)",
+        "Enterprise Essentials": "Included",
+        "Enterprise Essentials Plus": "Included",
+        "Frontline Standard": "Included",
+        "Frontline Plus": "Included"
+      },
+      {
+        "feature": "Strong passcode enforcement",
+        "Enterprise Essentials": "Included",
+        "Enterprise Essentials Plus": "Included",
+        "Frontline Standard": "N/A",
+        "Frontline Plus": "N/A"
+      },
+      {
+        "feature": "Strong password enforcement",
         "Enterprise Essentials": "N/A",
         "Enterprise Essentials Plus": "N/A",
         "Frontline Standard": "Included",
@@ -1363,63 +1363,7 @@
     "section": "Device management",
     "features": [
       {
-        "feature": "Fundamental endpoint management",
-        "Enterprise Essentials": "Not included",
-        "Enterprise Essentials Plus": "Not included",
-        "Frontline Standard": "Not included",
-        "Frontline Plus": "Not included"
-      },
-      {
-        "feature": "Basic mobile device management",
-        "Enterprise Essentials": "Included",
-        "Enterprise Essentials Plus": "Included",
-        "Frontline Standard": "Included",
-        "Frontline Plus": "Included"
-      },
-      {
-        "feature": "Fundamental management for computers",
-        "Enterprise Essentials": "Included",
-        "Enterprise Essentials Plus": "Included",
-        "Frontline Standard": "Included",
-        "Frontline Plus": "Included"
-      },
-      {
-        "feature": "Endpoint verification",
-        "Enterprise Essentials": "Included",
-        "Enterprise Essentials Plus": "Included",
-        "Frontline Standard": "Included",
-        "Frontline Plus": "Included"
-      },
-      {
-        "feature": "Company-owned device inventory (endpoints)",
-        "Enterprise Essentials": "Included",
-        "Enterprise Essentials Plus": "Included",
-        "Frontline Standard": "Included",
-        "Frontline Plus": "Included"
-      },
-      {
-        "feature": "Remote account sign-out",
-        "Enterprise Essentials": "Included",
-        "Enterprise Essentials Plus": "Included",
-        "Frontline Standard": "Included",
-        "Frontline Plus": "Included"
-      },
-      {
-        "feature": "Remote account wipe (mobile)",
-        "Enterprise Essentials": "Included",
-        "Enterprise Essentials Plus": "Included",
-        "Frontline Standard": "Included",
-        "Frontline Plus": "Included"
-      },
-      {
-        "feature": "Block devices",
-        "Enterprise Essentials": "Included",
-        "Enterprise Essentials Plus": "Included",
-        "Frontline Standard": "Included",
-        "Frontline Plus": "Included"
-      },
-      {
-        "feature": "Drive for desktop",
+        "feature": "Admin approval of devices",
         "Enterprise Essentials": "Included",
         "Enterprise Essentials Plus": "Included",
         "Frontline Standard": "Included",
@@ -1440,14 +1384,98 @@
         "Frontline Plus": "Included"
       },
       {
-        "feature": "Zero-touch enrollment for Android devices",
+        "feature": "Basic mobile device management",
         "Enterprise Essentials": "Included",
         "Enterprise Essentials Plus": "Included",
         "Frontline Standard": "Included",
         "Frontline Plus": "Included"
       },
       {
-        "feature": "Admin approval of devices",
+        "feature": "BeyondCorp Alliance partner integrations",
+        "Enterprise Essentials": "N/A",
+        "Enterprise Essentials Plus": "N/A",
+        "Frontline Standard": "Included",
+        "Frontline Plus": "Included"
+      },
+      {
+        "feature": "Block devices",
+        "Enterprise Essentials": "Included",
+        "Enterprise Essentials Plus": "Included",
+        "Frontline Standard": "Included",
+        "Frontline Plus": "Included"
+      },
+      {
+        "feature": "Company-owned device inventory (Android)",
+        "Enterprise Essentials": "N/A",
+        "Enterprise Essentials Plus": "N/A",
+        "Frontline Standard": "Included",
+        "Frontline Plus": "Included"
+      },
+      {
+        "feature": "Company-owned device inventory (endpoints)",
+        "Enterprise Essentials": "Included",
+        "Enterprise Essentials Plus": "Included",
+        "Frontline Standard": "Included",
+        "Frontline Plus": "Included"
+      },
+      {
+        "feature": "Company-owned device inventory (iOS)",
+        "Enterprise Essentials": "N/A",
+        "Enterprise Essentials Plus": "N/A",
+        "Frontline Standard": "Included",
+        "Frontline Plus": "Included"
+      },
+      {
+        "feature": "Drive for desktop",
+        "Enterprise Essentials": "Included",
+        "Enterprise Essentials Plus": "Included",
+        "Frontline Standard": "Included",
+        "Frontline Plus": "Included"
+      },
+      {
+        "feature": "Endpoint verification",
+        "Enterprise Essentials": "Included",
+        "Enterprise Essentials Plus": "Included",
+        "Frontline Standard": "Included",
+        "Frontline Plus": "Included"
+      },
+      {
+        "feature": "Enterprise endpoint management",
+        "Enterprise Essentials": "N/A",
+        "Enterprise Essentials Plus": "N/A",
+        "Frontline Standard": "Not included",
+        "Frontline Plus": "Not included"
+      },
+      {
+        "feature": "Fundamental endpoint management",
+        "Enterprise Essentials": "Not included",
+        "Enterprise Essentials Plus": "Not included",
+        "Frontline Standard": "Not included",
+        "Frontline Plus": "Not included"
+      },
+      {
+        "feature": "Fundamental management for computers",
+        "Enterprise Essentials": "Included",
+        "Enterprise Essentials Plus": "Included",
+        "Frontline Standard": "Included",
+        "Frontline Plus": "Included"
+      },
+      {
+        "feature": "Mobile device management rules",
+        "Enterprise Essentials": "N/A",
+        "Enterprise Essentials Plus": "N/A",
+        "Frontline Standard": "Included",
+        "Frontline Plus": "Included"
+      },
+      {
+        "feature": "Remote account sign-out",
+        "Enterprise Essentials": "Included",
+        "Enterprise Essentials Plus": "Included",
+        "Frontline Standard": "Included",
+        "Frontline Plus": "Included"
+      },
+      {
+        "feature": "Remote account wipe (mobile)",
         "Enterprise Essentials": "Included",
         "Enterprise Essentials Plus": "Included",
         "Frontline Standard": "Included",
@@ -1468,37 +1496,9 @@
         "Frontline Plus": "Included"
       },
       {
-        "feature": "Enterprise endpoint management",
-        "Enterprise Essentials": "N/A",
-        "Enterprise Essentials Plus": "N/A",
-        "Frontline Standard": "Not included",
-        "Frontline Plus": "Not included"
-      },
-      {
-        "feature": "Company-owned device inventory (Android)",
-        "Enterprise Essentials": "N/A",
-        "Enterprise Essentials Plus": "N/A",
-        "Frontline Standard": "Included",
-        "Frontline Plus": "Included"
-      },
-      {
-        "feature": "Company-owned device inventory (iOS)",
-        "Enterprise Essentials": "N/A",
-        "Enterprise Essentials Plus": "N/A",
-        "Frontline Standard": "Included",
-        "Frontline Plus": "Included"
-      },
-      {
-        "feature": "Mobile device management rules",
-        "Enterprise Essentials": "N/A",
-        "Enterprise Essentials Plus": "N/A",
-        "Frontline Standard": "Included",
-        "Frontline Plus": "Included"
-      },
-      {
-        "feature": "BeyondCorp Alliance partner integrations",
-        "Enterprise Essentials": "N/A",
-        "Enterprise Essentials Plus": "N/A",
+        "feature": "Zero-touch enrollment for Android devices",
+        "Enterprise Essentials": "Included",
+        "Enterprise Essentials Plus": "Included",
         "Frontline Standard": "Included",
         "Frontline Plus": "Included"
       }
@@ -1508,32 +1508,11 @@
     "section": "Mobile app management",
     "features": [
       {
-        "feature": "Fundamental endpoint management",
-        "Enterprise Essentials": "Not included",
-        "Enterprise Essentials Plus": "Not included",
-        "Frontline Standard": "Not included",
-        "Frontline Plus": "Not included"
-      },
-      {
-        "feature": "Public and private app management (Android)",
-        "Enterprise Essentials": "Included",
-        "Enterprise Essentials Plus": "Included",
-        "Frontline Standard": "Included",
-        "Frontline Plus": "Included"
-      },
-      {
         "feature": "Advanced endpoint management",
         "Enterprise Essentials": "Not included",
         "Enterprise Essentials Plus": "Not included",
         "Frontline Standard": "Not included",
         "Frontline Plus": "Not included"
-      },
-      {
-        "feature": "Public app management (iOS)",
-        "Enterprise Essentials": "Included",
-        "Enterprise Essentials Plus": "Included",
-        "Frontline Standard": "Included",
-        "Frontline Plus": "Included"
       },
       {
         "feature": "Android app runtime permissions",
@@ -1543,7 +1522,42 @@
         "Frontline Plus": "Included"
       },
       {
-        "feature": "Selectively distribute mobile apps to users",
+        "feature": "Enterprise endpoint management",
+        "Enterprise Essentials": "N/A",
+        "Enterprise Essentials Plus": "N/A",
+        "Frontline Standard": "Not included",
+        "Frontline Plus": "Not included"
+      },
+      {
+        "feature": "Fundamental endpoint management",
+        "Enterprise Essentials": "Not included",
+        "Enterprise Essentials Plus": "Not included",
+        "Frontline Standard": "Not included",
+        "Frontline Plus": "Not included"
+      },
+      {
+        "feature": "Managed Android app settings configurations",
+        "Enterprise Essentials": "Included",
+        "Enterprise Essentials Plus": "Included",
+        "Frontline Standard": "Included",
+        "Frontline Plus": "Included"
+      },
+      {
+        "feature": "Private app management (iOS)",
+        "Enterprise Essentials": "N/A",
+        "Enterprise Essentials Plus": "N/A",
+        "Frontline Standard": "Included",
+        "Frontline Plus": "Included"
+      },
+      {
+        "feature": "Public and private app management (Android)",
+        "Enterprise Essentials": "Included",
+        "Enterprise Essentials Plus": "Included",
+        "Frontline Standard": "Included",
+        "Frontline Plus": "Included"
+      },
+      {
+        "feature": "Public app management (iOS)",
         "Enterprise Essentials": "Included",
         "Enterprise Essentials Plus": "Included",
         "Frontline Standard": "Included",
@@ -1557,23 +1571,9 @@
         "Frontline Plus": "Included"
       },
       {
-        "feature": "Managed Android app settings configurations",
+        "feature": "Selectively distribute mobile apps to users",
         "Enterprise Essentials": "Included",
         "Enterprise Essentials Plus": "Included",
-        "Frontline Standard": "Included",
-        "Frontline Plus": "Included"
-      },
-      {
-        "feature": "Enterprise endpoint management",
-        "Enterprise Essentials": "N/A",
-        "Enterprise Essentials Plus": "N/A",
-        "Frontline Standard": "Not included",
-        "Frontline Plus": "Not included"
-      },
-      {
-        "feature": "Private app management (iOS)",
-        "Enterprise Essentials": "N/A",
-        "Enterprise Essentials Plus": "N/A",
         "Frontline Standard": "Included",
         "Frontline Plus": "Included"
       }
@@ -1583,28 +1583,7 @@
     "section": "Device details",
     "features": [
       {
-        "feature": "Fundamental endpoint management",
-        "Enterprise Essentials": "Not included",
-        "Enterprise Essentials Plus": "Not included",
-        "Frontline Standard": "Not included",
-        "Frontline Plus": "Not included"
-      },
-      {
-        "feature": "Basic device details (mobile)",
-        "Enterprise Essentials": "Included",
-        "Enterprise Essentials Plus": "Included",
-        "Frontline Standard": "Included",
-        "Frontline Plus": "Included"
-      },
-      {
-        "feature": "Basic endpoint details (computer & smart home devices)",
-        "Enterprise Essentials": "Included",
-        "Enterprise Essentials Plus": "Included",
-        "Frontline Standard": "Included",
-        "Frontline Plus": "Included"
-      },
-      {
-        "feature": "Basic device reports (Chrome & mobile)",
+        "feature": "Advanced device reports (mobile)",
         "Enterprise Essentials": "Included",
         "Enterprise Essentials Plus": "Included",
         "Frontline Standard": "Included",
@@ -1618,9 +1597,30 @@
         "Frontline Plus": "Not included"
       },
       {
-        "feature": "Advanced device reports (mobile)",
+        "feature": "Basic device details (mobile)",
         "Enterprise Essentials": "Included",
         "Enterprise Essentials Plus": "Included",
+        "Frontline Standard": "Included",
+        "Frontline Plus": "Included"
+      },
+      {
+        "feature": "Basic device reports (Chrome & mobile)",
+        "Enterprise Essentials": "Included",
+        "Enterprise Essentials Plus": "Included",
+        "Frontline Standard": "Included",
+        "Frontline Plus": "Included"
+      },
+      {
+        "feature": "Basic endpoint details (computer & smart home devices)",
+        "Enterprise Essentials": "Included",
+        "Enterprise Essentials Plus": "Included",
+        "Frontline Standard": "Included",
+        "Frontline Plus": "Included"
+      },
+      {
+        "feature": "Device log events",
+        "Enterprise Essentials": "N/A",
+        "Enterprise Essentials Plus": "N/A",
         "Frontline Standard": "Included",
         "Frontline Plus": "Included"
       },
@@ -1632,31 +1632,17 @@
         "Frontline Plus": "Not included"
       },
       {
-        "feature": "Device log events",
-        "Enterprise Essentials": "N/A",
-        "Enterprise Essentials Plus": "N/A",
-        "Frontline Standard": "Included",
-        "Frontline Plus": "Included"
+        "feature": "Fundamental endpoint management",
+        "Enterprise Essentials": "Not included",
+        "Enterprise Essentials Plus": "Not included",
+        "Frontline Standard": "Not included",
+        "Frontline Plus": "Not included"
       }
     ]
   },
   {
     "section": "3rd-party app integration",
     "features": [
-      {
-        "feature": "Single sign-on (SSO) using a 3rd-party IdP",
-        "Enterprise Essentials": "Included",
-        "Enterprise Essentials Plus": "Included",
-        "Frontline Standard": "N/A",
-        "Frontline Plus": "N/A"
-      },
-      {
-        "feature": "Single sign-on (SSO) using Google as IdP",
-        "Enterprise Essentials": "Included",
-        "Enterprise Essentials Plus": "Included",
-        "Frontline Standard": "N/A",
-        "Frontline Plus": "N/A"
-      },
       {
         "feature": "App catalog of 200+ preconfigured SAML apps",
         "Enterprise Essentials": "Included",
@@ -1679,14 +1665,28 @@
         "Frontline Plus": "N/A"
       },
       {
-        "feature": "Single-sign on (SSO) using Google as IdP",
+        "feature": "Single sign-on (SSO) using a 3rd-party IdP",
+        "Enterprise Essentials": "Included",
+        "Enterprise Essentials Plus": "Included",
+        "Frontline Standard": "N/A",
+        "Frontline Plus": "N/A"
+      },
+      {
+        "feature": "Single sign-on (SSO) using Google as IdP",
+        "Enterprise Essentials": "Included",
+        "Enterprise Essentials Plus": "Included",
+        "Frontline Standard": "N/A",
+        "Frontline Plus": "N/A"
+      },
+      {
+        "feature": "Single-sign on (SSO) using a 3rd-party IdP",
         "Enterprise Essentials": "N/A",
         "Enterprise Essentials Plus": "N/A",
         "Frontline Standard": "Included",
         "Frontline Plus": "Included"
       },
       {
-        "feature": "Single-sign on (SSO) using a 3rd-party IdP",
+        "feature": "Single-sign on (SSO) using Google as IdP",
         "Enterprise Essentials": "N/A",
         "Enterprise Essentials Plus": "N/A",
         "Frontline Standard": "Included",
@@ -1717,45 +1717,38 @@
     "section": "Gemini features",
     "features": [
       {
-        "feature": "Gmail",
+        "feature": "Access",
         "Enterprise Essentials": "Not included",
         "Enterprise Essentials Plus": "Not included",
         "Frontline Standard": "N/A",
         "Frontline Plus": "N/A"
       },
       {
-        "feature": "Help me write",
-        "Enterprise Essentials": "Not included",
-        "Enterprise Essentials Plus": "Not included",
-        "Frontline Standard": "Not included",
-        "Frontline Plus": "Not included"
-      },
-      {
-        "feature": "Side panel",
-        "Enterprise Essentials": "Not included",
-        "Enterprise Essentials Plus": "Not included",
-        "Frontline Standard": "Not included",
-        "Frontline Plus": "Not included"
-      },
-      {
-        "feature": "Contextual smart replies",
+        "feature": "Adaptive audio",
         "Enterprise Essentials": "Not included",
         "Enterprise Essentials Plus": "Not included",
         "Frontline Standard": "Not included",
         "Frontline Plus": "Included"
       },
       {
-        "feature": "Google Chat",
-        "Enterprise Essentials": "Not included",
-        "Enterprise Essentials Plus": "Not included",
-        "Frontline Standard": "N/A",
-        "Frontline Plus": "N/A"
-      },
-      {
-        "feature": "Summarize conversations",
+        "feature": "AI classification in Drive",
         "Enterprise Essentials": "Not included",
         "Enterprise Essentials Plus": "Not included",
         "Frontline Standard": "Not included",
+        "Frontline Plus": "Included"
+      },
+      {
+        "feature": "Analyze PDFs",
+        "Enterprise Essentials": "Not included",
+        "Enterprise Essentials Plus": "Not included",
+        "Frontline Standard": "Not included",
+        "Frontline Plus": "Not included"
+      },
+      {
+        "feature": "Audio Overviews",
+        "Enterprise Essentials": "Not included",
+        "Enterprise Essentials Plus": "Not included",
+        "Frontline Standard": "Included",
         "Frontline Plus": "Included"
       },
       {
@@ -1766,189 +1759,14 @@
         "Frontline Plus": "Included"
       },
       {
-        "feature": "Google Meet",
-        "Enterprise Essentials": "Not included",
-        "Enterprise Essentials Plus": "Not included",
-        "Frontline Standard": "N/A",
-        "Frontline Plus": "N/A"
-      },
-      {
-        "feature": "Take notes for me",
-        "Enterprise Essentials": "Not included",
-        "Enterprise Essentials Plus": "Not included",
-        "Frontline Standard": "Not included",
-        "Frontline Plus": "Included"
-      },
-      {
-        "feature": "Studio sound, studio look, and studio lighting",
-        "Enterprise Essentials": "Not included",
-        "Enterprise Essentials Plus": "Not included",
-        "Frontline Standard": "Not included",
-        "Frontline Plus": "Included"
-      },
-      {
-        "feature": "Watermarking",
-        "Enterprise Essentials": "Not included",
-        "Enterprise Essentials Plus": "Not included",
-        "Frontline Standard": "Not included",
-        "Frontline Plus": "Included"
-      },
-      {
-        "feature": "Adaptive audio",
-        "Enterprise Essentials": "Not included",
-        "Enterprise Essentials Plus": "Not included",
-        "Frontline Standard": "Not included",
-        "Frontline Plus": "Included"
-      },
-      {
-        "feature": "Translated captions",
-        "Enterprise Essentials": "Not included",
-        "Enterprise Essentials Plus": "Not included",
-        "Frontline Standard": "Not included",
-        "Frontline Plus": "Included"
-      },
-      {
-        "feature": "Generate a background",
-        "Enterprise Essentials": "Not included",
-        "Enterprise Essentials Plus": "Not included",
-        "Frontline Standard": "Not included",
-        "Frontline Plus": "Included"
-      },
-      {
-        "feature": "Google Docs",
-        "Enterprise Essentials": "Not included",
-        "Enterprise Essentials Plus": "Not included",
-        "Frontline Standard": "N/A",
-        "Frontline Plus": "N/A"
-      },
-      {
-        "feature": "Help me create an image",
-        "Enterprise Essentials": "Not included",
-        "Enterprise Essentials Plus": "Not included",
-        "Frontline Standard": "Not included",
-        "Frontline Plus": "Not included"
-      },
-      {
-        "feature": "Summarize a document",
-        "Enterprise Essentials": "Not included",
-        "Enterprise Essentials Plus": "Not included",
-        "Frontline Standard": "Not included",
-        "Frontline Plus": "Not included"
-      },
-      {
-        "feature": "Google Sheets",
-        "Enterprise Essentials": "Not included",
-        "Enterprise Essentials Plus": "Not included",
-        "Frontline Standard": "N/A",
-        "Frontline Plus": "N/A"
-      },
-      {
-        "feature": "Enhanced smart fill",
-        "Enterprise Essentials": "Not included",
-        "Enterprise Essentials Plus": "Not included",
-        "Frontline Standard": "Not included",
-        "Frontline Plus": "Not included"
-      },
-      {
-        "feature": "Google Slides",
-        "Enterprise Essentials": "Not included",
-        "Enterprise Essentials Plus": "Not included",
-        "Frontline Standard": "N/A",
-        "Frontline Plus": "N/A"
-      },
-      {
-        "feature": "Remove image backgrounds",
-        "Enterprise Essentials": "Not included",
-        "Enterprise Essentials Plus": "Not included",
-        "Frontline Standard": "Not included",
-        "Frontline Plus": "Not included"
-      },
-      {
-        "feature": "Google Vids",
-        "Enterprise Essentials": "Not included",
-        "Enterprise Essentials Plus": "Not included",
-        "Frontline Standard": "N/A",
-        "Frontline Plus": "N/A"
-      },
-      {
-        "feature": "Full access to AI features",
-        "Enterprise Essentials": "Not included",
-        "Enterprise Essentials Plus": "Not included",
-        "Frontline Standard": "Not included",
-        "Frontline Plus": "Not included"
-      },
-      {
-        "feature": "Google Drive",
-        "Enterprise Essentials": "Not included",
-        "Enterprise Essentials Plus": "Not included",
-        "Frontline Standard": "N/A",
-        "Frontline Plus": "N/A"
-      },
-      {
-        "feature": "Analyze PDFs",
-        "Enterprise Essentials": "Not included",
-        "Enterprise Essentials Plus": "Not included",
-        "Frontline Standard": "Not included",
-        "Frontline Plus": "Not included"
-      },
-      {
-        "feature": "Gemini app",
-        "Enterprise Essentials": "Not included",
-        "Enterprise Essentials Plus": "Not included",
-        "Frontline Standard": "N/A",
-        "Frontline Plus": "N/A"
-      },
-      {
-        "feature": "Access",
-        "Enterprise Essentials": "Not included",
-        "Enterprise Essentials Plus": "Not included",
-        "Frontline Standard": "N/A",
-        "Frontline Plus": "N/A"
-      },
-      {
-        "feature": "Pro",
-        "Enterprise Essentials": "Not included",
-        "Enterprise Essentials Plus": "Not included",
-        "Frontline Standard": "Not included",
-        "Frontline Plus": "Not included"
-      },
-      {
-        "feature": "Thinking",
-        "Enterprise Essentials": "Not included",
-        "Enterprise Essentials Plus": "Not included",
-        "Frontline Standard": "N/A",
-        "Frontline Plus": "N/A"
-      },
-      {
-        "feature": "Fast",
-        "Enterprise Essentials": "Not included",
-        "Enterprise Essentials Plus": "Not included",
-        "Frontline Standard": "N/A",
-        "Frontline Plus": "N/A"
-      },
-      {
-        "feature": "Audio Overviews",
-        "Enterprise Essentials": "Not included",
-        "Enterprise Essentials Plus": "Not included",
+        "feature": "Canvas",
+        "Enterprise Essentials": "N/A",
+        "Enterprise Essentials Plus": "N/A",
         "Frontline Standard": "Included",
         "Frontline Plus": "Included"
       },
       {
-        "feature": "Deep research",
-        "Enterprise Essentials": "Not included",
-        "Enterprise Essentials Plus": "Not included",
-        "Frontline Standard": "N/A",
-        "Frontline Plus": "N/A"
-      },
-      {
-        "feature": "General availability features",
-        "Enterprise Essentials": "Not included",
-        "Enterprise Essentials Plus": "Not included",
-        "Frontline Standard": "N/A",
-        "Frontline Plus": "N/A"
-      },
-      {
-        "feature": "Context window",
+        "feature": "Connect to GitHub & upload code folders",
         "Enterprise Essentials": "Not included",
         "Enterprise Essentials Plus": "Not included",
         "Frontline Standard": "N/A",
@@ -1962,28 +1780,189 @@
         "Frontline Plus": "N/A"
       },
       {
-        "feature": "Connect to GitHub & upload code folders",
+        "feature": "Context window",
         "Enterprise Essentials": "Not included",
         "Enterprise Essentials Plus": "Not included",
         "Frontline Standard": "N/A",
         "Frontline Plus": "N/A"
       },
       {
-        "feature": "Scheduled actions",
+        "feature": "Contextual smart replies",
+        "Enterprise Essentials": "Not included",
+        "Enterprise Essentials Plus": "Not included",
+        "Frontline Standard": "Not included",
+        "Frontline Plus": "Included"
+      },
+      {
+        "feature": "Deep research",
         "Enterprise Essentials": "Not included",
         "Enterprise Essentials Plus": "Not included",
         "Frontline Standard": "N/A",
         "Frontline Plus": "N/A"
       },
       {
-        "feature": "NotebookLM",
+        "feature": "Edit and run code",
+        "Enterprise Essentials": "N/A",
+        "Enterprise Essentials Plus": "N/A",
+        "Frontline Standard": "Not included",
+        "Frontline Plus": "Not included"
+      },
+      {
+        "feature": "Enhanced smart fill",
+        "Enterprise Essentials": "Not included",
+        "Enterprise Essentials Plus": "Not included",
+        "Frontline Standard": "Not included",
+        "Frontline Plus": "Not included"
+      },
+      {
+        "feature": "Enterprise-grade security & privacy",
+        "Enterprise Essentials": "N/A",
+        "Enterprise Essentials Plus": "N/A",
+        "Frontline Standard": "Included",
+        "Frontline Plus": "Included"
+      },
+      {
+        "feature": "Fast",
         "Enterprise Essentials": "Not included",
         "Enterprise Essentials Plus": "Not included",
         "Frontline Standard": "N/A",
         "Frontline Plus": "N/A"
+      },
+      {
+        "feature": "File upload and advanced data analysis",
+        "Enterprise Essentials": "N/A",
+        "Enterprise Essentials Plus": "N/A",
+        "Frontline Standard": "Included",
+        "Frontline Plus": "Included"
+      },
+      {
+        "feature": "Full access to AI features",
+        "Enterprise Essentials": "Not included",
+        "Enterprise Essentials Plus": "Not included",
+        "Frontline Standard": "Not included",
+        "Frontline Plus": "Not included"
+      },
+      {
+        "feature": "Gemini app",
+        "Enterprise Essentials": "Not included",
+        "Enterprise Essentials Plus": "Not included",
+        "Frontline Standard": "N/A",
+        "Frontline Plus": "N/A"
+      },
+      {
+        "feature": "Gems",
+        "Enterprise Essentials": "N/A",
+        "Enterprise Essentials Plus": "N/A",
+        "Frontline Standard": "Included",
+        "Frontline Plus": "Included"
+      },
+      {
+        "feature": "General availability features",
+        "Enterprise Essentials": "Not included",
+        "Enterprise Essentials Plus": "Not included",
+        "Frontline Standard": "N/A",
+        "Frontline Plus": "N/A"
+      },
+      {
+        "feature": "Generate a background",
+        "Enterprise Essentials": "Not included",
+        "Enterprise Essentials Plus": "Not included",
+        "Frontline Standard": "Not included",
+        "Frontline Plus": "Included"
+      },
+      {
+        "feature": "Gmail",
+        "Enterprise Essentials": "Not included",
+        "Enterprise Essentials Plus": "Not included",
+        "Frontline Standard": "N/A",
+        "Frontline Plus": "N/A"
+      },
+      {
+        "feature": "Google Chat",
+        "Enterprise Essentials": "Not included",
+        "Enterprise Essentials Plus": "Not included",
+        "Frontline Standard": "N/A",
+        "Frontline Plus": "N/A"
+      },
+      {
+        "feature": "Google Docs",
+        "Enterprise Essentials": "Not included",
+        "Enterprise Essentials Plus": "Not included",
+        "Frontline Standard": "N/A",
+        "Frontline Plus": "N/A"
+      },
+      {
+        "feature": "Google Drive",
+        "Enterprise Essentials": "Not included",
+        "Enterprise Essentials Plus": "Not included",
+        "Frontline Standard": "N/A",
+        "Frontline Plus": "N/A"
+      },
+      {
+        "feature": "Google Meet",
+        "Enterprise Essentials": "Not included",
+        "Enterprise Essentials Plus": "Not included",
+        "Frontline Standard": "N/A",
+        "Frontline Plus": "N/A"
+      },
+      {
+        "feature": "Google Sheets",
+        "Enterprise Essentials": "Not included",
+        "Enterprise Essentials Plus": "Not included",
+        "Frontline Standard": "N/A",
+        "Frontline Plus": "N/A"
+      },
+      {
+        "feature": "Google Slides",
+        "Enterprise Essentials": "Not included",
+        "Enterprise Essentials Plus": "Not included",
+        "Frontline Standard": "N/A",
+        "Frontline Plus": "N/A"
+      },
+      {
+        "feature": "Google Vids",
+        "Enterprise Essentials": "Not included",
+        "Enterprise Essentials Plus": "Not included",
+        "Frontline Standard": "N/A",
+        "Frontline Plus": "N/A"
+      },
+      {
+        "feature": "Google Workspace apps",
+        "Enterprise Essentials": "N/A",
+        "Enterprise Essentials Plus": "N/A",
+        "Frontline Standard": "Included",
+        "Frontline Plus": "Included"
+      },
+      {
+        "feature": "Help me create an image",
+        "Enterprise Essentials": "Not included",
+        "Enterprise Essentials Plus": "Not included",
+        "Frontline Standard": "Not included",
+        "Frontline Plus": "Not included"
+      },
+      {
+        "feature": "Help me write",
+        "Enterprise Essentials": "Not included",
+        "Enterprise Essentials Plus": "Not included",
+        "Frontline Standard": "Not included",
+        "Frontline Plus": "Not included"
       },
       {
         "feature": "Higher limits",
+        "Enterprise Essentials": "Not included",
+        "Enterprise Essentials Plus": "Not included",
+        "Frontline Standard": "N/A",
+        "Frontline Plus": "N/A"
+      },
+      {
+        "feature": "Image generation with people",
+        "Enterprise Essentials": "N/A",
+        "Enterprise Essentials Plus": "N/A",
+        "Frontline Standard": "Included",
+        "Frontline Plus": "Included"
+      },
+      {
+        "feature": "NotebookLM",
         "Enterprise Essentials": "Not included",
         "Enterprise Essentials Plus": "Not included",
         "Frontline Standard": "N/A",
@@ -1997,6 +1976,27 @@
         "Frontline Plus": "N/A"
       },
       {
+        "feature": "Pro",
+        "Enterprise Essentials": "Not included",
+        "Enterprise Essentials Plus": "Not included",
+        "Frontline Standard": "Not included",
+        "Frontline Plus": "Not included"
+      },
+      {
+        "feature": "Remove image backgrounds",
+        "Enterprise Essentials": "Not included",
+        "Enterprise Essentials Plus": "Not included",
+        "Frontline Standard": "Not included",
+        "Frontline Plus": "Not included"
+      },
+      {
+        "feature": "Scheduled actions",
+        "Enterprise Essentials": "Not included",
+        "Enterprise Essentials Plus": "Not included",
+        "Frontline Standard": "N/A",
+        "Frontline Plus": "N/A"
+      },
+      {
         "feature": "Security",
         "Enterprise Essentials": "Not included",
         "Enterprise Essentials Plus": "Not included",
@@ -2004,66 +2004,66 @@
         "Frontline Plus": "N/A"
       },
       {
-        "feature": "AI classification in Drive",
+        "feature": "Side panel",
+        "Enterprise Essentials": "Not included",
+        "Enterprise Essentials Plus": "Not included",
+        "Frontline Standard": "Not included",
+        "Frontline Plus": "Not included"
+      },
+      {
+        "feature": "Studio sound, studio look, and studio lighting",
         "Enterprise Essentials": "Not included",
         "Enterprise Essentials Plus": "Not included",
         "Frontline Standard": "Not included",
         "Frontline Plus": "Included"
       },
       {
-        "feature": "Enterprise-grade security & privacy",
-        "Enterprise Essentials": "N/A",
-        "Enterprise Essentials Plus": "N/A",
-        "Frontline Standard": "Included",
-        "Frontline Plus": "Included"
-      },
-      {
-        "feature": "Google Workspace apps",
-        "Enterprise Essentials": "N/A",
-        "Enterprise Essentials Plus": "N/A",
-        "Frontline Standard": "Included",
-        "Frontline Plus": "Included"
-      },
-      {
-        "feature": "Gems",
-        "Enterprise Essentials": "N/A",
-        "Enterprise Essentials Plus": "N/A",
-        "Frontline Standard": "Included",
-        "Frontline Plus": "Included"
-      },
-      {
-        "feature": "Image generation with people",
-        "Enterprise Essentials": "N/A",
-        "Enterprise Essentials Plus": "N/A",
-        "Frontline Standard": "Included",
-        "Frontline Plus": "Included"
-      },
-      {
-        "feature": "Canvas",
-        "Enterprise Essentials": "N/A",
-        "Enterprise Essentials Plus": "N/A",
-        "Frontline Standard": "Included",
-        "Frontline Plus": "Included"
-      },
-      {
-        "feature": "File upload and advanced data analysis",
-        "Enterprise Essentials": "N/A",
-        "Enterprise Essentials Plus": "N/A",
-        "Frontline Standard": "Included",
-        "Frontline Plus": "Included"
-      },
-      {
-        "feature": "Edit and run code",
-        "Enterprise Essentials": "N/A",
-        "Enterprise Essentials Plus": "N/A",
+        "feature": "Summarize a document",
+        "Enterprise Essentials": "Not included",
+        "Enterprise Essentials Plus": "Not included",
         "Frontline Standard": "Not included",
         "Frontline Plus": "Not included"
+      },
+      {
+        "feature": "Summarize conversations",
+        "Enterprise Essentials": "Not included",
+        "Enterprise Essentials Plus": "Not included",
+        "Frontline Standard": "Not included",
+        "Frontline Plus": "Included"
+      },
+      {
+        "feature": "Take notes for me",
+        "Enterprise Essentials": "Not included",
+        "Enterprise Essentials Plus": "Not included",
+        "Frontline Standard": "Not included",
+        "Frontline Plus": "Included"
+      },
+      {
+        "feature": "Thinking",
+        "Enterprise Essentials": "Not included",
+        "Enterprise Essentials Plus": "Not included",
+        "Frontline Standard": "N/A",
+        "Frontline Plus": "N/A"
+      },
+      {
+        "feature": "Translated captions",
+        "Enterprise Essentials": "Not included",
+        "Enterprise Essentials Plus": "Not included",
+        "Frontline Standard": "Not included",
+        "Frontline Plus": "Included"
       },
       {
         "feature": "Upload sources, create summaries and Audio Overviews, and Q&A",
         "Enterprise Essentials": "N/A",
         "Enterprise Essentials Plus": "N/A",
         "Frontline Standard": "Included",
+        "Frontline Plus": "Included"
+      },
+      {
+        "feature": "Watermarking",
+        "Enterprise Essentials": "Not included",
+        "Enterprise Essentials Plus": "Not included",
+        "Frontline Standard": "Not included",
         "Frontline Plus": "Included"
       }
     ]
@@ -2072,17 +2072,10 @@
     "section": "Drive and Docs editors",
     "features": [
       {
-        "feature": "Drive for desktop",
-        "Enterprise Essentials": "Included",
-        "Enterprise Essentials Plus": "Included",
-        "Frontline Standard": "N/A",
-        "Frontline Plus": "N/A"
-      },
-      {
-        "feature": "Connected Sheets",
-        "Enterprise Essentials": "Included",
-        "Enterprise Essentials Plus": "Included",
-        "Frontline Standard": "Included",
+        "feature": "Advanced Drive logs and reports (Drive log events)",
+        "Enterprise Essentials": "N/A",
+        "Enterprise Essentials Plus": "N/A",
+        "Frontline Standard": "Not included",
         "Frontline Plus": "Included"
       },
       {
@@ -2093,6 +2086,69 @@
         "Frontline Plus": "N/A"
       },
       {
+        "feature": "Client-side encryption for Drive files",
+        "Enterprise Essentials": "Not included",
+        "Enterprise Essentials Plus": "Included",
+        "Frontline Standard": "Not included",
+        "Frontline Plus": "Included"
+      },
+      {
+        "feature": "Connected Sheets",
+        "Enterprise Essentials": "Included",
+        "Enterprise Essentials Plus": "Included",
+        "Frontline Standard": "Included",
+        "Frontline Plus": "Included"
+      },
+      {
+        "feature": "Delegate access to Connected Sheets",
+        "Enterprise Essentials": "Included",
+        "Enterprise Essentials Plus": "Included",
+        "Frontline Standard": "N/A",
+        "Frontline Plus": "N/A"
+      },
+      {
+        "feature": "Drive audit logs",
+        "Enterprise Essentials": "N/A",
+        "Enterprise Essentials Plus": "N/A",
+        "Frontline Standard": "Included",
+        "Frontline Plus": "Included"
+      },
+      {
+        "feature": "Drive data loss prevention (DLP)",
+        "Enterprise Essentials": "Not included",
+        "Enterprise Essentials Plus": "Included",
+        "Frontline Standard": "N/A",
+        "Frontline Plus": "N/A"
+      },
+      {
+        "feature": "Drive file suggestions in Chrome browser address bar",
+        "Enterprise Essentials": "Not included",
+        "Enterprise Essentials Plus": "Included",
+        "Frontline Standard": "N/A",
+        "Frontline Plus": "N/A"
+      },
+      {
+        "feature": "Drive file suggestions in Chrome Browser address bar",
+        "Enterprise Essentials": "N/A",
+        "Enterprise Essentials Plus": "N/A",
+        "Frontline Standard": "Included",
+        "Frontline Plus": "Included"
+      },
+      {
+        "feature": "Drive for desktop",
+        "Enterprise Essentials": "Included",
+        "Enterprise Essentials Plus": "Included",
+        "Frontline Standard": "N/A",
+        "Frontline Plus": "N/A"
+      },
+      {
+        "feature": "Drive inventory export",
+        "Enterprise Essentials": "Not included",
+        "Enterprise Essentials Plus": "Included",
+        "Frontline Standard": "Not included",
+        "Frontline Plus": "Included"
+      },
+      {
         "feature": "Drive sharing permissions",
         "Enterprise Essentials": "Included",
         "Enterprise Essentials Plus": "Included",
@@ -2100,11 +2156,39 @@
         "Frontline Plus": "Included"
       },
       {
-        "feature": "Shared drives",
+        "feature": "Drive storage and Docs editors (includes Google Docs, Sheets, Slides, Forms, and Sites)",
+        "Enterprise Essentials": "N/A",
+        "Enterprise Essentials Plus": "N/A",
+        "Frontline Standard": "Included",
+        "Frontline Plus": "Included"
+      },
+      {
+        "feature": "eSignature",
         "Enterprise Essentials": "Included",
         "Enterprise Essentials Plus": "Included",
         "Frontline Standard": "N/A",
         "Frontline Plus": "N/A"
+      },
+      {
+        "feature": "Gemini\u00a0AI in Docs, Sheets, & Slides",
+        "Enterprise Essentials": "Not included",
+        "Enterprise Essentials Plus": "Not included",
+        "Frontline Standard": "N/A",
+        "Frontline Plus": "N/A"
+      },
+      {
+        "feature": "Insert smart chips in your Google Sheets",
+        "Enterprise Essentials": "N/A",
+        "Enterprise Essentials Plus": "N/A",
+        "Frontline Standard": "Limited data types",
+        "Frontline Plus": "Limited data types"
+      },
+      {
+        "feature": "Limit external connections for Apps Script and Sheets",
+        "Enterprise Essentials": "N/A",
+        "Enterprise Essentials Plus": "N/A",
+        "Frontline Standard": "Not included",
+        "Frontline Plus": "Included"
       },
       {
         "feature": "Manage document approvals",
@@ -2121,53 +2205,11 @@
         "Frontline Plus": "N/A"
       },
       {
-        "feature": "Turn Docs creation on or off",
-        "Enterprise Essentials": "Included",
-        "Enterprise Essentials Plus": "Included",
-        "Frontline Standard": "N/A",
-        "Frontline Plus": "N/A"
-      },
-      {
-        "feature": "Delegate access to Connected Sheets",
-        "Enterprise Essentials": "Included",
-        "Enterprise Essentials Plus": "Included",
-        "Frontline Standard": "N/A",
-        "Frontline Plus": "N/A"
-      },
-      {
-        "feature": "eSignature",
-        "Enterprise Essentials": "Included",
-        "Enterprise Essentials Plus": "Included",
-        "Frontline Standard": "N/A",
-        "Frontline Plus": "N/A"
-      },
-      {
-        "feature": "Smart chip data extraction",
-        "Enterprise Essentials": "Included",
-        "Enterprise Essentials Plus": "Included",
-        "Frontline Standard": "N/A",
-        "Frontline Plus": "N/A"
-      },
-      {
-        "feature": "Gemini\u00a0AI in Docs, Sheets, & Slides",
-        "Enterprise Essentials": "Not included",
-        "Enterprise Essentials Plus": "Not included",
-        "Frontline Standard": "N/A",
-        "Frontline Plus": "N/A"
-      },
-      {
-        "feature": "Drive inventory export",
-        "Enterprise Essentials": "Not included",
-        "Enterprise Essentials Plus": "Included",
-        "Frontline Standard": "Not included",
-        "Frontline Plus": "Included"
-      },
-      {
-        "feature": "Drive file suggestions in Chrome browser address bar",
-        "Enterprise Essentials": "Not included",
-        "Enterprise Essentials Plus": "Included",
-        "Frontline Standard": "N/A",
-        "Frontline Plus": "N/A"
+        "feature": "Membership in shared drives",
+        "Enterprise Essentials": "N/A",
+        "Enterprise Essentials Plus": "N/A",
+        "Frontline Standard": "Viewer only",
+        "Frontline Plus": "Viewer only"
       },
       {
         "feature": "Organizational branding (custom templates)",
@@ -2177,8 +2219,29 @@
         "Frontline Plus": "N/A"
       },
       {
-        "feature": "Drive data loss prevention (DLP)",
-        "Enterprise Essentials": "Not included",
+        "feature": "Ransomware detection",
+        "Enterprise Essentials": "N/A",
+        "Enterprise Essentials Plus": "N/A",
+        "Frontline Standard": "Included",
+        "Frontline Plus": "Included"
+      },
+      {
+        "feature": "Shared drives",
+        "Enterprise Essentials": "Included",
+        "Enterprise Essentials Plus": "Included",
+        "Frontline Standard": "N/A",
+        "Frontline Plus": "N/A"
+      },
+      {
+        "feature": "Sharing to non-Google accounts (visitor sharing)",
+        "Enterprise Essentials": "N/A",
+        "Enterprise Essentials Plus": "N/A",
+        "Frontline Standard": "Included",
+        "Frontline Plus": "Included"
+      },
+      {
+        "feature": "Smart chip data extraction",
+        "Enterprise Essentials": "Included",
         "Enterprise Essentials Plus": "Included",
         "Frontline Standard": "N/A",
         "Frontline Plus": "N/A"
@@ -2191,74 +2254,11 @@
         "Frontline Plus": "Included"
       },
       {
-        "feature": "Client-side encryption for Drive files",
-        "Enterprise Essentials": "Not included",
+        "feature": "Turn Docs creation on or off",
+        "Enterprise Essentials": "Included",
         "Enterprise Essentials Plus": "Included",
-        "Frontline Standard": "Not included",
-        "Frontline Plus": "Included"
-      },
-      {
-        "feature": "Drive storage and Docs editors (includes Google Docs, Sheets, Slides, Forms, and Sites)",
-        "Enterprise Essentials": "N/A",
-        "Enterprise Essentials Plus": "N/A",
-        "Frontline Standard": "Included",
-        "Frontline Plus": "Included"
-      },
-      {
-        "feature": "Drive audit logs",
-        "Enterprise Essentials": "N/A",
-        "Enterprise Essentials Plus": "N/A",
-        "Frontline Standard": "Included",
-        "Frontline Plus": "Included"
-      },
-      {
-        "feature": "Sharing to non-Google accounts (visitor sharing)",
-        "Enterprise Essentials": "N/A",
-        "Enterprise Essentials Plus": "N/A",
-        "Frontline Standard": "Included",
-        "Frontline Plus": "Included"
-      },
-      {
-        "feature": "Membership in shared drives",
-        "Enterprise Essentials": "N/A",
-        "Enterprise Essentials Plus": "N/A",
-        "Frontline Standard": "Viewer only",
-        "Frontline Plus": "Viewer only"
-      },
-      {
-        "feature": "Drive file suggestions in Chrome Browser address bar",
-        "Enterprise Essentials": "N/A",
-        "Enterprise Essentials Plus": "N/A",
-        "Frontline Standard": "Included",
-        "Frontline Plus": "Included"
-      },
-      {
-        "feature": "Ransomware detection",
-        "Enterprise Essentials": "N/A",
-        "Enterprise Essentials Plus": "N/A",
-        "Frontline Standard": "Included",
-        "Frontline Plus": "Included"
-      },
-      {
-        "feature": "Insert smart chips in your Google Sheets",
-        "Enterprise Essentials": "N/A",
-        "Enterprise Essentials Plus": "N/A",
-        "Frontline Standard": "Limited data types",
-        "Frontline Plus": "Limited data types"
-      },
-      {
-        "feature": "Advanced Drive logs and reports (Drive log events)",
-        "Enterprise Essentials": "N/A",
-        "Enterprise Essentials Plus": "N/A",
-        "Frontline Standard": "Not included",
-        "Frontline Plus": "Included"
-      },
-      {
-        "feature": "Limit external connections for Apps Script and Sheets",
-        "Enterprise Essentials": "N/A",
-        "Enterprise Essentials Plus": "N/A",
-        "Frontline Standard": "Not included",
-        "Frontline Plus": "Included"
+        "Frontline Standard": "N/A",
+        "Frontline Plus": "N/A"
       }
     ]
   },
@@ -2266,21 +2266,7 @@
     "section": "Groups / Groups for Business",
     "features": [
       {
-        "feature": "Groups for content sharing and calendar invitations",
-        "Enterprise Essentials": "Included",
-        "Enterprise Essentials Plus": "Included",
-        "Frontline Standard": "Included",
-        "Frontline Plus": "Included"
-      },
-      {
         "feature": "Collaborative Inboxes and message moderation",
-        "Enterprise Essentials": "Included",
-        "Enterprise Essentials Plus": "Included",
-        "Frontline Standard": "Included",
-        "Frontline Plus": "Included"
-      },
-      {
-        "feature": "User-managed groups",
         "Enterprise Essentials": "Included",
         "Enterprise Essentials Plus": "Included",
         "Frontline Standard": "Included",
@@ -2294,11 +2280,25 @@
         "Frontline Plus": "Included"
       },
       {
-        "feature": "Target audience groups (preset sharing options)",
-        "Enterprise Essentials": "Included",
+        "feature": "Dynamic groups (manage membership automatically)",
+        "Enterprise Essentials": "Not included",
         "Enterprise Essentials Plus": "Included",
         "Frontline Standard": "N/A",
         "Frontline Plus": "N/A"
+      },
+      {
+        "feature": "Email list groups",
+        "Enterprise Essentials": "N/A",
+        "Enterprise Essentials Plus": "N/A",
+        "Frontline Standard": "Included",
+        "Frontline Plus": "Included"
+      },
+      {
+        "feature": "Groups for content sharing and calendar invitations",
+        "Enterprise Essentials": "Included",
+        "Enterprise Essentials Plus": "Included",
+        "Frontline Standard": "Included",
+        "Frontline Plus": "Included"
       },
       {
         "feature": "Inspect group membership",
@@ -2315,11 +2315,25 @@
         "Frontline Plus": "N/A"
       },
       {
-        "feature": "Dynamic groups (manage membership automatically)",
-        "Enterprise Essentials": "Not included",
+        "feature": "Target audience groups (preset sharing options)",
+        "Enterprise Essentials": "Included",
         "Enterprise Essentials Plus": "Included",
         "Frontline Standard": "N/A",
         "Frontline Plus": "N/A"
+      },
+      {
+        "feature": "Target audiences",
+        "Enterprise Essentials": "N/A",
+        "Enterprise Essentials Plus": "N/A",
+        "Frontline Standard": "Not included",
+        "Frontline Plus": "Included"
+      },
+      {
+        "feature": "User-managed groups",
+        "Enterprise Essentials": "Included",
+        "Enterprise Essentials Plus": "Included",
+        "Frontline Standard": "Included",
+        "Frontline Plus": "Included"
       },
       {
         "feature": "View members (direct & indirect) in all groups",
@@ -2329,24 +2343,10 @@
         "Frontline Plus": "N/A"
       },
       {
-        "feature": "Email list groups",
-        "Enterprise Essentials": "N/A",
-        "Enterprise Essentials Plus": "N/A",
-        "Frontline Standard": "Included",
-        "Frontline Plus": "Included"
-      },
-      {
         "feature": "View members of a nested group",
         "Enterprise Essentials": "N/A",
         "Enterprise Essentials Plus": "N/A",
         "Frontline Standard": "Included",
-        "Frontline Plus": "Included"
-      },
-      {
-        "feature": "Target audiences",
-        "Enterprise Essentials": "N/A",
-        "Enterprise Essentials Plus": "N/A",
-        "Frontline Standard": "Not included",
         "Frontline Plus": "Included"
       }
     ]
@@ -2355,35 +2355,14 @@
     "section": "Google Meet",
     "features": [
       {
-        "feature": "Maximum meeting length",
-        "Enterprise Essentials": "24 hours",
-        "Enterprise Essentials Plus": "24 hours",
-        "Frontline Standard": "24 hours",
-        "Frontline Plus": "24 hours"
-      },
-      {
-        "feature": "Maximum number of participants per meeting",
-        "Enterprise Essentials": "150",
-        "Enterprise Essentials Plus": "1,000 1",
-        "Frontline Standard": "100",
-        "Frontline Plus": "100"
-      },
-      {
-        "feature": "External participants",
+        "feature": "Add co-hosts to meetings",
         "Enterprise Essentials": "Included",
         "Enterprise Essentials Plus": "Included",
-        "Frontline Standard": "Included",
-        "Frontline Plus": "Included"
+        "Frontline Standard": "N/A",
+        "Frontline Plus": "N/A"
       },
       {
-        "feature": "Secure meetings",
-        "Enterprise Essentials": "Included",
-        "Enterprise Essentials Plus": "Included",
-        "Frontline Standard": "Included",
-        "Frontline Plus": "Included"
-      },
-      {
-        "feature": "Presentations and screen sharing",
+        "feature": "Add Meet video to Microsoft Outlook",
         "Enterprise Essentials": "Included",
         "Enterprise Essentials Plus": "Included",
         "Frontline Standard": "Included",
@@ -2397,18 +2376,67 @@
         "Frontline Plus": "Included"
       },
       {
-        "feature": "Add Meet video to Microsoft Outlook",
+        "feature": "Automatic meeting recording and transcripts",
+        "Enterprise Essentials": "Included",
+        "Enterprise Essentials Plus": "Included",
+        "Frontline Standard": "N/A",
+        "Frontline Plus": "N/A"
+      },
+      {
+        "feature": "Breakout rooms",
+        "Enterprise Essentials": "Included",
+        "Enterprise Essentials Plus": "Included",
+        "Frontline Standard": "N/A",
+        "Frontline Plus": "N/A"
+      },
+      {
+        "feature": "Client-side encryption for audio and video",
+        "Enterprise Essentials": "Not included",
+        "Enterprise Essentials Plus": "Included",
+        "Frontline Standard": "Not included",
+        "Frontline Plus": "Included"
+      },
+      {
+        "feature": "Control Slides presentations",
+        "Enterprise Essentials": "Included",
+        "Enterprise Essentials Plus": "Included",
+        "Frontline Standard": "N/A",
+        "Frontline Plus": "N/A"
+      },
+      {
+        "feature": "Dial in (U.S. & international numbers)",
         "Enterprise Essentials": "Included",
         "Enterprise Essentials Plus": "Included",
         "Frontline Standard": "Included",
         "Frontline Plus": "Included"
       },
       {
-        "feature": "Works with Meet room hardware",
+        "feature": "Digital whiteboard",
+        "Enterprise Essentials": "N/A",
+        "Enterprise Essentials Plus": "N/A",
+        "Frontline Standard": "Included",
+        "Frontline Plus": "Included"
+      },
+      {
+        "feature": "External participants",
         "Enterprise Essentials": "Included",
         "Enterprise Essentials Plus": "Included",
+        "Frontline Standard": "Included",
+        "Frontline Plus": "Included"
+      },
+      {
+        "feature": "Gemini AI features in Meet",
+        "Enterprise Essentials": "Not included",
+        "Enterprise Essentials Plus": "Not included",
         "Frontline Standard": "N/A",
         "Frontline Plus": "N/A"
+      },
+      {
+        "feature": "Gemini AI in Meet",
+        "Enterprise Essentials": "N/A",
+        "Enterprise Essentials Plus": "N/A",
+        "Frontline Standard": "Not included",
+        "Frontline Plus": "Included"
       },
       {
         "feature": "Hand raising",
@@ -2418,18 +2446,32 @@
         "Frontline Plus": "Included"
       },
       {
-        "feature": "Raise a room's hand using Meet hardware",
-        "Enterprise Essentials": "Included",
-        "Enterprise Essentials Plus": "Included",
+        "feature": "In-domain and trusted domain live streaming (maximum number viewers)",
+        "Enterprise Essentials": "Not included",
+        "Enterprise Essentials Plus": "100k",
+        "Frontline Standard": "N/A",
+        "Frontline Plus": "N/A"
+      },
+      {
+        "feature": "Join breakout rooms",
+        "Enterprise Essentials": "N/A",
+        "Enterprise Essentials Plus": "N/A",
         "Frontline Standard": "Included",
         "Frontline Plus": "Included"
       },
       {
-        "feature": "Reactions",
-        "Enterprise Essentials": "Included",
-        "Enterprise Essentials Plus": "Included",
-        "Frontline Standard": "Included",
-        "Frontline Plus": "Included"
+        "feature": "Maximum meeting length",
+        "Enterprise Essentials": "24 hours",
+        "Enterprise Essentials Plus": "24 hours",
+        "Frontline Standard": "24 hours",
+        "Frontline Plus": "24 hours"
+      },
+      {
+        "feature": "Maximum number of participants per meeting",
+        "Enterprise Essentials": "150",
+        "Enterprise Essentials Plus": "1,000 1",
+        "Frontline Standard": "100",
+        "Frontline Plus": "100"
       },
       {
         "feature": "Meet eCDN",
@@ -2446,7 +2488,42 @@
         "Frontline Plus": "Included"
       },
       {
-        "feature": "Dial in (U.S. & international numbers)",
+        "feature": "Noise cancellation",
+        "Enterprise Essentials": "Included",
+        "Enterprise Essentials Plus": "Included",
+        "Frontline Standard": "Included",
+        "Frontline Plus": "Included"
+      },
+      {
+        "feature": "Polls",
+        "Enterprise Essentials": "Included",
+        "Enterprise Essentials Plus": "Included",
+        "Frontline Standard": "N/A",
+        "Frontline Plus": "N/A"
+      },
+      {
+        "feature": "Presentations and screen sharing",
+        "Enterprise Essentials": "Included",
+        "Enterprise Essentials Plus": "Included",
+        "Frontline Standard": "Included",
+        "Frontline Plus": "Included"
+      },
+      {
+        "feature": "Q&A",
+        "Enterprise Essentials": "Included",
+        "Enterprise Essentials Plus": "Included",
+        "Frontline Standard": "N/A",
+        "Frontline Plus": "N/A"
+      },
+      {
+        "feature": "Raise a room's hand using Meet hardware",
+        "Enterprise Essentials": "Included",
+        "Enterprise Essentials Plus": "Included",
+        "Frontline Standard": "Included",
+        "Frontline Plus": "Included"
+      },
+      {
+        "feature": "Reactions",
         "Enterprise Essentials": "Included",
         "Enterprise Essentials Plus": "Included",
         "Frontline Standard": "Included",
@@ -2460,49 +2537,7 @@
         "Frontline Plus": "N/A"
       },
       {
-        "feature": "Breakout rooms",
-        "Enterprise Essentials": "Included",
-        "Enterprise Essentials Plus": "Included",
-        "Frontline Standard": "N/A",
-        "Frontline Plus": "N/A"
-      },
-      {
-        "feature": "Polls",
-        "Enterprise Essentials": "Included",
-        "Enterprise Essentials Plus": "Included",
-        "Frontline Standard": "N/A",
-        "Frontline Plus": "N/A"
-      },
-      {
-        "feature": "Q&A",
-        "Enterprise Essentials": "Included",
-        "Enterprise Essentials Plus": "Included",
-        "Frontline Standard": "N/A",
-        "Frontline Plus": "N/A"
-      },
-      {
-        "feature": "Track attendance (requires 2 or more attendees)",
-        "Enterprise Essentials": "Included",
-        "Enterprise Essentials Plus": "Included",
-        "Frontline Standard": "N/A",
-        "Frontline Plus": "N/A"
-      },
-      {
-        "feature": "Add co-hosts to meetings",
-        "Enterprise Essentials": "Included",
-        "Enterprise Essentials Plus": "Included",
-        "Frontline Standard": "N/A",
-        "Frontline Plus": "N/A"
-      },
-      {
-        "feature": "Control Slides presentations",
-        "Enterprise Essentials": "Included",
-        "Enterprise Essentials Plus": "Included",
-        "Frontline Standard": "N/A",
-        "Frontline Plus": "N/A"
-      },
-      {
-        "feature": "Noise cancellation",
+        "feature": "Secure meetings",
         "Enterprise Essentials": "Included",
         "Enterprise Essentials Plus": "Included",
         "Frontline Standard": "Included",
@@ -2516,8 +2551,29 @@
         "Frontline Plus": "N/A"
       },
       {
-        "feature": "Automatic meeting recording and transcripts",
+        "feature": "Test Meet eCDN large-scale configurations",
+        "Enterprise Essentials": "Not included",
+        "Enterprise Essentials Plus": "Included",
+        "Frontline Standard": "N/A",
+        "Frontline Plus": "N/A"
+      },
+      {
+        "feature": "Track attendance (requires 2 or more attendees)",
         "Enterprise Essentials": "Included",
+        "Enterprise Essentials Plus": "Included",
+        "Frontline Standard": "N/A",
+        "Frontline Plus": "N/A"
+      },
+      {
+        "feature": "Track attendance (requires 5 or more attendees)",
+        "Enterprise Essentials": "N/A",
+        "Enterprise Essentials Plus": "N/A",
+        "Frontline Standard": "Included",
+        "Frontline Plus": "Included"
+      },
+      {
+        "feature": "Transcribe meetings & save them to Drive",
+        "Enterprise Essentials": "Not included",
         "Enterprise Essentials Plus": "Included",
         "Frontline Standard": "N/A",
         "Frontline Plus": "N/A"
@@ -2530,67 +2586,11 @@
         "Frontline Plus": "N/A"
       },
       {
-        "feature": "In-domain and trusted domain live streaming (maximum number viewers)",
-        "Enterprise Essentials": "Not included",
-        "Enterprise Essentials Plus": "100k",
-        "Frontline Standard": "N/A",
-        "Frontline Plus": "N/A"
-      },
-      {
-        "feature": "Transcribe meetings & save them to Drive",
-        "Enterprise Essentials": "Not included",
+        "feature": "Works with Meet room hardware",
+        "Enterprise Essentials": "Included",
         "Enterprise Essentials Plus": "Included",
         "Frontline Standard": "N/A",
         "Frontline Plus": "N/A"
-      },
-      {
-        "feature": "Client-side encryption for audio and video",
-        "Enterprise Essentials": "Not included",
-        "Enterprise Essentials Plus": "Included",
-        "Frontline Standard": "Not included",
-        "Frontline Plus": "Included"
-      },
-      {
-        "feature": "Test Meet eCDN large-scale configurations",
-        "Enterprise Essentials": "Not included",
-        "Enterprise Essentials Plus": "Included",
-        "Frontline Standard": "N/A",
-        "Frontline Plus": "N/A"
-      },
-      {
-        "feature": "Gemini AI features in Meet",
-        "Enterprise Essentials": "Not included",
-        "Enterprise Essentials Plus": "Not included",
-        "Frontline Standard": "N/A",
-        "Frontline Plus": "N/A"
-      },
-      {
-        "feature": "Join breakout rooms",
-        "Enterprise Essentials": "N/A",
-        "Enterprise Essentials Plus": "N/A",
-        "Frontline Standard": "Included",
-        "Frontline Plus": "Included"
-      },
-      {
-        "feature": "Track attendance (requires 5 or more attendees)",
-        "Enterprise Essentials": "N/A",
-        "Enterprise Essentials Plus": "N/A",
-        "Frontline Standard": "Included",
-        "Frontline Plus": "Included"
-      },
-      {
-        "feature": "Digital whiteboard",
-        "Enterprise Essentials": "N/A",
-        "Enterprise Essentials Plus": "N/A",
-        "Frontline Standard": "Included",
-        "Frontline Plus": "Included"
-      },
-      {
-        "feature": "Gemini AI in Meet",
-        "Enterprise Essentials": "N/A",
-        "Enterprise Essentials Plus": "N/A",
-        "Frontline Standard": "Not included",
-        "Frontline Plus": "Included"
       }
     ]
   },
@@ -2598,14 +2598,14 @@
     "section": "Google Chat",
     "features": [
       {
-        "feature": "Set spaces history option for users",
+        "feature": "Allow or restrict Chat apps",
         "Enterprise Essentials": "Included",
         "Enterprise Essentials Plus": "Included",
-        "Frontline Standard": "N/A",
-        "Frontline Plus": "N/A"
+        "Frontline Standard": "Not included",
+        "Frontline Plus": "Included"
       },
       {
-        "feature": "Turn chat history on or off",
+        "feature": "Allow or restrict external chat",
         "Enterprise Essentials": "Included",
         "Enterprise Essentials Plus": "Included",
         "Frontline Standard": "Included",
@@ -2619,43 +2619,22 @@
         "Frontline Plus": "Included"
       },
       {
-        "feature": "Allow or restrict external chat",
-        "Enterprise Essentials": "Included",
-        "Enterprise Essentials Plus": "Included",
-        "Frontline Standard": "Included",
-        "Frontline Plus": "Included"
-      },
-      {
-        "feature": "Allow or restrict Chat apps",
-        "Enterprise Essentials": "Included",
-        "Enterprise Essentials Plus": "Included",
+        "feature": "Automatically delete Chat messages for your organization",
+        "Enterprise Essentials": "N/A",
+        "Enterprise Essentials Plus": "N/A",
         "Frontline Standard": "Not included",
         "Frontline Plus": "Included"
       },
       {
-        "feature": "Turn external spaces on or off",
-        "Enterprise Essentials": "Included",
-        "Enterprise Essentials Plus": "Included",
-        "Frontline Standard": "Not included",
-        "Frontline Plus": "Included"
-      },
-      {
-        "feature": "Use discoverable spaces",
-        "Enterprise Essentials": "Included",
-        "Enterprise Essentials Plus": "Included",
+        "feature": "Chat data loss prevention (DLP)",
+        "Enterprise Essentials": "N/A",
+        "Enterprise Essentials Plus": "N/A",
         "Frontline Standard": "Included",
         "Frontline Plus": "Included"
       },
       {
         "feature": "Chat Interoperability for interaction between Chat and non-Chat users (add-on)",
         "Enterprise Essentials": "Included",
-        "Enterprise Essentials Plus": "Included",
-        "Frontline Standard": "Included",
-        "Frontline Plus": "Included"
-      },
-      {
-        "feature": "External chat for 1:1 and group direct messages",
-        "Enterprise Essentials": "Not included",
         "Enterprise Essentials Plus": "Included",
         "Frontline Standard": "Included",
         "Frontline Plus": "Included"
@@ -2668,28 +2647,14 @@
         "Frontline Plus": "Included"
       },
       {
-        "feature": "Chat data loss prevention (DLP)",
-        "Enterprise Essentials": "N/A",
-        "Enterprise Essentials Plus": "N/A",
+        "feature": "External chat for 1:1 and group direct messages",
+        "Enterprise Essentials": "Not included",
+        "Enterprise Essentials Plus": "Included",
         "Frontline Standard": "Included",
         "Frontline Plus": "Included"
       },
       {
         "feature": "Gemini AI in Chat",
-        "Enterprise Essentials": "N/A",
-        "Enterprise Essentials Plus": "N/A",
-        "Frontline Standard": "Not included",
-        "Frontline Plus": "Included"
-      },
-      {
-        "feature": "Set space history option for users",
-        "Enterprise Essentials": "N/A",
-        "Enterprise Essentials Plus": "N/A",
-        "Frontline Standard": "Not included",
-        "Frontline Plus": "Included"
-      },
-      {
-        "feature": "Automatically delete Chat messages for your organization",
         "Enterprise Essentials": "N/A",
         "Enterprise Essentials Plus": "N/A",
         "Frontline Standard": "Not included",
@@ -2708,12 +2673,54 @@
         "Enterprise Essentials Plus": "N/A",
         "Frontline Standard": "Not included",
         "Frontline Plus": "Included"
+      },
+      {
+        "feature": "Set space history option for users",
+        "Enterprise Essentials": "N/A",
+        "Enterprise Essentials Plus": "N/A",
+        "Frontline Standard": "Not included",
+        "Frontline Plus": "Included"
+      },
+      {
+        "feature": "Set spaces history option for users",
+        "Enterprise Essentials": "Included",
+        "Enterprise Essentials Plus": "Included",
+        "Frontline Standard": "N/A",
+        "Frontline Plus": "N/A"
+      },
+      {
+        "feature": "Turn chat history on or off",
+        "Enterprise Essentials": "Included",
+        "Enterprise Essentials Plus": "Included",
+        "Frontline Standard": "Included",
+        "Frontline Plus": "Included"
+      },
+      {
+        "feature": "Turn external spaces on or off",
+        "Enterprise Essentials": "Included",
+        "Enterprise Essentials Plus": "Included",
+        "Frontline Standard": "Not included",
+        "Frontline Plus": "Included"
+      },
+      {
+        "feature": "Use discoverable spaces",
+        "Enterprise Essentials": "Included",
+        "Enterprise Essentials Plus": "Included",
+        "Frontline Standard": "Included",
+        "Frontline Plus": "Included"
       }
     ]
   },
   {
     "section": "Log events of user and admin activity",
     "features": [
+      {
+        "feature": "Access Transparency log events",
+        "Enterprise Essentials": "N/A",
+        "Enterprise Essentials Plus": "N/A",
+        "Frontline Standard": "Not included",
+        "Frontline Plus": "Included"
+      },
       {
         "feature": "Admin data action log events",
         "Enterprise Essentials": "N/A",
@@ -2792,6 +2799,13 @@
         "Frontline Plus": "Included"
       },
       {
+        "feature": "Devices events",
+        "Enterprise Essentials": "N/A",
+        "Enterprise Essentials Plus": "N/A",
+        "Frontline Standard": "Included",
+        "Frontline Plus": "Included"
+      },
+      {
         "feature": "Directory Sync log events",
         "Enterprise Essentials": "N/A",
         "Enterprise Essentials Plus": "N/A",
@@ -2810,6 +2824,13 @@
         "Enterprise Essentials": "N/A",
         "Enterprise Essentials Plus": "N/A",
         "Frontline Standard": "Included",
+        "Frontline Plus": "Included"
+      },
+      {
+        "feature": "Gmail messages",
+        "Enterprise Essentials": "N/A",
+        "Enterprise Essentials Plus": "N/A",
+        "Frontline Standard": "Not included",
         "Frontline Plus": "Included"
       },
       {
@@ -2925,6 +2946,13 @@
         "Frontline Plus": "Included"
       },
       {
+        "feature": "Users events",
+        "Enterprise Essentials": "N/A",
+        "Enterprise Essentials Plus": "N/A",
+        "Frontline Standard": "Included",
+        "Frontline Plus": "Included"
+      },
+      {
         "feature": "Vault log events",
         "Enterprise Essentials": "N/A",
         "Enterprise Essentials Plus": "N/A",
@@ -2937,47 +2965,12 @@
         "Enterprise Essentials Plus": "N/A",
         "Frontline Standard": "Included",
         "Frontline Plus": "Included"
-      },
-      {
-        "feature": "Devices events",
-        "Enterprise Essentials": "N/A",
-        "Enterprise Essentials Plus": "N/A",
-        "Frontline Standard": "Included",
-        "Frontline Plus": "Included"
-      },
-      {
-        "feature": "Users events",
-        "Enterprise Essentials": "N/A",
-        "Enterprise Essentials Plus": "N/A",
-        "Frontline Standard": "Included",
-        "Frontline Plus": "Included"
-      },
-      {
-        "feature": "Access Transparency log events",
-        "Enterprise Essentials": "N/A",
-        "Enterprise Essentials Plus": "N/A",
-        "Frontline Standard": "Not included",
-        "Frontline Plus": "Included"
-      },
-      {
-        "feature": "Gmail messages",
-        "Enterprise Essentials": "N/A",
-        "Enterprise Essentials Plus": "N/A",
-        "Frontline Standard": "Not included",
-        "Frontline Plus": "Included"
       }
     ]
   },
   {
     "section": "Email addresses and mailing lists",
     "features": [
-      {
-        "feature": "Your email address ( you @ yourcompany .com)",
-        "Enterprise Essentials": "N/A",
-        "Enterprise Essentials Plus": "N/A",
-        "Frontline Standard": "Included",
-        "Frontline Plus": "Included"
-      },
       {
         "feature": "Additional addresses per user (sales@ yourcompany .com)",
         "Enterprise Essentials": "N/A",
@@ -3000,6 +2993,13 @@
         "Frontline Plus": "Included"
       },
       {
+        "feature": "Personalized email campaigns with mail merge",
+        "Enterprise Essentials": "N/A",
+        "Enterprise Essentials Plus": "N/A",
+        "Frontline Standard": "Not included",
+        "Frontline Plus": "Included"
+      },
+      {
         "feature": "User-controlled mailing lists",
         "Enterprise Essentials": "N/A",
         "Enterprise Essentials Plus": "N/A",
@@ -3007,10 +3007,10 @@
         "Frontline Plus": "Included"
       },
       {
-        "feature": "Personalized email campaigns with mail merge",
+        "feature": "Your email address ( you @ yourcompany .com)",
         "Enterprise Essentials": "N/A",
         "Enterprise Essentials Plus": "N/A",
-        "Frontline Standard": "Not included",
+        "Frontline Standard": "Included",
         "Frontline Plus": "Included"
       }
     ]
@@ -3019,11 +3019,11 @@
     "section": "Email usage and limits",
     "features": [
       {
-        "feature": "Email storage (shared with documents and photos)",
+        "feature": "Attachment size limit (receiving)",
         "Enterprise Essentials": "N/A",
         "Enterprise Essentials Plus": "N/A",
-        "Frontline Standard": "5 GB",
-        "Frontline Plus": "5 GB"
+        "Frontline Standard": "50 MB",
+        "Frontline Plus": "50 MB"
       },
       {
         "feature": "Attachment size limit (sending)",
@@ -3033,11 +3033,11 @@
         "Frontline Plus": "25 MB"
       },
       {
-        "feature": "Attachment size limit (receiving)",
+        "feature": "Email storage (shared with documents and photos)",
         "Enterprise Essentials": "N/A",
         "Enterprise Essentials Plus": "N/A",
-        "Frontline Standard": "50 MB",
-        "Frontline Plus": "50 MB"
+        "Frontline Standard": "5 GB",
+        "Frontline Plus": "5 GB"
       },
       {
         "feature": "Recipients per message (To, Cc, Bcc fields combined)",
@@ -3059,17 +3059,31 @@
     "section": "Email security & compliance",
     "features": [
       {
-        "feature": "Junk email filtering and virus blocking",
+        "feature": "Advanced email attachment scanning (Security Sandbox)",
+        "Enterprise Essentials": "N/A",
+        "Enterprise Essentials Plus": "N/A",
+        "Frontline Standard": "Not included",
+        "Frontline Plus": "Included"
+      },
+      {
+        "feature": "Advanced phishing and malware protection",
         "Enterprise Essentials": "N/A",
         "Enterprise Essentials Plus": "N/A",
         "Frontline Standard": "Included",
         "Frontline Plus": "Included"
       },
       {
-        "feature": "Gmail ads turned off",
+        "feature": "Allowed IP addresses",
         "Enterprise Essentials": "N/A",
         "Enterprise Essentials Plus": "N/A",
         "Frontline Standard": "Included",
+        "Frontline Plus": "Included"
+      },
+      {
+        "feature": "Client-side encryption for email",
+        "Enterprise Essentials": "N/A",
+        "Enterprise Essentials Plus": "N/A",
+        "Frontline Standard": "Not included",
         "Frontline Plus": "Included"
       },
       {
@@ -3087,20 +3101,6 @@
         "Frontline Plus": "Included"
       },
       {
-        "feature": "Allowed IP addresses",
-        "Enterprise Essentials": "N/A",
-        "Enterprise Essentials Plus": "N/A",
-        "Frontline Standard": "Included",
-        "Frontline Plus": "Included"
-      },
-      {
-        "feature": "User-managed denylists",
-        "Enterprise Essentials": "N/A",
-        "Enterprise Essentials Plus": "N/A",
-        "Frontline Standard": "Included",
-        "Frontline Plus": "Included"
-      },
-      {
         "feature": "Enforced-compliance footers",
         "Enterprise Essentials": "N/A",
         "Enterprise Essentials Plus": "N/A",
@@ -3108,14 +3108,7 @@
         "Frontline Plus": "Included"
       },
       {
-        "feature": "Option to disable IMAP & POP access",
-        "Enterprise Essentials": "N/A",
-        "Enterprise Essentials Plus": "N/A",
-        "Frontline Standard": "Included",
-        "Frontline Plus": "Included"
-      },
-      {
-        "feature": "Advanced phishing and malware protection",
+        "feature": "Gmail ads turned off",
         "Enterprise Essentials": "N/A",
         "Enterprise Essentials Plus": "N/A",
         "Frontline Standard": "Included",
@@ -3129,7 +3122,7 @@
         "Frontline Plus": "Included"
       },
       {
-        "feature": "Use optical character recognition to read images",
+        "feature": "Gmail integration with a 3rd-party archiving solution",
         "Enterprise Essentials": "N/A",
         "Enterprise Essentials Plus": "N/A",
         "Frontline Standard": "Not included",
@@ -3143,17 +3136,17 @@
         "Frontline Plus": "Included"
       },
       {
-        "feature": "Gmail integration with a 3rd-party archiving solution",
+        "feature": "Junk email filtering and virus blocking",
         "Enterprise Essentials": "N/A",
         "Enterprise Essentials Plus": "N/A",
-        "Frontline Standard": "Not included",
+        "Frontline Standard": "Included",
         "Frontline Plus": "Included"
       },
       {
-        "feature": "Advanced email attachment scanning (Security Sandbox)",
+        "feature": "Option to disable IMAP & POP access",
         "Enterprise Essentials": "N/A",
         "Enterprise Essentials Plus": "N/A",
-        "Frontline Standard": "Not included",
+        "Frontline Standard": "Included",
         "Frontline Plus": "Included"
       },
       {
@@ -3164,10 +3157,17 @@
         "Frontline Plus": "Included"
       },
       {
-        "feature": "Client-side encryption for email",
+        "feature": "Use optical character recognition to read images",
         "Enterprise Essentials": "N/A",
         "Enterprise Essentials Plus": "N/A",
         "Frontline Standard": "Not included",
+        "Frontline Plus": "Included"
+      },
+      {
+        "feature": "User-managed denylists",
+        "Enterprise Essentials": "N/A",
+        "Enterprise Essentials Plus": "N/A",
+        "Frontline Standard": "Included",
         "Frontline Plus": "Included"
       }
     ]
@@ -3223,25 +3223,11 @@
     "section": "Google Calendar",
     "features": [
       {
-        "feature": "Team calendars",
+        "feature": "Allow users to share working location",
         "Enterprise Essentials": "N/A",
         "Enterprise Essentials Plus": "N/A",
-        "Frontline Standard": "Included",
-        "Frontline Plus": "Included"
-      },
-      {
-        "feature": "Resource booking (rooms, buildings, equipment)",
-        "Enterprise Essentials": "N/A",
-        "Enterprise Essentials Plus": "N/A",
-        "Frontline Standard": "Included",
-        "Frontline Plus": "Included"
-      },
-      {
-        "feature": "Events with video conferencing",
-        "Enterprise Essentials": "N/A",
-        "Enterprise Essentials Plus": "N/A",
-        "Frontline Standard": "Included",
-        "Frontline Plus": "Included"
+        "Frontline Standard": "Not included",
+        "Frontline Plus": "Not included"
       },
       {
         "feature": "Automatically add events to calendars",
@@ -3265,6 +3251,20 @@
         "Frontline Plus": "Included"
       },
       {
+        "feature": "Events with video conferencing",
+        "Enterprise Essentials": "N/A",
+        "Enterprise Essentials Plus": "N/A",
+        "Frontline Standard": "Included",
+        "Frontline Plus": "Included"
+      },
+      {
+        "feature": "Resource booking (rooms, buildings, equipment)",
+        "Enterprise Essentials": "N/A",
+        "Enterprise Essentials Plus": "N/A",
+        "Frontline Standard": "Included",
+        "Frontline Plus": "Included"
+      },
+      {
         "feature": "Set up appointment schedules",
         "Enterprise Essentials": "N/A",
         "Enterprise Essentials Plus": "N/A",
@@ -3272,11 +3272,11 @@
         "Frontline Plus": "Not included"
       },
       {
-        "feature": "Allow users to share working location",
+        "feature": "Team calendars",
         "Enterprise Essentials": "N/A",
         "Enterprise Essentials Plus": "N/A",
-        "Frontline Standard": "Not included",
-        "Frontline Plus": "Not included"
+        "Frontline Standard": "Included",
+        "Frontline Plus": "Included"
       }
     ]
   }

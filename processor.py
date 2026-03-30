@@ -80,6 +80,9 @@ for section_name, features_map in sections_dict.items():
         feature_list.append({"feature": name, **skus})
     
     if feature_list:
+        # Sort features alphabetically by feature name
+        feature_list.sort(key=lambda x: x['feature'].casefold())
+        
         final_list.append({
             "section": section_name,
             "features": feature_list
