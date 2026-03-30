@@ -19,6 +19,12 @@ sections_dict = {}
 def process_tables(table_list, target_skus):
     for item in table_list:
         section = clean_text(item.get("section", "General"))
+        
+        # Normalize log events section names
+        sec_low = section.lower()
+        if "log event" in sec_low or "log-event" in sec_low:
+            section = "Log events of user and admin activity"
+            
         table = item.get("rows", [])
         if not table or len(table) < 2: continue
         

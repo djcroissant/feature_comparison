@@ -752,42 +752,42 @@
     ]
   },
   {
-    "section": "Log events\u00a0of user and admin activity",
+    "section": "Log events of user and admin activity",
     "features": [
       {
         "feature": "Access Transparency log events",
         "Enterprise Essentials": "Not included",
         "Enterprise Essentials Plus": "Included",
-        "Frontline Standard": "N/A",
-        "Frontline Plus": "N/A"
+        "Frontline Standard": "Not included",
+        "Frontline Plus": "Included"
       },
       {
         "feature": "Admin data action log events",
         "Enterprise Essentials": "Included",
         "Enterprise Essentials Plus": "Included",
-        "Frontline Standard": "N/A",
-        "Frontline Plus": "N/A"
+        "Frontline Standard": "Included",
+        "Frontline Plus": "Included"
       },
       {
         "feature": "Admin log events",
         "Enterprise Essentials": "Included",
         "Enterprise Essentials Plus": "Included",
-        "Frontline Standard": "N/A",
-        "Frontline Plus": "N/A"
+        "Frontline Standard": "Included",
+        "Frontline Plus": "Included"
       },
       {
         "feature": "Calendar log events",
         "Enterprise Essentials": "Included",
         "Enterprise Essentials Plus": "Included",
-        "Frontline Standard": "N/A",
-        "Frontline Plus": "N/A"
+        "Frontline Standard": "Included",
+        "Frontline Plus": "Included"
       },
       {
         "feature": "Chat log events",
         "Enterprise Essentials": "Included",
         "Enterprise Essentials Plus": "Included",
-        "Frontline Standard": "N/A",
-        "Frontline Plus": "N/A"
+        "Frontline Standard": "Included",
+        "Frontline Plus": "Included"
       },
       {
         "feature": "Chrome browsers events",
@@ -797,46 +797,60 @@
         "Frontline Plus": "N/A"
       },
       {
+        "feature": "Chrome browsers log events",
+        "Enterprise Essentials": "N/A",
+        "Enterprise Essentials Plus": "N/A",
+        "Frontline Standard": "Included",
+        "Frontline Plus": "Included"
+      },
+      {
         "feature": "Chrome log events",
         "Enterprise Essentials": "Included",
         "Enterprise Essentials Plus": "Included",
-        "Frontline Standard": "N/A",
-        "Frontline Plus": "N/A"
+        "Frontline Standard": "Included",
+        "Frontline Plus": "Included"
       },
       {
         "feature": "Chrome Sync log events",
         "Enterprise Essentials": "Included",
         "Enterprise Essentials Plus": "Included",
-        "Frontline Standard": "N/A",
-        "Frontline Plus": "N/A"
+        "Frontline Standard": "Included",
+        "Frontline Plus": "Included"
       },
       {
         "feature": "Cloud Search log events",
         "Enterprise Essentials": "Included",
         "Enterprise Essentials Plus": "Included",
-        "Frontline Standard": "N/A",
-        "Frontline Plus": "N/A"
+        "Frontline Standard": "Included",
+        "Frontline Plus": "Included"
       },
       {
         "feature": "Contacts log events",
         "Enterprise Essentials": "Included",
         "Enterprise Essentials Plus": "Included",
-        "Frontline Standard": "N/A",
-        "Frontline Plus": "N/A"
+        "Frontline Standard": "Included",
+        "Frontline Plus": "Included"
       },
       {
         "feature": "Context Aware Access log events",
         "Enterprise Essentials": "Included",
         "Enterprise Essentials Plus": "Included",
-        "Frontline Standard": "N/A",
-        "Frontline Plus": "N/A"
+        "Frontline Standard": "Included",
+        "Frontline Plus": "Included"
       },
       {
         "feature": "Device log events",
         "Enterprise Essentials": "Included",
         "Enterprise Essentials Plus": "Included",
-        "Frontline Standard": "N/A",
-        "Frontline Plus": "N/A"
+        "Frontline Standard": "Included",
+        "Frontline Plus": "Included"
+      },
+      {
+        "feature": "Devices events",
+        "Enterprise Essentials": "N/A",
+        "Enterprise Essentials Plus": "N/A",
+        "Frontline Standard": "Included",
+        "Frontline Plus": "Included"
       },
       {
         "feature": "Devices log events",
@@ -849,99 +863,113 @@
         "feature": "Directory Sync log events",
         "Enterprise Essentials": "Included",
         "Enterprise Essentials Plus": "Included",
-        "Frontline Standard": "N/A",
-        "Frontline Plus": "N/A"
+        "Frontline Standard": "Included",
+        "Frontline Plus": "Included"
       },
       {
         "feature": "Drive log events",
         "Enterprise Essentials": "Included",
         "Enterprise Essentials Plus": "Included",
-        "Frontline Standard": "N/A",
-        "Frontline Plus": "N/A"
+        "Frontline Standard": "Included",
+        "Frontline Plus": "Included"
       },
       {
         "feature": "Gmail log events",
         "Enterprise Essentials": "Not included",
         "Enterprise Essentials Plus": "Not included",
-        "Frontline Standard": "N/A",
-        "Frontline Plus": "N/A"
+        "Frontline Standard": "Included",
+        "Frontline Plus": "Included"
       },
       {
         "feature": "Gmail messages",
         "Enterprise Essentials": "Not included",
         "Enterprise Essentials Plus": "Not included",
-        "Frontline Standard": "N/A",
-        "Frontline Plus": "N/A"
+        "Frontline Standard": "Not included",
+        "Frontline Plus": "Included"
       },
       {
         "feature": "Graduation log events",
         "Enterprise Essentials": "Included",
         "Enterprise Essentials Plus": "Included",
-        "Frontline Standard": "N/A",
-        "Frontline Plus": "N/A"
+        "Frontline Standard": "Included",
+        "Frontline Plus": "Included"
       },
       {
         "feature": "Groups Enterprise log events",
         "Enterprise Essentials": "Included",
         "Enterprise Essentials Plus": "Included",
-        "Frontline Standard": "N/A",
-        "Frontline Plus": "N/A"
+        "Frontline Standard": "Included",
+        "Frontline Plus": "Included"
       },
       {
         "feature": "Groups log events",
         "Enterprise Essentials": "Included",
         "Enterprise Essentials Plus": "Included",
-        "Frontline Standard": "N/A",
-        "Frontline Plus": "N/A"
+        "Frontline Standard": "Included",
+        "Frontline Plus": "Included"
+      },
+      {
+        "feature": "Jamboard log events",
+        "Enterprise Essentials": "N/A",
+        "Enterprise Essentials Plus": "N/A",
+        "Frontline Standard": "Included",
+        "Frontline Plus": "Included"
       },
       {
         "feature": "Keep log events",
         "Enterprise Essentials": "Included",
         "Enterprise Essentials Plus": "Included",
-        "Frontline Standard": "N/A",
-        "Frontline Plus": "N/A"
+        "Frontline Standard": "Included",
+        "Frontline Plus": "Included"
       },
       {
         "feature": "LDAP log events",
         "Enterprise Essentials": "Included",
         "Enterprise Essentials Plus": "Included",
-        "Frontline Standard": "N/A",
-        "Frontline Plus": "N/A"
+        "Frontline Standard": "Included",
+        "Frontline Plus": "Included"
       },
       {
         "feature": "Looker Studio log events",
         "Enterprise Essentials": "Included",
         "Enterprise Essentials Plus": "Included",
-        "Frontline Standard": "N/A",
-        "Frontline Plus": "N/A"
+        "Frontline Standard": "Included",
+        "Frontline Plus": "Included"
       },
       {
         "feature": "Meet log events",
         "Enterprise Essentials": "Included",
         "Enterprise Essentials Plus": "Included",
-        "Frontline Standard": "N/A",
-        "Frontline Plus": "N/A"
+        "Frontline Standard": "Included",
+        "Frontline Plus": "Included"
       },
       {
         "feature": "Meet recordings in Drive log events",
         "Enterprise Essentials": "Included",
         "Enterprise Essentials Plus": "Included",
-        "Frontline Standard": "N/A",
-        "Frontline Plus": "N/A"
+        "Frontline Standard": "Included",
+        "Frontline Plus": "Included"
       },
       {
         "feature": "OAuth log events",
         "Enterprise Essentials": "Included",
         "Enterprise Essentials Plus": "Included",
-        "Frontline Standard": "N/A",
-        "Frontline Plus": "N/A"
+        "Frontline Standard": "Included",
+        "Frontline Plus": "Included"
       },
       {
         "feature": "Profile log events",
         "Enterprise Essentials": "Included",
         "Enterprise Essentials Plus": "Included",
-        "Frontline Standard": "N/A",
-        "Frontline Plus": "N/A"
+        "Frontline Standard": "Included",
+        "Frontline Plus": "Included"
+      },
+      {
+        "feature": "Rule log events",
+        "Enterprise Essentials": "N/A",
+        "Enterprise Essentials Plus": "N/A",
+        "Frontline Standard": "Included",
+        "Frontline Plus": "Included"
       },
       {
         "feature": "Rule\u00a0log events",
@@ -954,50 +982,50 @@
         "feature": "SAML log events",
         "Enterprise Essentials": "Included",
         "Enterprise Essentials Plus": "Included",
-        "Frontline Standard": "N/A",
-        "Frontline Plus": "N/A"
+        "Frontline Standard": "Included",
+        "Frontline Plus": "Included"
       },
       {
         "feature": "Takeout log events",
         "Enterprise Essentials": "Included",
         "Enterprise Essentials Plus": "Included",
-        "Frontline Standard": "N/A",
-        "Frontline Plus": "N/A"
+        "Frontline Standard": "Included",
+        "Frontline Plus": "Included"
       },
       {
         "feature": "Tasks log events",
         "Enterprise Essentials": "Included",
         "Enterprise Essentials Plus": "Included",
-        "Frontline Standard": "N/A",
-        "Frontline Plus": "N/A"
+        "Frontline Standard": "Included",
+        "Frontline Plus": "Included"
       },
       {
         "feature": "User log events",
         "Enterprise Essentials": "Included",
         "Enterprise Essentials Plus": "Included",
-        "Frontline Standard": "N/A",
-        "Frontline Plus": "N/A"
+        "Frontline Standard": "Included",
+        "Frontline Plus": "Included"
       },
       {
         "feature": "Users events",
         "Enterprise Essentials": "Not included",
         "Enterprise Essentials Plus": "Included",
-        "Frontline Standard": "N/A",
-        "Frontline Plus": "N/A"
+        "Frontline Standard": "Included",
+        "Frontline Plus": "Included"
       },
       {
         "feature": "Vault log events",
         "Enterprise Essentials": "Included",
         "Enterprise Essentials Plus": "Included",
-        "Frontline Standard": "N/A",
-        "Frontline Plus": "N/A"
+        "Frontline Standard": "Included",
+        "Frontline Plus": "Included"
       },
       {
         "feature": "Voice log events",
         "Enterprise Essentials": "Included",
         "Enterprise Essentials Plus": "Included",
-        "Frontline Standard": "N/A",
-        "Frontline Plus": "N/A"
+        "Frontline Standard": "Included",
+        "Frontline Plus": "Included"
       }
     ]
   },
@@ -2706,263 +2734,6 @@
         "feature": "Use discoverable spaces",
         "Enterprise Essentials": "Included",
         "Enterprise Essentials Plus": "Included",
-        "Frontline Standard": "Included",
-        "Frontline Plus": "Included"
-      }
-    ]
-  },
-  {
-    "section": "Log events of user and admin activity",
-    "features": [
-      {
-        "feature": "Access Transparency log events",
-        "Enterprise Essentials": "N/A",
-        "Enterprise Essentials Plus": "N/A",
-        "Frontline Standard": "Not included",
-        "Frontline Plus": "Included"
-      },
-      {
-        "feature": "Admin data action log events",
-        "Enterprise Essentials": "N/A",
-        "Enterprise Essentials Plus": "N/A",
-        "Frontline Standard": "Included",
-        "Frontline Plus": "Included"
-      },
-      {
-        "feature": "Admin log events",
-        "Enterprise Essentials": "N/A",
-        "Enterprise Essentials Plus": "N/A",
-        "Frontline Standard": "Included",
-        "Frontline Plus": "Included"
-      },
-      {
-        "feature": "Calendar log events",
-        "Enterprise Essentials": "N/A",
-        "Enterprise Essentials Plus": "N/A",
-        "Frontline Standard": "Included",
-        "Frontline Plus": "Included"
-      },
-      {
-        "feature": "Chat log events",
-        "Enterprise Essentials": "N/A",
-        "Enterprise Essentials Plus": "N/A",
-        "Frontline Standard": "Included",
-        "Frontline Plus": "Included"
-      },
-      {
-        "feature": "Chrome browsers log events",
-        "Enterprise Essentials": "N/A",
-        "Enterprise Essentials Plus": "N/A",
-        "Frontline Standard": "Included",
-        "Frontline Plus": "Included"
-      },
-      {
-        "feature": "Chrome log events",
-        "Enterprise Essentials": "N/A",
-        "Enterprise Essentials Plus": "N/A",
-        "Frontline Standard": "Included",
-        "Frontline Plus": "Included"
-      },
-      {
-        "feature": "Chrome Sync log events",
-        "Enterprise Essentials": "N/A",
-        "Enterprise Essentials Plus": "N/A",
-        "Frontline Standard": "Included",
-        "Frontline Plus": "Included"
-      },
-      {
-        "feature": "Cloud Search log events",
-        "Enterprise Essentials": "N/A",
-        "Enterprise Essentials Plus": "N/A",
-        "Frontline Standard": "Included",
-        "Frontline Plus": "Included"
-      },
-      {
-        "feature": "Contacts log events",
-        "Enterprise Essentials": "N/A",
-        "Enterprise Essentials Plus": "N/A",
-        "Frontline Standard": "Included",
-        "Frontline Plus": "Included"
-      },
-      {
-        "feature": "Context Aware Access log events",
-        "Enterprise Essentials": "N/A",
-        "Enterprise Essentials Plus": "N/A",
-        "Frontline Standard": "Included",
-        "Frontline Plus": "Included"
-      },
-      {
-        "feature": "Device log events",
-        "Enterprise Essentials": "N/A",
-        "Enterprise Essentials Plus": "N/A",
-        "Frontline Standard": "Included",
-        "Frontline Plus": "Included"
-      },
-      {
-        "feature": "Devices events",
-        "Enterprise Essentials": "N/A",
-        "Enterprise Essentials Plus": "N/A",
-        "Frontline Standard": "Included",
-        "Frontline Plus": "Included"
-      },
-      {
-        "feature": "Directory Sync log events",
-        "Enterprise Essentials": "N/A",
-        "Enterprise Essentials Plus": "N/A",
-        "Frontline Standard": "Included",
-        "Frontline Plus": "Included"
-      },
-      {
-        "feature": "Drive log events",
-        "Enterprise Essentials": "N/A",
-        "Enterprise Essentials Plus": "N/A",
-        "Frontline Standard": "Included",
-        "Frontline Plus": "Included"
-      },
-      {
-        "feature": "Gmail log events",
-        "Enterprise Essentials": "N/A",
-        "Enterprise Essentials Plus": "N/A",
-        "Frontline Standard": "Included",
-        "Frontline Plus": "Included"
-      },
-      {
-        "feature": "Gmail messages",
-        "Enterprise Essentials": "N/A",
-        "Enterprise Essentials Plus": "N/A",
-        "Frontline Standard": "Not included",
-        "Frontline Plus": "Included"
-      },
-      {
-        "feature": "Graduation log events",
-        "Enterprise Essentials": "N/A",
-        "Enterprise Essentials Plus": "N/A",
-        "Frontline Standard": "Included",
-        "Frontline Plus": "Included"
-      },
-      {
-        "feature": "Groups Enterprise log events",
-        "Enterprise Essentials": "N/A",
-        "Enterprise Essentials Plus": "N/A",
-        "Frontline Standard": "Included",
-        "Frontline Plus": "Included"
-      },
-      {
-        "feature": "Groups log events",
-        "Enterprise Essentials": "N/A",
-        "Enterprise Essentials Plus": "N/A",
-        "Frontline Standard": "Included",
-        "Frontline Plus": "Included"
-      },
-      {
-        "feature": "Jamboard log events",
-        "Enterprise Essentials": "N/A",
-        "Enterprise Essentials Plus": "N/A",
-        "Frontline Standard": "Included",
-        "Frontline Plus": "Included"
-      },
-      {
-        "feature": "Keep log events",
-        "Enterprise Essentials": "N/A",
-        "Enterprise Essentials Plus": "N/A",
-        "Frontline Standard": "Included",
-        "Frontline Plus": "Included"
-      },
-      {
-        "feature": "LDAP log events",
-        "Enterprise Essentials": "N/A",
-        "Enterprise Essentials Plus": "N/A",
-        "Frontline Standard": "Included",
-        "Frontline Plus": "Included"
-      },
-      {
-        "feature": "Looker Studio log events",
-        "Enterprise Essentials": "N/A",
-        "Enterprise Essentials Plus": "N/A",
-        "Frontline Standard": "Included",
-        "Frontline Plus": "Included"
-      },
-      {
-        "feature": "Meet log events",
-        "Enterprise Essentials": "N/A",
-        "Enterprise Essentials Plus": "N/A",
-        "Frontline Standard": "Included",
-        "Frontline Plus": "Included"
-      },
-      {
-        "feature": "Meet recordings in Drive log events",
-        "Enterprise Essentials": "N/A",
-        "Enterprise Essentials Plus": "N/A",
-        "Frontline Standard": "Included",
-        "Frontline Plus": "Included"
-      },
-      {
-        "feature": "OAuth log events",
-        "Enterprise Essentials": "N/A",
-        "Enterprise Essentials Plus": "N/A",
-        "Frontline Standard": "Included",
-        "Frontline Plus": "Included"
-      },
-      {
-        "feature": "Profile log events",
-        "Enterprise Essentials": "N/A",
-        "Enterprise Essentials Plus": "N/A",
-        "Frontline Standard": "Included",
-        "Frontline Plus": "Included"
-      },
-      {
-        "feature": "Rule log events",
-        "Enterprise Essentials": "N/A",
-        "Enterprise Essentials Plus": "N/A",
-        "Frontline Standard": "Included",
-        "Frontline Plus": "Included"
-      },
-      {
-        "feature": "SAML log events",
-        "Enterprise Essentials": "N/A",
-        "Enterprise Essentials Plus": "N/A",
-        "Frontline Standard": "Included",
-        "Frontline Plus": "Included"
-      },
-      {
-        "feature": "Takeout log events",
-        "Enterprise Essentials": "N/A",
-        "Enterprise Essentials Plus": "N/A",
-        "Frontline Standard": "Included",
-        "Frontline Plus": "Included"
-      },
-      {
-        "feature": "Tasks log events",
-        "Enterprise Essentials": "N/A",
-        "Enterprise Essentials Plus": "N/A",
-        "Frontline Standard": "Included",
-        "Frontline Plus": "Included"
-      },
-      {
-        "feature": "User log events",
-        "Enterprise Essentials": "N/A",
-        "Enterprise Essentials Plus": "N/A",
-        "Frontline Standard": "Included",
-        "Frontline Plus": "Included"
-      },
-      {
-        "feature": "Users events",
-        "Enterprise Essentials": "N/A",
-        "Enterprise Essentials Plus": "N/A",
-        "Frontline Standard": "Included",
-        "Frontline Plus": "Included"
-      },
-      {
-        "feature": "Vault log events",
-        "Enterprise Essentials": "N/A",
-        "Enterprise Essentials Plus": "N/A",
-        "Frontline Standard": "Included",
-        "Frontline Plus": "Included"
-      },
-      {
-        "feature": "Voice log events",
-        "Enterprise Essentials": "N/A",
-        "Enterprise Essentials Plus": "N/A",
         "Frontline Standard": "Included",
         "Frontline Plus": "Included"
       }
