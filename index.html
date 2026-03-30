@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en" data-theme="dark">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Google Workspace License Comparison</title>
+    <meta name="description" content="Side-by-side comparison of Google Workspace SKUs: Frontline Standard, Frontline Plus, Enterprise Essentials, and Enterprise Essentials Plus.">
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="app-container">
+        <header class="app-header">
+            <div class="header-content">
+                <h1>Workspace Editions Comparison</h1>
+                <p>A comprehensive breakdown of enterprise and frontline features</p>
+                
+                <div class="sku-selector">
+                    <h3>Select Editions to Compare</h3>
+                    <div class="checkbox-group" id="skuCheckboxes">
+                        <label class="checkbox-label">
+                            <input type="checkbox" checked value="Enterprise Essentials">
+                            <span class="custom-checkbox"></span>
+                            Enterprise Essentials
+                        </label>
+                        <label class="checkbox-label">
+                            <input type="checkbox" checked value="Enterprise Essentials Plus">
+                            <span class="custom-checkbox"></span>
+                            Enterprise Essentials Plus
+                        </label>
+                        <label class="checkbox-label">
+                            <input type="checkbox" checked value="Frontline Standard">
+                            <span class="custom-checkbox"></span>
+                            Frontline Standard
+                        </label>
+                        <label class="checkbox-label">
+                            <input type="checkbox" checked value="Frontline Plus">
+                            <span class="custom-checkbox"></span>
+                            Frontline Plus
+                        </label>
+                    </div>
+                </div>
+
+                <div class="controls">
+                    <input type="text" id="searchInput" placeholder="Search features..." aria-label="Search features">
+                </div>
+            </div>
+            <div class="header-background-glow"></div>
+        </header>
+
+        <main id="tablesContainer">
+            <!-- Rendered via JS -->
+        </main>
+    </div>
+
+    <script src="data/features.js"></script>
+    <script src="app.js"></script>
+</body>
+</html>

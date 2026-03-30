@@ -1,0 +1,4659 @@
+{
+  "essentials": [
+    {
+      "section": "Compare Essentials\u00a0editions",
+      "rows": [
+        [
+          "Suite wide",
+          "Service specific"
+        ],
+        [
+          "Service availability Identity management Usage and support User access options Reports and monitoring Security and data management Endpoint management 3rd-party app integration Other admin features",
+          "Gemini features Drive and Docs editors Groups / Groups for Business Google Meet Google Chat"
+        ]
+      ]
+    },
+    {
+      "section": "Service availability",
+      "rows": [
+        [
+          "",
+          "Essentials Starter",
+          "Essentials**",
+          "Enterprise Essentials",
+          "Enterprise Essentials Plus"
+        ],
+        [
+          "Drive storage and Docs editors",
+          "\u2714",
+          "\u2714",
+          "\u2714",
+          "\u2714"
+        ],
+        [
+          "Video conferencing with Meet",
+          "\u2714",
+          "\u2714",
+          "\u2714",
+          "\u2714"
+        ],
+        [
+          "Tasks",
+          "\u2714",
+          "\u2714",
+          "\u2714",
+          "\u2714"
+        ],
+        [
+          "Directory management",
+          "\u2714",
+          "\u2714",
+          "\u2714",
+          "\u2714"
+        ],
+        [
+          "Sites",
+          "\u2714",
+          "\u2714",
+          "\u2714",
+          "\u2714"
+        ],
+        [
+          "Notetaking with Keep",
+          "\u2714",
+          "\u2714",
+          "\u2714",
+          "\u2714"
+        ],
+        [
+          "Chat and chat spaces",
+          "\u2714",
+          "\u2714",
+          "\u2714",
+          "\u2714 *"
+        ],
+        [
+          "Google Vids",
+          "\u2714 \u2020\u2020",
+          "\u2714",
+          "\u2714",
+          "\u2714"
+        ],
+        [
+          "Calendar",
+          "\u2714",
+          "\u2714",
+          "\u2714",
+          ""
+        ],
+        [
+          "Groups for Business",
+          "",
+          "\u2714 *",
+          "\u2714 *",
+          "\u2714 *"
+        ],
+        [
+          "Additional Google services (admin managed)",
+          "",
+          "\u2714 *",
+          "\u2714 *",
+          "\u2714 *"
+        ],
+        [
+          "Colab to collaboratively develop data science and machine learning models (as an additional Google service, no user licenses required)",
+          "",
+          "\u2714",
+          "\u2714",
+          "\u2714"
+        ],
+        [
+          "Colab Pro and Colab Pro+ (add-on)",
+          "",
+          "\u2714 *",
+          "\u2714 *",
+          "\u2714 *"
+        ],
+        [
+          "Gemini app\u00a0with enterprise-grade data protections\u2020",
+          "",
+          "\u2714 *",
+          "\u2714 *",
+          "\u2714 *"
+        ],
+        [
+          "Google Vault for eDiscovery and information governance",
+          "",
+          "",
+          "\u2714 *",
+          "\u2714 *"
+        ],
+        [
+          "AppSheet Core",
+          "",
+          "",
+          "",
+          "\u2714 *"
+        ],
+        [
+          "Google Cloud Search for internal search and assist",
+          "",
+          "",
+          "",
+          ""
+        ]
+      ]
+    },
+    {
+      "section": "Identity management",
+      "rows": [
+        [
+          "",
+          "Essentials Starter",
+          "Essentials**",
+          "Enterprise Essentials",
+          "Enterprise Essentials Plus"
+        ],
+        [
+          "Add or remove existing user accounts",
+          "\u2714",
+          "\u2714",
+          "\u2714",
+          "\u2714"
+        ],
+        [
+          "Assign a super admin role",
+          "\u2714",
+          "\u2714",
+          "\u2714",
+          "\u2714"
+        ],
+        [
+          "Create and delete user accounts",
+          "",
+          "\u2714 *",
+          "\u2714 *",
+          "\u2714 *"
+        ],
+        [
+          "Assign custom admin roles",
+          "",
+          "\u2714 *",
+          "\u2714 *",
+          "\u2714 *"
+        ],
+        [
+          "Manage user profiles",
+          "",
+          "\u2714 *",
+          "\u2714 *",
+          "\u2714 *"
+        ]
+      ]
+    },
+    {
+      "section": "Usage and support",
+      "rows": [
+        [
+          "",
+          "Essentials Starter",
+          "Essentials**",
+          "Enterprise Essentials",
+          "Enterprise Essentials Plus"
+        ],
+        [
+          "Number of users",
+          "100 \u2020",
+          "Any number",
+          "Any number",
+          "Any number"
+        ],
+        [
+          "Email, document, photo storage per user",
+          "15 GB",
+          "100 GB per user, up to a maximum of 2 TB \u2020\u2020",
+          "1 TB per user \u2020\u2020",
+          "5 TB \u2020\u2020"
+        ],
+        [
+          "99.9% uptime guarantee",
+          "\u2714",
+          "\u2714",
+          "\u2714",
+          "\u2714"
+        ],
+        [
+          "Purchase additional pooled storage",
+          "",
+          "\u2714",
+          "\u2714",
+          ""
+        ],
+        [
+          "Enhanced Support",
+          "",
+          "",
+          "\u2714",
+          "\u2714"
+        ],
+        [
+          "Standard Support",
+          "",
+          "\u2714",
+          "",
+          ""
+        ]
+      ]
+    },
+    {
+      "section": "User access options",
+      "rows": [
+        [
+          "",
+          "Essentials Starter",
+          "Essentials**",
+          "Enterprise Essentials",
+          "Enterprise Essentials Plus"
+        ],
+        [
+          "Supported browsers",
+          "\u2714",
+          "\u2714",
+          "\u2714",
+          "\u2714"
+        ],
+        [
+          "Access across devices (computers, phones, tablets)",
+          "\u2714",
+          "\u2714",
+          "\u2714",
+          "\u2714"
+        ],
+        [
+          "Offline access",
+          "\u2714",
+          "\u2714",
+          "\u2714",
+          "\u2714"
+        ],
+        [
+          "Microsoft Outlook",
+          "",
+          "\u2714 *",
+          "\u2714 *",
+          "\u2714 *"
+        ]
+      ]
+    },
+    {
+      "section": "Reports and monitoring",
+      "rows": [
+        [
+          "",
+          "Essentials Starter",
+          "Essentials**",
+          "Enterprise Essentials",
+          "Enterprise Essentials Plus"
+        ],
+        [
+          "Highlights reports summarizing metrics and trends",
+          "\u2714",
+          "\u2714",
+          "\u2714",
+          "\u2714"
+        ],
+        [
+          "Apps-usage reports (organization wide)",
+          "\u2714",
+          "\u2714",
+          "\u2714",
+          "\u2714"
+        ],
+        [
+          "User- and admin-specific activity reports",
+          "\u2714",
+          "\u2714",
+          "\u2714",
+          "\u2714"
+        ],
+        [
+          "Carbon footprint report",
+          "\u2714",
+          "\u2714",
+          "\u2714",
+          "\u2714"
+        ],
+        [
+          "Audit and investigation tool Log event reporting ( See log events below )",
+          "\u2714",
+          "\u2714",
+          "\u2714",
+          "\u2714"
+        ],
+        [
+          "Drive DLP data protection insights report",
+          "",
+          "",
+          "\u2714",
+          "\u2714"
+        ],
+        [
+          "Google Meet attendance reports",
+          "",
+          "\u2714",
+          "\u2714",
+          "\u2714"
+        ],
+        [
+          "Export reports to BigQuery",
+          "",
+          "",
+          "",
+          "\u2714*"
+        ],
+        [
+          "VirusTotal reports",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "Log-event\u00a0exports to Google Security Operations",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "Work Insights reports for users",
+          "",
+          "",
+          "",
+          "\u2714*"
+        ]
+      ]
+    },
+    {
+      "section": "Security policies and data protection",
+      "rows": [
+        [
+          "",
+          "Essentials Starter",
+          "Essentials**",
+          "Enterprise Essentials",
+          "Enterprise Essentials Plus"
+        ],
+        [
+          "2-Step Verification (admin managed)",
+          "",
+          "\u2714*",
+          "\u2714*",
+          "\u2714*"
+        ],
+        [
+          "Security keys for 2-Step Verification",
+          "",
+          "\u2714*",
+          "\u2714*",
+          "\u2714*"
+        ],
+        [
+          "Set session length for Google Cloud services",
+          "\u2714",
+          "\u2714*",
+          "\u2714*",
+          "\u2714*"
+        ],
+        [
+          "Collaboration with trusted external domains",
+          "\u2714",
+          "\u2714",
+          "\u2714",
+          "\u2714"
+        ],
+        [
+          "Basic data exports",
+          "\u2714",
+          "\u2714",
+          "\u2714",
+          "\u2714"
+        ],
+        [
+          "Enforced SSL connections",
+          "",
+          "",
+          "\u2714",
+          "\u2714"
+        ],
+        [
+          "Password monitoring and strength control",
+          "",
+          "",
+          "\u2714*",
+          "\u2714*"
+        ],
+        [
+          "Drive data protection insights report",
+          "",
+          "",
+          "\u2714",
+          "\u2714"
+        ],
+        [
+          "Set session length for Google services",
+          "",
+          "",
+          "",
+          "\u2714*"
+        ],
+        [
+          "Data loss prevention (DLP)",
+          "",
+          "",
+          "",
+          "\u2714*"
+        ],
+        [
+          "Control access based on user and device context (Context-Aware Access)",
+          "",
+          "",
+          "",
+          "\u2714*"
+        ],
+        [
+          "Cloud Identity Premium security management (no separate license required)",
+          "",
+          "",
+          "",
+          "\u2714*"
+        ],
+        [
+          "Multi-party approval for sensitive actions",
+          "",
+          "",
+          "",
+          "\u2714"
+        ],
+        [
+          "Advanced data exports",
+          "",
+          "",
+          "",
+          "\u2714"
+        ],
+        [
+          "Gemini AI security protections",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "Client-side encryption",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "Assured Controls for managing compliance & security requirements (add-on)",
+          "",
+          "",
+          "",
+          ""
+        ]
+      ]
+    },
+    {
+      "section": "Security dashboards & investigation tools",
+      "rows": [
+        [
+          "",
+          "Essentials Starter",
+          "Essentials**",
+          "Enterprise Essentials",
+          "Enterprise Essentials Plus"
+        ],
+        [
+          "Alert center: Notifications of potential security issues",
+          "\u2714",
+          "\u2714",
+          "\u2714",
+          "\u2714"
+        ],
+        [
+          "Audit and investigation tool Log event reporting ( See log events below )",
+          "\u2714",
+          "\u2714",
+          "\u2714",
+          "\u2714"
+        ],
+        [
+          "Security investigation tool Log event reporting\u00a0with premium features: Take action based on search results Automate security threat response with activity rules Customize searches with nested queries Group results by attribute when searching Create a custom chart based on an investigation Save, share, delete, and duplicate investigations See also below: Common use cases Log events",
+          "",
+          "",
+          "",
+          "\u2714*"
+        ],
+        [
+          "Security dashboard reports ( See dashboard reports below )",
+          "",
+          "",
+          "",
+          "\u2714*"
+        ],
+        [
+          "Security health page ( See settings analyses\u00a0below )",
+          "",
+          "",
+          "",
+          "\u2714*"
+        ]
+      ]
+    },
+    {
+      "section": "Data regions",
+      "rows": [
+        [
+          "",
+          "Essentials Starter",
+          "Essentials**",
+          "Enterprise Essentials",
+          "Enterprise Essentials Plus"
+        ],
+        [
+          "Set a single data at rest region policy for everyone in your organization",
+          "",
+          "",
+          "",
+          "\u2714*"
+        ],
+        [
+          "Set data\u00a0at rest region policies for organizational units or groups",
+          "",
+          "",
+          "",
+          "\u2714*"
+        ],
+        [
+          "Basic data regions reports (Includes data at rest, versions, and policy summaries)",
+          "",
+          "",
+          "",
+          "\u2714*"
+        ],
+        [
+          "Set data region processing policies (including for organizational units and groups)",
+          "",
+          "",
+          "",
+          "\u2714*"
+        ],
+        [
+          "Advanced settings for data regions",
+          "",
+          "",
+          "",
+          "\u2714*"
+        ],
+        [
+          "Advanced data regions reports (Includes data processing by region and service, and data at rest\u00a0by service)",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "Policy compliance log events",
+          "",
+          "",
+          "",
+          ""
+        ]
+      ]
+    },
+    {
+      "section": "Security investigation tool: Common use cases",
+      "rows": [
+        [
+          "",
+          "Essentials Starter",
+          "Essentials**",
+          "Enterprise Essentials",
+          "Enterprise Essentials Plus"
+        ],
+        [
+          "Use the security investigation tool to end meetings",
+          "",
+          "\u2714",
+          "",
+          "\u2714"
+        ],
+        [
+          "Investigate file sharing",
+          "",
+          "\u2714",
+          "",
+          "\u2714"
+        ],
+        [
+          "Transfer a Drive file from an unknown owner",
+          "",
+          "\u2714",
+          "",
+          "\u2714"
+        ],
+        [
+          "Investigate users across data sources",
+          "",
+          "\u2714",
+          "",
+          "\u2714"
+        ],
+        [
+          "Search and investigate user log events",
+          "",
+          "\u2714 *",
+          "",
+          "\u2714 *"
+        ],
+        [
+          "Investigate and take action on suspicious session cookies",
+          "",
+          "\u2714 *",
+          "",
+          "\u2714 *"
+        ],
+        [
+          "Investigate Chat messages to moderate content and protect your data",
+          "",
+          "\u2714 \u2020",
+          "",
+          "\u2714 \u2020"
+        ],
+        [
+          "Investigate reports of malicious emails",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "Use the investigation tool to view sensitive content",
+          "",
+          "",
+          "",
+          ""
+        ]
+      ]
+    },
+    {
+      "section": "Log events\u00a0of user and admin activity",
+      "rows": [
+        [
+          "",
+          "Essentials Starter",
+          "Essentials**",
+          "Enterprise Essentials",
+          "Enterprise Essentials Plus"
+        ],
+        [
+          "Admin data action log events",
+          "\u2714",
+          "\u2714",
+          "\u2714",
+          "\u2714 \u2020"
+        ],
+        [
+          "Admin log events",
+          "\u2714",
+          "\u2714",
+          "\u2714",
+          "\u2714 \u2020"
+        ],
+        [
+          "Calendar log events",
+          "\u2714",
+          "\u2714",
+          "\u2714",
+          "\u2714 \u2020"
+        ],
+        [
+          "Chat log events",
+          "\u2714",
+          "\u2714",
+          "\u2714",
+          "\u2714 \u2020"
+        ],
+        [
+          "Chrome log events",
+          "\u2714",
+          "\u2714",
+          "\u2714",
+          "\u2714 \u2020"
+        ],
+        [
+          "Chrome Sync log events",
+          "\u2714 *",
+          "\u2714 *",
+          "\u2714 *",
+          "\u2714 *\u2020"
+        ],
+        [
+          "Cloud Search log events",
+          "\u2714 *",
+          "\u2714 *",
+          "\u2714 *",
+          "\u2714 *\u2020"
+        ],
+        [
+          "Contacts log events",
+          "\u2714 *",
+          "\u2714 *",
+          "\u2714 *",
+          "\u2714 *\u2020"
+        ],
+        [
+          "Context Aware Access log events",
+          "\u2714 *",
+          "\u2714 *",
+          "\u2714 *",
+          "\u2714 *\u2020"
+        ],
+        [
+          "Device log events",
+          "\u2714 *",
+          "\u2714 *",
+          "\u2714 *",
+          "\u2714 *\u2020"
+        ],
+        [
+          "Directory Sync log events",
+          "\u2714 *",
+          "\u2714 *",
+          "\u2714 *",
+          "\u2714 *\u2020"
+        ],
+        [
+          "Drive log events",
+          "\u2714",
+          "\u2714",
+          "\u2714",
+          "\u2714 \u2020"
+        ],
+        [
+          "Graduation log events",
+          "\u2714 *",
+          "\u2714 *",
+          "\u2714 *",
+          "\u2714 *\u2020"
+        ],
+        [
+          "Groups Enterprise log events",
+          "\u2714 *",
+          "\u2714 *",
+          "\u2714 *",
+          "\u2714 *\u2020"
+        ],
+        [
+          "Groups log events",
+          "\u2714",
+          "\u2714",
+          "\u2714",
+          "\u2714 \u2020"
+        ],
+        [
+          "Keep log events",
+          "\u2714 *",
+          "\u2714 *",
+          "\u2714 *",
+          "\u2714 *\u2020"
+        ],
+        [
+          "LDAP log events",
+          "\u2714 *",
+          "\u2714 *",
+          "\u2714 *",
+          "\u2714 *\u2020"
+        ],
+        [
+          "Looker Studio log events",
+          "\u2714 *",
+          "\u2714 *",
+          "\u2714 *",
+          "\u2714 *\u2020"
+        ],
+        [
+          "Meet log events",
+          "\u2714",
+          "\u2714",
+          "\u2714",
+          "\u2714 \u2020"
+        ],
+        [
+          "Meet recordings in Drive log events",
+          "\u2714 *",
+          "\u2714 *",
+          "\u2714 *",
+          "\u2714 *\u2020"
+        ],
+        [
+          "OAuth log events",
+          "\u2714 *",
+          "\u2714 *",
+          "\u2714 *",
+          "\u2714 *\u2020"
+        ],
+        [
+          "Profile log events",
+          "\u2714 *",
+          "\u2714 *",
+          "\u2714 *",
+          "\u2714 *\u2020"
+        ],
+        [
+          "Rule\u00a0log events",
+          "\u2714 *",
+          "\u2714 *",
+          "\u2714 *",
+          "\u2714 *\u2020"
+        ],
+        [
+          "SAML log events",
+          "\u2714 *",
+          "\u2714 *",
+          "\u2714 *",
+          "\u2714 *\u2020"
+        ],
+        [
+          "Takeout log events",
+          "\u2714 *",
+          "\u2714 *",
+          "\u2714 *",
+          "\u2714 *\u2020"
+        ],
+        [
+          "Tasks log events",
+          "\u2714 *",
+          "\u2714 *",
+          "\u2714 *",
+          "\u2714 *\u2020"
+        ],
+        [
+          "User log events",
+          "\u2714 *",
+          "\u2714 *",
+          "\u2714 *",
+          "\u2714 *\u2020"
+        ],
+        [
+          "Vault log events",
+          "\u2714",
+          "\u2714",
+          "\u2714",
+          "\u2714 \u2020"
+        ],
+        [
+          "Voice log events",
+          "\u2714 *",
+          "\u2714 *",
+          "\u2714 *",
+          "\u2714 *\u2020"
+        ],
+        [
+          "Access Transparency log events",
+          "",
+          "",
+          "",
+          "\u2714 *\u2020"
+        ],
+        [
+          "Devices log events",
+          "",
+          "",
+          "",
+          "\u2714 *\u2020"
+        ],
+        [
+          "Users events",
+          "",
+          "",
+          "",
+          "\u2714 *\u2020"
+        ],
+        [
+          "Chrome browsers events",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "Gmail log events",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "Gmail messages",
+          "",
+          "",
+          "",
+          ""
+        ]
+      ]
+    },
+    {
+      "section": "Security Dashboard reports",
+      "rows": [
+        [
+          "",
+          "Essentials Starter",
+          "Essentials**",
+          "Enterprise Essentials",
+          "Enterprise Essentials Plus"
+        ],
+        [
+          "DLP incidents report",
+          "",
+          "",
+          "",
+          "\u2714*"
+        ],
+        [
+          "Top policy incidents report",
+          "",
+          "",
+          "",
+          "\u2714*"
+        ],
+        [
+          "User login attempts report",
+          "",
+          "",
+          "",
+          "\u2714*"
+        ],
+        [
+          "Failed device password attempts report",
+          "",
+          "",
+          "",
+          "\u2714*"
+        ],
+        [
+          "Compromised device events report",
+          "",
+          "",
+          "",
+          "\u2714*"
+        ],
+        [
+          "Suspicious device activities report",
+          "",
+          "",
+          "",
+          "\u2714*"
+        ],
+        [
+          "OAuth grant activity report",
+          "",
+          "",
+          "",
+          "\u2714*"
+        ],
+        [
+          "OAuth grants to new apps report",
+          "",
+          "",
+          "",
+          "\u2714*"
+        ],
+        [
+          "Sensitive content transfer on Chrome report",
+          "",
+          "",
+          "",
+          "\u2714* \u2020"
+        ],
+        [
+          "Users with most sensitive content transfer on Chrome report",
+          "",
+          "",
+          "",
+          "\u2714* \u2020"
+        ],
+        [
+          "Domains with most sensitive content transfer on Chrome report",
+          "",
+          "",
+          "",
+          "\u2714* \u2020"
+        ],
+        [
+          "Domain types with most sensitive content transfer on Chrome report",
+          "",
+          "",
+          "",
+          "\u2714* \u2020"
+        ],
+        [
+          "Chrome threat protection summary report",
+          "",
+          "",
+          "",
+          "\u2714* \u2020"
+        ],
+        [
+          "Chrome data protection summary report",
+          "",
+          "",
+          "",
+          "\u2714* \u2020"
+        ],
+        [
+          "Chrome high risk users report",
+          "",
+          "",
+          "",
+          "\u2714* \u2020"
+        ],
+        [
+          "Chrome high risk domains report",
+          "",
+          "",
+          "",
+          "\u2714* \u2020"
+        ],
+        [
+          "Suspicious attachments report",
+          "",
+          "",
+          "",
+          "\u2714*"
+        ],
+        [
+          "File exposure report",
+          "",
+          "",
+          "",
+          "\u2714*"
+        ],
+        [
+          "Authentication report",
+          "",
+          "",
+          "",
+          "\u2714*"
+        ],
+        [
+          "Custom settings report",
+          "",
+          "",
+          "",
+          "\u2714*"
+        ],
+        [
+          "Encryption report",
+          "",
+          "",
+          "",
+          "\u2714*"
+        ],
+        [
+          "Message delivery report",
+          "",
+          "",
+          "",
+          "\u2714*"
+        ],
+        [
+          "Spam filter report",
+          "",
+          "",
+          "",
+          "\u2714*"
+        ],
+        [
+          "User report",
+          "",
+          "",
+          "",
+          "\u2714*"
+        ],
+        [
+          "Spoofing report",
+          "",
+          "",
+          "",
+          "\u2714*"
+        ]
+      ]
+    },
+    {
+      "section": "Security health page reports",
+      "rows": [
+        [
+          "",
+          "Essentials Starter",
+          "Essentials**",
+          "Enterprise Essentials",
+          "Enterprise Essentials Plus"
+        ],
+        [
+          "Device management settings that can be monitored Blocking of compromised mobile devices Mobile management Mobile password requirements Device encryption Mobile inactivity reports Auto account wipe Application verification Installation of mobile applications from unknown sources External media storage",
+          "",
+          "",
+          "",
+          "\u2714*"
+        ],
+        [
+          "Security settings that can be monitored Two-step verification for users Two-step verification for admins Security key enforcement for admins Security key enforcement for users",
+          "",
+          "",
+          "",
+          "\u2714*"
+        ],
+        [
+          "Gmail settings that can be monitored Automatic email forwarding Comprehensive mail storage Bypassing spam filters for internal senders POP and IMAP access for users DKIM, SPF records, & DMARC Approved senders without authentication Approved domain senders Email whitelist IPs Add spam headers setting to all default routing rules MX record configuration MTA-STS configuration Attachment safety Links and external images safety Spoofing and authentication safety",
+          "",
+          "",
+          "",
+          "\u2714*"
+        ],
+        [
+          "Drive settings that can be monitored Drive sharing settings Warning for out-of-domain sharing Access Checker Drive add-ons Access to offline docs Desktop access to Drive File publishing on the web Google sign-in requirement for external collaborators",
+          "",
+          "",
+          "",
+          "\u2714*"
+        ],
+        [
+          "Hangouts settings that can be monitored Hangouts out of domain warning",
+          "",
+          "",
+          "",
+          "\u2714*"
+        ],
+        [
+          "Groups settings that can be monitored Groups creation and membership",
+          "",
+          "",
+          "",
+          "\u2714*"
+        ],
+        [
+          "Marketplace apps settings that can be monitored Google Workspace\u00a0Marketplace applications usage",
+          "",
+          "",
+          "",
+          "\u2714*"
+        ],
+        [
+          "Calendar settings that can be monitored Calendar sharing policy",
+          "",
+          "",
+          "",
+          "\u2714*"
+        ],
+        [
+          "Sites settings that can be monitored Access to Calendar when offline",
+          "",
+          "",
+          "",
+          "\u2714*"
+        ]
+      ]
+    },
+    {
+      "section": "Device security settings",
+      "rows": [
+        [
+          "",
+          "Essentials Starter",
+          "Essentials**",
+          "Enterprise Essentials",
+          "Enterprise Essentials Plus"
+        ],
+        [
+          "Fundamental endpoint management",
+          ""
+        ],
+        [
+          "Basic passcode enforcement (mobile)",
+          "",
+          "\u2714*",
+          "\u2714*",
+          "\u2714*"
+        ],
+        [
+          "Google Credential Provider for Windows (standalone)",
+          "",
+          "\u2714*",
+          "\u2714*",
+          "\u2714*"
+        ],
+        [
+          "Network management (ChromeOS, meeting room hardware)",
+          "",
+          "\u2714*",
+          "\u2714*",
+          "\u2714*"
+        ],
+        [
+          "Advanced endpoint management \u2020",
+          ""
+        ],
+        [
+          "Strong passcode enforcement",
+          "",
+          "",
+          "\u2714*",
+          "\u2714*"
+        ],
+        [
+          "Network management (mobile)",
+          "",
+          "",
+          "\u2714*",
+          "\u2714*"
+        ],
+        [
+          "Mobile device security policies",
+          "",
+          "",
+          "\u2714*",
+          "\u2714*"
+        ],
+        [
+          "Android work profiles",
+          "",
+          "",
+          "\u2714*",
+          "\u2714*"
+        ]
+      ]
+    },
+    {
+      "section": "Device management",
+      "rows": [
+        [
+          "",
+          "Essentials Starter",
+          "Essentials**",
+          "Enterprise Essentials",
+          "Enterprise Essentials Plus"
+        ],
+        [
+          "Fundamental endpoint management",
+          ""
+        ],
+        [
+          "Basic mobile device management",
+          "",
+          "\u2714*",
+          "\u2714*",
+          "\u2714*"
+        ],
+        [
+          "Fundamental management for computers",
+          "",
+          "\u2714*",
+          "\u2714*",
+          "\u2714*"
+        ],
+        [
+          "Endpoint verification",
+          "",
+          "\u2714*",
+          "\u2714*",
+          "\u2714*"
+        ],
+        [
+          "Company-owned device inventory (endpoints)",
+          "",
+          "\u2714*",
+          "\u2714*",
+          "\u2714*"
+        ],
+        [
+          "Remote account sign-out",
+          "",
+          "\u2714*",
+          "\u2714*",
+          "\u2714*"
+        ],
+        [
+          "Remote account wipe (mobile)",
+          "",
+          "\u2714*",
+          "\u2714*",
+          "\u2714*"
+        ],
+        [
+          "Block devices",
+          "",
+          "\u2714*",
+          "\u2714*",
+          "\u2714*"
+        ],
+        [
+          "Drive for desktop",
+          "",
+          "",
+          "\u2714*",
+          "\u2714*"
+        ],
+        [
+          "Advanced endpoint management \u2020",
+          ""
+        ],
+        [
+          "Advanced mobile management",
+          "",
+          "",
+          "\u2714",
+          "\u2714"
+        ],
+        [
+          "Zero-touch enrollment for Android devices",
+          "",
+          "",
+          "\u2714",
+          "\u2714"
+        ],
+        [
+          "Admin approval of devices",
+          "",
+          "",
+          "\u2714",
+          "\u2714"
+        ],
+        [
+          "Remote device wipe",
+          "",
+          "",
+          "\u2714",
+          "\u2714"
+        ],
+        [
+          "Windows device management",
+          "",
+          "",
+          "\u2714",
+          "\u2714"
+        ]
+      ]
+    },
+    {
+      "section": "Mobile app management",
+      "rows": [
+        [
+          "",
+          "Essentials Starter",
+          "Essentials**",
+          "Enterprise Essentials",
+          "Enterprise Essentials Plus"
+        ],
+        [
+          "Fundamental endpoint management",
+          ""
+        ],
+        [
+          "Public and private app management (Android)",
+          "",
+          "\u2714*",
+          "\u2714*",
+          "\u2714*"
+        ],
+        [
+          "Advanced endpoint management \u2020",
+          ""
+        ],
+        [
+          "Public app management (iOS)",
+          "",
+          "",
+          "\u2714*",
+          "\u2714*"
+        ],
+        [
+          "Android app runtime permissions",
+          "",
+          "",
+          "\u2714*",
+          "\u2714*"
+        ],
+        [
+          "Selectively distribute mobile apps to users",
+          "",
+          "",
+          "\u2714*",
+          "\u2714*"
+        ],
+        [
+          "Publish private Android web apps",
+          "",
+          "",
+          "\u2714*",
+          "\u2714*"
+        ],
+        [
+          "Managed Android app settings configurations",
+          "",
+          "",
+          "\u2714*",
+          "\u2714*"
+        ]
+      ]
+    },
+    {
+      "section": "Device details",
+      "rows": [
+        [
+          "",
+          "Essentials Starter",
+          "Essentials**",
+          "Enterprise Essentials",
+          "Enterprise Essentials Plus"
+        ],
+        [
+          "Fundamental endpoint management",
+          ""
+        ],
+        [
+          "Basic device details (mobile)",
+          "",
+          "\u2714*",
+          "\u2714*",
+          "\u2714*"
+        ],
+        [
+          "Basic endpoint details (computer & smart home devices)",
+          "",
+          "\u2714*",
+          "\u2714*",
+          "\u2714*"
+        ],
+        [
+          "Basic device reports (Chrome & mobile)",
+          "",
+          "\u2714*",
+          "\u2714*",
+          "\u2714*"
+        ],
+        [
+          "Advanced endpoint management \u2020",
+          ""
+        ],
+        [
+          "Advanced device reports (mobile)",
+          "",
+          "",
+          "\u2714*",
+          "\u2714*"
+        ]
+      ]
+    },
+    {
+      "section": "3rd-party app integration",
+      "rows": [
+        [
+          "",
+          "Essentials Starter",
+          "Essentials**",
+          "Enterprise Essentials",
+          "Enterprise Essentials Plus"
+        ],
+        [
+          "Single sign-on (SSO) using a 3rd-party IdP",
+          "\u2714 Microsoft (OIDC) only",
+          "\u2714*",
+          "\u2714*",
+          "\u2714*"
+        ],
+        [
+          "Single sign-on (SSO) using Google as IdP",
+          "",
+          "\u2714*",
+          "\u2714*",
+          "\u2714*"
+        ],
+        [
+          "App catalog of 200+ preconfigured SAML apps",
+          "",
+          "\u2714*",
+          "\u2714*",
+          "\u2714*"
+        ],
+        [
+          "Autoprovisioning of SAML apps (maximum number)",
+          "",
+          "Unlimited",
+          "Unlimited",
+          "Unlimited"
+        ],
+        [
+          "Secure LDAP: Connect LDAP-based apps & services",
+          "",
+          "",
+          "",
+          "\u2714*"
+        ]
+      ]
+    },
+    {
+      "section": "Other admin features",
+      "rows": [
+        [
+          "",
+          "Essentials Starter",
+          "Essentials**",
+          "Enterprise Essentials",
+          "Enterprise Essentials Plus"
+        ],
+        [
+          "Admin SDK (APIs to manage users and services, create reports, and more)",
+          "",
+          "\u2714*",
+          "\u2714*",
+          "\u2714*"
+        ],
+        [
+          "Upgrade directly to a\u00a0Google Workspace\u00a0Business or Enterprise edition with Gmail",
+          "",
+          "\u2714*",
+          "\u2714*",
+          "\u2714*"
+        ]
+      ]
+    },
+    {
+      "section": "Gemini features",
+      "rows": [
+        [
+          "",
+          "Essentials Starter",
+          "Essentials**",
+          "Enterprise Essentials",
+          "Enterprise Essentials Plus"
+        ],
+        [
+          "Gmail",
+          "",
+          ""
+        ],
+        [
+          "Help me write",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "Side panel",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "Contextual smart replies",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "Google Chat",
+          "",
+          ""
+        ],
+        [
+          "Side panel",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "Summarize conversations",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "Automatic translation",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "Google Meet",
+          "",
+          ""
+        ],
+        [
+          "Take notes for me",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "Studio sound, studio look, and studio lighting",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "Watermarking",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "Adaptive audio",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "Translated captions",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "Generate a background",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "Google Docs",
+          "",
+          ""
+        ],
+        [
+          "Side panel",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "Help me write",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "Help me create an image",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "Summarize a document",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "Google Sheets",
+          "",
+          ""
+        ],
+        [
+          "Side panel",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "Enhanced smart fill",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "Google Slides",
+          "",
+          ""
+        ],
+        [
+          "Side panel",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "Help me create an image",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "Remove image backgrounds",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "Google Vids",
+          "",
+          ""
+        ],
+        [
+          "Full access to AI features",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "Google Drive",
+          "",
+          ""
+        ],
+        [
+          "Side panel",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "Analyze PDFs",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "Gemini app",
+          "",
+          ""
+        ],
+        [
+          "Access",
+          "Access to features & models without enterprise-grade security & privacy",
+          "Access to features & models with enterprise-grade security & privacy"
+        ],
+        [
+          "Pro",
+          "Basic access - access varies; daily limits may change frequently."
+        ],
+        [
+          "Thinking",
+          "Limited access"
+        ],
+        [
+          "Fast",
+          "General access"
+        ],
+        [
+          "Audio Overviews",
+          "Limited access"
+        ],
+        [
+          "Deep research",
+          "Limited access using Gemini 2.5 Flash"
+        ],
+        [
+          "General availability features \u2020",
+          "General access"
+        ],
+        [
+          "Context window",
+          "32 thousand"
+        ],
+        [
+          "Connect to Google Workspace apps *",
+          "",
+          "General access"
+        ],
+        [
+          "Connect to GitHub & upload code folders",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "Scheduled actions",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "NotebookLM",
+          "",
+          ""
+        ],
+        [
+          "Higher limits",
+          "General access"
+        ],
+        [
+          "Premium features",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "Security",
+          "",
+          ""
+        ],
+        [
+          "AI classification in Drive",
+          "",
+          "",
+          "",
+          ""
+        ]
+      ]
+    },
+    {
+      "section": "Drive and Docs editors",
+      "rows": [
+        [
+          "",
+          "Essentials Starter",
+          "Essentials*",
+          "Enterprise Essentials",
+          "Enterprise Essentials Plus"
+        ],
+        [
+          "Drive for desktop",
+          "\u2714",
+          "\u2714",
+          "\u2714",
+          "\u2714"
+        ],
+        [
+          "Connected Sheets",
+          "\u2714",
+          "\u2714",
+          "\u2714",
+          "\u2714"
+        ],
+        [
+          "Advanced Drive logs and reports (Drive\u00a0log events)",
+          "\u2714",
+          "\u2714",
+          "\u2714",
+          "\u2714"
+        ],
+        [
+          "Drive sharing permissions",
+          "\u2714",
+          "\u2714",
+          "\u2714",
+          "\u2714"
+        ],
+        [
+          "Shared drives",
+          "",
+          "\u2714",
+          "\u2714",
+          "\u2714"
+        ],
+        [
+          "Manage document approvals",
+          "",
+          "\u2714",
+          "\u2714",
+          "\u2714"
+        ],
+        [
+          "Manage Drive metadata (custom labels and fields)",
+          "",
+          "\u2714",
+          "\u2714",
+          "\u2714"
+        ],
+        [
+          "Turn Docs creation on or off",
+          "",
+          "\u2714",
+          "\u2714",
+          "\u2714"
+        ],
+        [
+          "Delegate access to Connected Sheets",
+          "",
+          "",
+          "\u2714",
+          "\u2714"
+        ],
+        [
+          "eSignature",
+          "",
+          "",
+          "\u2714",
+          "\u2714"
+        ],
+        [
+          "Smart chip data extraction",
+          "",
+          "",
+          "\u2714",
+          "\u2714"
+        ],
+        [
+          "Gemini\u00a0AI in Docs, Sheets, & Slides",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "Drive inventory export",
+          "",
+          "",
+          "",
+          "\u2714"
+        ],
+        [
+          "Drive file suggestions in Chrome browser address bar",
+          "",
+          "",
+          "",
+          "\u2714"
+        ],
+        [
+          "Organizational branding (custom templates)",
+          "",
+          "",
+          "",
+          "\u2714"
+        ],
+        [
+          "Drive data loss prevention (DLP)",
+          "",
+          "",
+          "",
+          "\u2714**"
+        ],
+        [
+          "Trust rules for Drive sharing permissions",
+          "",
+          "",
+          "",
+          "\u2714**"
+        ],
+        [
+          "Client-side encryption for Drive files",
+          "",
+          "",
+          "",
+          "\u2714**"
+        ]
+      ]
+    },
+    {
+      "section": "Groups / Groups for Business",
+      "rows": [
+        [
+          "",
+          "Essentials Starter",
+          "Essentials**",
+          "Enterprise Essentials",
+          "Enterprise Essentials Plus"
+        ],
+        [
+          "Groups for content sharing and calendar invitations",
+          "",
+          "\u2714 *",
+          "\u2714 *",
+          "\u2714 *"
+        ],
+        [
+          "Collaborative Inboxes and message moderation",
+          "",
+          "\u2714 *",
+          "\u2714 *",
+          "\u2714 *"
+        ],
+        [
+          "User-managed groups",
+          "",
+          "\u2714 *",
+          "\u2714 *",
+          "\u2714 *"
+        ],
+        [
+          "Configuration groups for use by admins",
+          "",
+          "\u2714 *",
+          "\u2714 *",
+          "\u2714 *"
+        ],
+        [
+          "Target audience groups (preset sharing options)",
+          "",
+          "",
+          "\u2714 *",
+          "\u2714 *"
+        ],
+        [
+          "Inspect group membership",
+          "",
+          "",
+          "",
+          "\u2714 *"
+        ],
+        [
+          "Restrict group membership",
+          "",
+          "",
+          "",
+          "\u2714 *"
+        ],
+        [
+          "Dynamic groups (manage membership automatically)",
+          "",
+          "",
+          "",
+          "\u2714 *"
+        ],
+        [
+          "View members (direct & indirect) in all groups",
+          "",
+          "",
+          "",
+          "\u2714 *"
+        ]
+      ]
+    },
+    {
+      "section": "Google Meet",
+      "rows": [
+        [
+          "",
+          "Essentials Starter",
+          "Essentials**",
+          "Enterprise Essentials",
+          "Enterprise Essentials Plus"
+        ],
+        [
+          "Maximum meeting length",
+          "24 hours",
+          "24 hours",
+          "24 hours",
+          "24 hours"
+        ],
+        [
+          "Maximum number of participants per meeting",
+          "100",
+          "150",
+          "150",
+          "1,000 1"
+        ],
+        [
+          "External participants",
+          "\u2714",
+          "\u2714",
+          "\u2714",
+          "\u2714"
+        ],
+        [
+          "Secure meetings",
+          "\u2714",
+          "\u2714",
+          "\u2714",
+          "\u2714"
+        ],
+        [
+          "Presentations and screen sharing",
+          "\u2714",
+          "\u2714",
+          "\u2714",
+          "\u2714"
+        ],
+        [
+          "App for Android and iOS",
+          "\u2714",
+          "\u2714",
+          "\u2714",
+          "\u2714"
+        ],
+        [
+          "Add Meet video to Microsoft Outlook",
+          "\u2714",
+          "\u2714",
+          "\u2714",
+          "\u2714"
+        ],
+        [
+          "Works with Meet room hardware",
+          "\u2714",
+          "\u2714",
+          "\u2714",
+          "\u2714"
+        ],
+        [
+          "Hand raising",
+          "\u2714",
+          "\u2714",
+          "\u2714",
+          "\u2714"
+        ],
+        [
+          "Raise a room's hand using Meet hardware",
+          "\u2714",
+          "\u2714",
+          "\u2714 *",
+          "\u2714"
+        ],
+        [
+          "Reactions",
+          "\u2714",
+          "\u2714",
+          "\u2714",
+          "\u2714"
+        ],
+        [
+          "Meet eCDN",
+          "\u2714",
+          "\u2714",
+          "\u2714",
+          "\u2714"
+        ],
+        [
+          "Meet Media API",
+          "\u2714",
+          "\u2714",
+          "\u2714",
+          "\u2714"
+        ],
+        [
+          "Dial in (U.S. & international numbers) \u2020\u2020",
+          "",
+          "\u2714",
+          "\u2714",
+          "\u2714"
+        ],
+        [
+          "Record meetings & save them to Drive",
+          "",
+          "\u2714",
+          "\u2714",
+          "\u2714"
+        ],
+        [
+          "Breakout rooms \u2020\u2020\u2020",
+          "",
+          "\u2714",
+          "\u2714",
+          "\u2714"
+        ],
+        [
+          "Polls",
+          "",
+          "\u2714",
+          "\u2714",
+          "\u2714"
+        ],
+        [
+          "Q&A",
+          "",
+          "\u2714",
+          "\u2714",
+          "\u2714"
+        ],
+        [
+          "Track attendance (requires 2 or more attendees)",
+          "",
+          "\u2714",
+          "\u2714",
+          "\u2714"
+        ],
+        [
+          "Add co-hosts to meetings \u2020\u2020\u2020",
+          "",
+          "\u2714",
+          "\u2714",
+          "\u2714"
+        ],
+        [
+          "Control Slides presentations",
+          "",
+          "\u2714",
+          "\u2714",
+          "\u2714"
+        ],
+        [
+          "Noise cancellation",
+          "",
+          "",
+          "\u2714",
+          "\u2714"
+        ],
+        [
+          "Set recording quality for screen shares",
+          "",
+          "",
+          "\u2714",
+          "\u2714"
+        ],
+        [
+          "Automatic meeting recording and transcripts",
+          "",
+          "",
+          "\u2714",
+          "\u2714"
+        ],
+        [
+          "Waiting rooms in Meet",
+          "",
+          "",
+          "\u2714",
+          "\u2714"
+        ],
+        [
+          "In-domain and trusted domain live streaming (maximum number viewers)",
+          "",
+          "",
+          "",
+          "100k"
+        ],
+        [
+          "Transcribe meetings & save them to Drive",
+          "",
+          "",
+          "",
+          "\u2714"
+        ],
+        [
+          "Client-side encryption for audio and video",
+          "",
+          "",
+          "",
+          "\u2714*"
+        ],
+        [
+          "Test Meet eCDN large-scale configurations",
+          "",
+          "",
+          "",
+          "\u2714"
+        ],
+        [
+          "Gemini AI features in Meet",
+          "",
+          "",
+          "",
+          ""
+        ]
+      ]
+    },
+    {
+      "section": "Google Chat",
+      "rows": [
+        [
+          "",
+          "Essentials Starter",
+          "Essentials**",
+          "Enterprise Essentials",
+          "Enterprise Essentials Plus"
+        ],
+        [
+          "Set spaces history option for users",
+          "\u2714",
+          "\u2714",
+          "\u2714",
+          "\u2714*"
+        ],
+        [
+          "Turn chat history on or off",
+          "",
+          "\u2714",
+          "\u2714",
+          "\u2714*"
+        ],
+        [
+          "Automatically accept chat invitations",
+          "",
+          "\u2714",
+          "\u2714",
+          "\u2714*"
+        ],
+        [
+          "Allow or restrict external chat",
+          "",
+          "\u2714",
+          "\u2714",
+          "\u2714*"
+        ],
+        [
+          "Allow or restrict Chat apps",
+          "",
+          "\u2714",
+          "\u2714",
+          "\u2714*"
+        ],
+        [
+          "Turn external spaces on or off",
+          "",
+          "\u2714",
+          "\u2714",
+          "\u2714*"
+        ],
+        [
+          "Use discoverable spaces",
+          "",
+          "\u2714 *",
+          "\u2714 *",
+          "\u2714*"
+        ],
+        [
+          "Chat Interoperability for interaction between Chat and non-Chat users (add-on)",
+          "",
+          "",
+          "\u2714",
+          "\u2714"
+        ],
+        [
+          "External chat for 1:1 and group direct messages",
+          "",
+          "",
+          "",
+          "\u2714*"
+        ],
+        [
+          "Control file sharing in Chat",
+          "",
+          "",
+          "",
+          "\u2714*"
+        ]
+      ]
+    }
+  ],
+  "frontline": [
+    {
+      "section": "Frontline editions",
+      "rows": [
+        [
+          "Suite wide",
+          "Service details"
+        ],
+        [
+          "Service availability Usage and support User access options Reports and monitoring Security and data management 3rd-party app integration Endpoint management",
+          "Gemini features Gmail Drive and Docs editors Google Meet Google Chat Groups / Groups for Business Calendar"
+        ]
+      ]
+    },
+    {
+      "section": "Service availability",
+      "rows": [
+        [
+          "",
+          "Frontline Starter",
+          "Frontline Standard",
+          "Frontline Plus"
+        ],
+        [
+          "Gmail and Calendar",
+          "\u2714",
+          "\u2714",
+          "\u2714"
+        ],
+        [
+          "Groups for Business",
+          "\u2714",
+          "\u2714",
+          "\u2714"
+        ],
+        [
+          "Chat and chat rooms",
+          "\u2714",
+          "\u2714",
+          "\u2714"
+        ],
+        [
+          "Drive storage and Docs editors (includes Google Docs, Sheets, Slides, Forms, and Sites)",
+          "\u2714",
+          "\u2714",
+          "\u2714"
+        ],
+        [
+          "Video conferencing with Meet",
+          "\u2714",
+          "\u2714",
+          "\u2714"
+        ],
+        [
+          "Directory management",
+          "\u2714",
+          "\u2714",
+          "\u2714"
+        ],
+        [
+          "Sites",
+          "\u2714",
+          "\u2714",
+          "\u2714"
+        ],
+        [
+          "Additional Google services",
+          "\u2714",
+          "\u2714",
+          "\u2714"
+        ],
+        [
+          "Colab to collaboratively develop data science and machine learning models (as an additional Google service, no user licenses required)",
+          "\u2714",
+          "\u2714",
+          "\u2714"
+        ],
+        [
+          "Colab Pro and Colab Pro+ (add-on)",
+          "\u2714",
+          "\u2714",
+          "\u2714"
+        ],
+        [
+          "Gemini app with enterprise-grade data protections",
+          "\u2714",
+          "\u2714",
+          "\u2714"
+        ],
+        [
+          "AppSheet Core",
+          "\u2714",
+          "\u2714",
+          "\u2714"
+        ],
+        [
+          "NotebookLM",
+          "\u2714",
+          "\u2714",
+          "\u2714"
+        ],
+        [
+          "Google Vids",
+          "Viewer Only",
+          "Viewer Only",
+          "Viewer Only"
+        ],
+        [
+          "Google Vault for eDiscovery and information governance",
+          "",
+          "\u2714",
+          "\u2714"
+        ],
+        [
+          "Integrate third-party repositories in Cloud Search",
+          "",
+          "",
+          "\u2714"
+        ],
+        [
+          "Index third-party data using Cloud Search",
+          "",
+          "",
+          "\u2714"
+        ]
+      ]
+    },
+    {
+      "section": "Usage and support",
+      "rows": [
+        [
+          "",
+          "Frontline Starter",
+          "Frontline Standard",
+          "Frontline Plus"
+        ],
+        [
+          "Number of users",
+          "Unlimited",
+          "Unlimited",
+          "Unlimited"
+        ],
+        [
+          "Email, document, photo storage per user",
+          "5 GB",
+          "5 GB",
+          "5 GB"
+        ],
+        [
+          "99.9% uptime guarantee",
+          "\u2714",
+          "\u2714",
+          "\u2714"
+        ],
+        [
+          "Standard Support",
+          "\u2714",
+          "\u2714",
+          "\u2714"
+        ]
+      ]
+    },
+    {
+      "section": "User access options",
+      "rows": [
+        [
+          "",
+          "Frontline Starter",
+          "Frontline Standard",
+          "Frontline Plus"
+        ],
+        [
+          "Supported browsers",
+          "\u2714",
+          "\u2714",
+          "\u2714"
+        ],
+        [
+          "Access across devices (computers, phones, tablets)",
+          "\u2714",
+          "\u2714",
+          "\u2714"
+        ],
+        [
+          "Offline access",
+          "\u2714",
+          "\u2714",
+          "\u2714"
+        ],
+        [
+          "Microsoft Outlook",
+          "\u2714",
+          "\u2714",
+          "\u2714"
+        ],
+        [
+          "IMAP and POP mail clients",
+          "\u2714",
+          "\u2714",
+          "\u2714"
+        ]
+      ]
+    },
+    {
+      "section": "Reports and monitoring",
+      "rows": [
+        [
+          "",
+          "Frontline Starter",
+          "Frontline Standard",
+          "Frontline Plus"
+        ],
+        [
+          "Highlights reports summarizing metrics and trends",
+          "\u2714",
+          "\u2714",
+          "\u2714"
+        ],
+        [
+          "Apps-usage reports (organization wide)",
+          "\u2714",
+          "\u2714",
+          "\u2714"
+        ],
+        [
+          "User- and admin-specific activity reports",
+          "\u2714",
+          "\u2714",
+          "\u2714"
+        ],
+        [
+          "Carbon footprint report",
+          "\u2714",
+          "\u2714",
+          "\u2714"
+        ],
+        [
+          "Audit and investigation tool Log event reporting ( See log events below )",
+          "\u2714",
+          "\u2714",
+          "\u2714"
+        ],
+        [
+          "Drive DLP data protection insights report",
+          "\u2714",
+          "\u2714",
+          "\u2714"
+        ],
+        [
+          "VirusTotal reports",
+          "",
+          "\u2714",
+          "\u2714"
+        ],
+        [
+          "Export reports to BigQuery",
+          "",
+          "\u2714",
+          "\u2714"
+        ],
+        [
+          "Log-event exports to Google Security Operations",
+          "",
+          "",
+          "\u2714"
+        ],
+        [
+          "Work Insights reports for users",
+          "",
+          "",
+          "\u2714"
+        ],
+        [
+          "Google Meet attendance reports",
+          "",
+          "",
+          ""
+        ]
+      ]
+    },
+    {
+      "section": "Security policies and data protection",
+      "rows": [
+        [
+          "",
+          "Frontline Starter",
+          "Frontline Standard",
+          "Frontline Plus"
+        ],
+        [
+          "2-Step Verification",
+          "\u2714",
+          "\u2714",
+          "\u2714"
+        ],
+        [
+          "Security keys for 2-Step Verification",
+          "\u2714",
+          "\u2714",
+          "\u2714"
+        ],
+        [
+          "Set session length for Google Cloud services",
+          "\u2714",
+          "\u2714",
+          "\u2714"
+        ],
+        [
+          "Collaboration with trusted domains",
+          "\u2714",
+          "\u2714",
+          "\u2714"
+        ],
+        [
+          "Basic date export",
+          "\u2714",
+          "\u2714",
+          "\u2714"
+        ],
+        [
+          "Enforced SSL connections",
+          "\u2714",
+          "\u2714",
+          "\u2714"
+        ],
+        [
+          "Password monitoring and strength control",
+          "\u2714",
+          "\u2714",
+          "\u2714"
+        ],
+        [
+          "Generative AI security protections",
+          "\u2714*",
+          "\u2714*",
+          "\u2714"
+        ],
+        [
+          "Drive data protection insights report",
+          "\u2714",
+          "\u2714",
+          "\u2714"
+        ],
+        [
+          "Set session length for Google services",
+          "",
+          "\u2714",
+          "\u2714"
+        ],
+        [
+          "Data loss prevention (DLP)",
+          "",
+          "\u2714",
+          "\u2714"
+        ],
+        [
+          "Control app access based on user and device context (Context-Aware Access)",
+          "",
+          "\u2714",
+          "\u2714"
+        ],
+        [
+          "Cloud Identity Premium security management (no separate license required)",
+          "",
+          "\u2714",
+          "\u2714"
+        ],
+        [
+          "Advanced data exports",
+          "",
+          "",
+          "\u2714"
+        ],
+        [
+          "Client-side encryption",
+          "",
+          "",
+          "\u2714"
+        ],
+        [
+          "Assured Controls for managing compliance & security requirements (add-on)",
+          "",
+          "",
+          "\u2714"
+        ]
+      ]
+    },
+    {
+      "section": "Security dashboards & investigation tools",
+      "rows": [
+        [
+          "",
+          "Frontline Starter",
+          "Frontline Standard",
+          "Frontline Plus"
+        ],
+        [
+          "Alert center: Notifications of potential security issues",
+          "\u2714",
+          "\u2714",
+          "\u2714"
+        ],
+        [
+          "Audit and investigation tool Log event reporting ( See log events below )",
+          "\u2714",
+          "\u2714",
+          "\u2714"
+        ],
+        [
+          "Security investigation tool Log event reporting with premium features: Take action based on search results Automate security threat response with activity rules Customize searches with nested queries Group results by attribute when searching Create a custom chart based on an investigation Save, share, delete, and duplicate investigations See also below: Common use cases Log events",
+          "",
+          "\u2714",
+          "\u2714"
+        ],
+        [
+          "Security dashboard reports ( See dashboard reports below )",
+          "",
+          "\u2714",
+          "\u2714"
+        ],
+        [
+          "Security health page ( See settings analyses below )",
+          "",
+          "\u2714",
+          "\u2714"
+        ]
+      ]
+    },
+    {
+      "section": "Data regions",
+      "rows": [
+        [
+          "",
+          "Frontline Starter",
+          "Frontline Standard",
+          "Frontline Plus"
+        ],
+        [
+          "Set a single data at rest region policy for everyone in your organization",
+          "\u2714",
+          "\u2714",
+          "\u2714"
+        ],
+        [
+          "Set data at rest region policies for organizational units or groups",
+          "",
+          "",
+          "\u2714"
+        ],
+        [
+          "Basic data regions reports (Includes data at rest, versions, and policy summaries)",
+          "",
+          "",
+          "\u2714"
+        ],
+        [
+          "Set data region processing policies (Including for organizational units and groups)",
+          "",
+          "",
+          "\u2714"
+        ],
+        [
+          "Advanced settings for data regions",
+          "",
+          "",
+          "\u2714"
+        ],
+        [
+          "Advanced data regions reports (Includes data processing by region and service, and data at rest by service)",
+          "",
+          "",
+          "\u2714"
+        ]
+      ]
+    },
+    {
+      "section": "Security investigation tool: Common use cases",
+      "rows": [
+        [
+          "",
+          "Frontline Starter",
+          "Frontline Standard",
+          "Frontline Plus"
+        ],
+        [
+          "Use the security investigation tool to end meetings",
+          "",
+          "\u2714",
+          "\u2714"
+        ],
+        [
+          "Investigate file sharing",
+          "",
+          "\u2714",
+          "\u2714"
+        ],
+        [
+          "Transfer a Drive file from an unknown owner",
+          "",
+          "\u2714",
+          "\u2714"
+        ],
+        [
+          "Investigate users across data sources",
+          "",
+          "\u2714",
+          "\u2714"
+        ],
+        [
+          "Search and investigate user log events",
+          "",
+          "\u2714",
+          "\u2714"
+        ],
+        [
+          "Investigate and take action on suspicious session cookies",
+          "",
+          "\u2714",
+          "\u2714"
+        ],
+        [
+          "Investigate Chat messages to moderate content and protect your data",
+          "",
+          "\u2714",
+          "\u2714"
+        ],
+        [
+          "Investigate reports of malicious emails",
+          "",
+          "",
+          "\u2714"
+        ],
+        [
+          "Use the investigation tool to view sensitive content",
+          "",
+          "",
+          "\u2714"
+        ]
+      ]
+    },
+    {
+      "section": "Log events of user and admin activity",
+      "rows": [
+        [
+          "",
+          "Frontline Starter",
+          "Frontline Standard",
+          "Frontline Plus"
+        ],
+        [
+          "Admin data action log events",
+          "\u2714",
+          "\u2714",
+          "\u2714"
+        ],
+        [
+          "Admin log events",
+          "\u2714",
+          "\u2714",
+          "\u2714"
+        ],
+        [
+          "Calendar log events",
+          "\u2714",
+          "\u2714",
+          "\u2714"
+        ],
+        [
+          "Chat log events",
+          "\u2714",
+          "\u2714",
+          "\u2714"
+        ],
+        [
+          "Chrome browsers log events",
+          "\u2714",
+          "\u2714",
+          "\u2714"
+        ],
+        [
+          "Chrome log events",
+          "\u2714",
+          "\u2714",
+          "\u2714"
+        ],
+        [
+          "Chrome Sync log events",
+          "\u2714",
+          "\u2714",
+          "\u2714"
+        ],
+        [
+          "Cloud Search log events",
+          "\u2714",
+          "\u2714",
+          "\u2714"
+        ],
+        [
+          "Contacts log events",
+          "\u2714",
+          "\u2714",
+          "\u2714"
+        ],
+        [
+          "Context Aware Access log events",
+          "\u2714",
+          "\u2714",
+          "\u2714"
+        ],
+        [
+          "Device log events",
+          "\u2714",
+          "\u2714",
+          "\u2714"
+        ],
+        [
+          "Directory Sync log events",
+          "\u2714",
+          "\u2714",
+          "\u2714"
+        ],
+        [
+          "Drive log events",
+          "\u2714",
+          "\u2714",
+          "\u2714"
+        ],
+        [
+          "Gmail log events",
+          "\u2714",
+          "\u2714",
+          "\u2714"
+        ],
+        [
+          "Graduation log events",
+          "\u2714",
+          "\u2714",
+          "\u2714"
+        ],
+        [
+          "Groups Enterprise log events",
+          "\u2714",
+          "\u2714",
+          "\u2714"
+        ],
+        [
+          "Groups log events",
+          "\u2714",
+          "\u2714",
+          "\u2714"
+        ],
+        [
+          "Jamboard log events",
+          "\u2714",
+          "\u2714",
+          "\u2714"
+        ],
+        [
+          "Keep log events",
+          "\u2714",
+          "\u2714",
+          "\u2714"
+        ],
+        [
+          "LDAP log events",
+          "\u2714",
+          "\u2714",
+          "\u2714"
+        ],
+        [
+          "Looker Studio log events",
+          "\u2714",
+          "\u2714",
+          "\u2714"
+        ],
+        [
+          "Meet log events",
+          "\u2714",
+          "\u2714",
+          "\u2714"
+        ],
+        [
+          "Meet recordings in Drive log events",
+          "\u2714",
+          "\u2714",
+          "\u2714"
+        ],
+        [
+          "OAuth log events",
+          "\u2714",
+          "\u2714",
+          "\u2714"
+        ],
+        [
+          "Profile log events",
+          "\u2714",
+          "\u2714",
+          "\u2714"
+        ],
+        [
+          "Rule log events",
+          "\u2714",
+          "\u2714",
+          "\u2714"
+        ],
+        [
+          "SAML log events",
+          "\u2714",
+          "\u2714",
+          "\u2714"
+        ],
+        [
+          "Takeout log events",
+          "\u2714",
+          "\u2714",
+          "\u2714"
+        ],
+        [
+          "Tasks log events",
+          "\u2714",
+          "\u2714",
+          "\u2714"
+        ],
+        [
+          "User log events",
+          "\u2714",
+          "\u2714",
+          "\u2714"
+        ],
+        [
+          "Vault log events",
+          "\u2714",
+          "\u2714",
+          "\u2714"
+        ],
+        [
+          "Voice log events",
+          "\u2714",
+          "\u2714",
+          "\u2714"
+        ],
+        [
+          "Devices events",
+          "",
+          "\u2714",
+          "\u2714"
+        ],
+        [
+          "Users events",
+          "",
+          "\u2714",
+          "\u2714"
+        ],
+        [
+          "Access Transparency log events",
+          "",
+          "",
+          "\u2714"
+        ],
+        [
+          "Gmail messages",
+          "",
+          "",
+          "\u2714"
+        ]
+      ]
+    },
+    {
+      "section": "Security Dashboard reports",
+      "rows": [
+        [
+          "",
+          "Frontline Starter",
+          "Frontline Standard",
+          "Frontline Plus"
+        ],
+        [
+          "DLP incidents report",
+          "",
+          "\u2714",
+          "\u2714"
+        ],
+        [
+          "Top policy incidents report",
+          "",
+          "\u2714",
+          "\u2714"
+        ],
+        [
+          "User login attempts report",
+          "",
+          "\u2714",
+          "\u2714"
+        ],
+        [
+          "Failed device password attempts report",
+          "",
+          "\u2714",
+          "\u2714"
+        ],
+        [
+          "Compromised device events report",
+          "",
+          "\u2714",
+          "\u2714"
+        ],
+        [
+          "Suspicious device activities report",
+          "",
+          "\u2714",
+          "\u2714"
+        ],
+        [
+          "OAuth grant activity report",
+          "",
+          "\u2714",
+          "\u2714"
+        ],
+        [
+          "OAuth grants to new apps report",
+          "",
+          "\u2714",
+          "\u2714"
+        ],
+        [
+          "Sensitive content transfer on Chrome report",
+          "",
+          "\u2714 *",
+          "\u2714 *"
+        ],
+        [
+          "Users with most sensitive content transfer on Chrome report",
+          "",
+          "\u2714 *",
+          "\u2714 *"
+        ],
+        [
+          "Domains with most sensitive content transfer on Chrome report",
+          "",
+          "\u2714 *",
+          "\u2714 *"
+        ],
+        [
+          "Domain types with most sensitive content transfer on Chrome report",
+          "",
+          "\u2714 *",
+          "\u2714 *"
+        ],
+        [
+          "Chrome threat protection summary report",
+          "",
+          "\u2714 *",
+          "\u2714 *"
+        ],
+        [
+          "Chrome data protection summary report",
+          "",
+          "\u2714 *",
+          "\u2714 *"
+        ],
+        [
+          "Chrome high risk users report",
+          "",
+          "\u2714 *",
+          "\u2714 *"
+        ],
+        [
+          "Chrome high risk domains report",
+          "",
+          "\u2714 *",
+          "\u2714 *"
+        ],
+        [
+          "Suspicious attachments report",
+          "",
+          "",
+          "\u2714 *"
+        ],
+        [
+          "File exposure report",
+          "",
+          "",
+          "\u2714 *"
+        ],
+        [
+          "Authentication report",
+          "",
+          "",
+          "\u2714 *"
+        ],
+        [
+          "Custom settings report",
+          "",
+          "",
+          "\u2714 *"
+        ],
+        [
+          "Encryption report",
+          "",
+          "",
+          "\u2714 *"
+        ],
+        [
+          "Message delivery report",
+          "",
+          "",
+          "\u2714 *"
+        ],
+        [
+          "Spam filter report",
+          "",
+          "",
+          "\u2714 *"
+        ],
+        [
+          "User report",
+          "",
+          "",
+          "\u2714 *"
+        ],
+        [
+          "Spoofing report",
+          "",
+          "",
+          "\u2714 *"
+        ]
+      ]
+    },
+    {
+      "section": "Security health page reports",
+      "rows": [
+        [
+          "",
+          "Frontline Starter",
+          "Frontline Standard",
+          "Frontline Plus"
+        ],
+        [
+          "Device management settings that can be monitored Blocking of compromised mobile devices Mobile management Mobile password requirements Device encryption Mobile inactivity reports Auto account wipe Application verification Installation of mobile applications from unknown sources External media storage",
+          "",
+          "\u2714",
+          "\u2714"
+        ],
+        [
+          "Security settings that can be monitored Two-step verification for users Two-step verification for admins Security key enforcement for admins Security key enforcement for users*",
+          "",
+          "\u2714",
+          "\u2714"
+        ],
+        [
+          "Gmail settings that can be monitored Automatic email forwarding Comprehensive mail storage Bypassing spam filters for internal senders POP and IMAP access for users DKIM, SPF records, & DMARC Approved senders without authentication Approved domain senders Email whitelist IPs Add spam headers setting to all default routing rules MX record configuration MTA-STS configuration Attachment safety Links and external images safety Spoofing and authentication safety",
+          "",
+          "",
+          "\u2714"
+        ],
+        [
+          "Drive settings that can be monitored Drive sharing settings Warning for out-of-domain sharing Access Checker Drive add-ons Access to offline docs Desktop access to Drive File publishing on the web Google sign-in requirement for external collaborators",
+          "",
+          "",
+          "\u2714"
+        ],
+        [
+          "Hangouts settings that can be monitored Hangouts out of domain warning",
+          "",
+          "",
+          "\u2714"
+        ],
+        [
+          "Groups settings that can be monitored Groups creation and membership",
+          "",
+          "",
+          "\u2714"
+        ],
+        [
+          "Marketplace apps settings that can be monitored Google Workspace Marketplace applications usage",
+          "",
+          "",
+          "\u2714"
+        ],
+        [
+          "Calendar settings that can be monitored Calendar sharing policy",
+          "",
+          "",
+          "\u2714"
+        ],
+        [
+          "Sites settings that can be monitored Access to Calendar when offline",
+          "",
+          "",
+          "\u2714"
+        ]
+      ]
+    },
+    {
+      "section": "3rd-party app integration",
+      "rows": [
+        [
+          "",
+          "Frontline Starter",
+          "Frontline Standard",
+          "Frontline Plus"
+        ],
+        [
+          "Single-sign on (SSO) using Google as IdP",
+          "\u2714",
+          "\u2714",
+          "\u2714"
+        ],
+        [
+          "Single-sign on (SSO) using a 3rd-party IdP",
+          "\u2714",
+          "\u2714",
+          "\u2714"
+        ],
+        [
+          "App catalog of 200+ preconfigured SAML apps",
+          "\u2714",
+          "\u2714",
+          "\u2714"
+        ],
+        [
+          "Autoprovisioning of SAML apps (maximum number)",
+          "3",
+          "100",
+          "100"
+        ]
+      ]
+    },
+    {
+      "section": "Device security settings",
+      "rows": [
+        [
+          "",
+          "Frontline Starter",
+          "Frontline Standard",
+          "Frontline Plus"
+        ],
+        [
+          "Fundamental endpoint management",
+          "",
+          ""
+        ],
+        [
+          "Basic passcode enforcement (mobile)",
+          "\u2714",
+          "\u2714",
+          "\u2714"
+        ],
+        [
+          "Google Credential Provider for Windows (standalone)",
+          "\u2714",
+          "\u2714",
+          "\u2714"
+        ],
+        [
+          "Network management (ChromeOS, meeting room hardware)",
+          "\u2714",
+          "\u2714",
+          "\u2714"
+        ],
+        [
+          "Advanced endpoint management*",
+          "",
+          ""
+        ],
+        [
+          "Strong password enforcement",
+          "\u2714",
+          "\u2714",
+          "\u2714"
+        ],
+        [
+          "Network management (mobile)",
+          "\u2714",
+          "\u2714",
+          "\u2714"
+        ],
+        [
+          "Mobile device security policies",
+          "\u2714",
+          "\u2714",
+          "\u2714"
+        ],
+        [
+          "Android work profiles",
+          "\u2714",
+          "\u2714",
+          "\u2714"
+        ],
+        [
+          "Enterprise endpoint management*",
+          ""
+        ],
+        [
+          "iOS data protection",
+          "",
+          "\u2714",
+          "\u2714"
+        ],
+        [
+          "Mobile device certificates",
+          "",
+          "\u2714",
+          "\u2714"
+        ],
+        [
+          "Context-Aware Access",
+          "",
+          "\u2714",
+          "\u2714"
+        ]
+      ]
+    },
+    {
+      "section": "Device management",
+      "rows": [
+        [
+          "",
+          "Frontline Starter",
+          "Frontline Standard",
+          "Frontline Plus"
+        ],
+        [
+          "Fundamental endpoint management",
+          "",
+          ""
+        ],
+        [
+          "Basic mobile device management",
+          "\u2714",
+          "\u2714",
+          "\u2714"
+        ],
+        [
+          "Fundamental management for computers",
+          "\u2714",
+          "\u2714",
+          "\u2714"
+        ],
+        [
+          "Endpoint verification",
+          "\u2714",
+          "\u2714",
+          "\u2714"
+        ],
+        [
+          "Company-owned device inventory (endpoints)",
+          "\u2714",
+          "\u2714",
+          "\u2714"
+        ],
+        [
+          "Remote account sign-out",
+          "\u2714",
+          "\u2714",
+          "\u2714"
+        ],
+        [
+          "Remote account wipe (mobile)",
+          "\u2714",
+          "\u2714",
+          "\u2714"
+        ],
+        [
+          "Block devices",
+          "\u2714",
+          "\u2714",
+          "\u2714"
+        ],
+        [
+          "Drive for desktop",
+          "\u2714",
+          "\u2714",
+          "\u2714"
+        ],
+        [
+          "Advanced endpoint management*",
+          "",
+          ""
+        ],
+        [
+          "Advanced mobile management",
+          "\u2714",
+          "\u2714",
+          "\u2714"
+        ],
+        [
+          "Zero-touch enrollment for Android devices",
+          "\u2714",
+          "\u2714",
+          "\u2714"
+        ],
+        [
+          "Admin approval of devices",
+          "\u2714",
+          "\u2714",
+          "\u2714"
+        ],
+        [
+          "Remote device wipe",
+          "\u2714",
+          "\u2714",
+          "\u2714"
+        ],
+        [
+          "Windows device management",
+          "\u2714",
+          "\u2714",
+          "\u2714"
+        ],
+        [
+          "Enterprise endpoint management*",
+          ""
+        ],
+        [
+          "Company-owned device inventory (Android)",
+          "",
+          "\u2714",
+          "\u2714"
+        ],
+        [
+          "Company-owned device inventory (iOS)",
+          "",
+          "\u2714",
+          "\u2714"
+        ],
+        [
+          "Mobile device management rules",
+          "",
+          "\u2714",
+          "\u2714"
+        ],
+        [
+          "BeyondCorp Alliance partner integrations",
+          "",
+          "\u2714",
+          "\u2714"
+        ]
+      ]
+    },
+    {
+      "section": "Mobile app management",
+      "rows": [
+        [
+          "",
+          "Frontline Starter",
+          "Frontline Standard",
+          "Frontline Plus"
+        ],
+        [
+          "Fundamental endpoint management",
+          "",
+          ""
+        ],
+        [
+          "Public and private app management (Android)",
+          "\u2714",
+          "\u2714",
+          "\u2714"
+        ],
+        [
+          "Advanced endpoint management*",
+          "",
+          ""
+        ],
+        [
+          "Public app management (iOS)",
+          "\u2714",
+          "\u2714",
+          "\u2714"
+        ],
+        [
+          "Android app runtime permissions",
+          "\u2714",
+          "\u2714",
+          "\u2714"
+        ],
+        [
+          "Selectively distribute mobile apps to users",
+          "\u2714",
+          "\u2714",
+          "\u2714"
+        ],
+        [
+          "Publish private Android web apps",
+          "\u2714",
+          "\u2714",
+          "\u2714"
+        ],
+        [
+          "Managed Android app settings configurations",
+          "\u2714",
+          "\u2714",
+          "\u2714"
+        ],
+        [
+          "Enterprise endpoint management*",
+          ""
+        ],
+        [
+          "Private app management (iOS)",
+          "",
+          "\u2714",
+          "\u2714"
+        ]
+      ]
+    },
+    {
+      "section": "Device details",
+      "rows": [
+        [
+          "",
+          "Frontline Starter",
+          "Frontline Standard",
+          "Frontline Plus"
+        ],
+        [
+          "Fundamental endpoint management",
+          "",
+          ""
+        ],
+        [
+          "Basic device details (mobile)",
+          "\u2714",
+          "\u2714",
+          "\u2714"
+        ],
+        [
+          "Basic endpoint details (computer & smart home devices)",
+          "\u2714",
+          "\u2714",
+          "\u2714"
+        ],
+        [
+          "Basic device reports (Chrome & mobile)",
+          "\u2714",
+          "\u2714",
+          "\u2714"
+        ],
+        [
+          "Advanced endpoint management*",
+          "",
+          ""
+        ],
+        [
+          "Advanced device reports (mobile)",
+          "\u2714",
+          "\u2714",
+          "\u2714"
+        ],
+        [
+          "Enterprise endpoint management*",
+          ""
+        ],
+        [
+          "Device log events",
+          "",
+          "\u2714",
+          "\u2714"
+        ]
+      ]
+    },
+    {
+      "section": "Gemini features",
+      "rows": [
+        [
+          "",
+          "Frontline Starter",
+          "Frontline Standard",
+          "Frontline Plus"
+        ],
+        [
+          "Pro",
+          "Basic access - access varies; daily limits may change frequently."
+        ],
+        [
+          "Enterprise-grade security & privacy",
+          "\u2714",
+          "\u2714",
+          "\u2714"
+        ],
+        [
+          "Google Workspace apps",
+          "\u2714",
+          "\u2714",
+          "\u2714"
+        ],
+        [
+          "Gems",
+          "\u2714",
+          "\u2714",
+          "\u2714"
+        ],
+        [
+          "Image generation with people",
+          "\u2714",
+          "\u2714",
+          "\u2714"
+        ],
+        [
+          "Canvas",
+          "\u2714",
+          "\u2714",
+          "\u2714"
+        ],
+        [
+          "Audio Overviews",
+          "\u2714",
+          "\u2714",
+          "\u2714"
+        ],
+        [
+          "File upload and advanced data analysis",
+          "\u2714*",
+          "\u2714*",
+          "\u2714*"
+        ],
+        [
+          "Edit and run code",
+          "",
+          "",
+          ""
+        ],
+        [
+          "Upload sources, create summaries and Audio Overviews, and Q&A",
+          "\u2714",
+          "\u2714",
+          "\u2714"
+        ],
+        [
+          "Help me write",
+          "",
+          "",
+          "\u2714"
+        ],
+        [
+          "Side panel",
+          "",
+          "",
+          "\u2714"
+        ],
+        [
+          "Contextual smart replies",
+          "",
+          "",
+          "\u2714"
+        ],
+        [
+          "Side panel",
+          "",
+          "",
+          "\u2714"
+        ],
+        [
+          "Summarize conversations",
+          "",
+          "",
+          "\u2714"
+        ],
+        [
+          "Automatic translation",
+          "",
+          "",
+          "\u2714"
+        ],
+        [
+          "Take notes for me",
+          "",
+          "",
+          "\u2714"
+        ],
+        [
+          "Studio sound, studio look, and studio lighting",
+          "",
+          "",
+          "\u2714"
+        ],
+        [
+          "Watermarking",
+          "",
+          "",
+          "\u2714"
+        ],
+        [
+          "Adaptive audio",
+          "",
+          "",
+          "\u2714"
+        ],
+        [
+          "Translated captions",
+          "",
+          "",
+          "\u2714"
+        ],
+        [
+          "Generate a background",
+          "",
+          "",
+          "\u2714"
+        ],
+        [
+          "AI classification in Drive",
+          "",
+          "",
+          "\u2714"
+        ],
+        [
+          "Side panel",
+          "",
+          "",
+          ""
+        ],
+        [
+          "Help me write",
+          "",
+          "",
+          ""
+        ],
+        [
+          "Help me create an image",
+          "",
+          "",
+          ""
+        ],
+        [
+          "Summarize a document",
+          "",
+          "",
+          ""
+        ],
+        [
+          "Side panel",
+          "",
+          "",
+          ""
+        ],
+        [
+          "Enhanced smart fill",
+          "",
+          "",
+          ""
+        ],
+        [
+          "Side panel",
+          "",
+          "",
+          ""
+        ],
+        [
+          "Help me create an image",
+          "",
+          "",
+          ""
+        ],
+        [
+          "Remove image backgrounds",
+          "",
+          "",
+          ""
+        ],
+        [
+          "Full access to AI features",
+          "",
+          "",
+          ""
+        ],
+        [
+          "Side panel",
+          "",
+          "",
+          ""
+        ],
+        [
+          "Analyze PDFs",
+          "",
+          "",
+          ""
+        ]
+      ]
+    },
+    {
+      "section": "Email addresses and mailing lists",
+      "rows": [
+        [
+          "",
+          "Frontline Starter",
+          "Frontline Standard",
+          "Frontline Plus"
+        ],
+        [
+          "Your email address ( you @ yourcompany .com)",
+          "\u2714",
+          "\u2714",
+          "\u2714"
+        ],
+        [
+          "Additional addresses per user (sales@ yourcompany .com)",
+          "\u2714",
+          "\u2714",
+          "\u2714"
+        ],
+        [
+          "Addresses at multiple domains ( you @ company2 .com)",
+          "\u2714",
+          "\u2714",
+          "\u2714"
+        ],
+        [
+          "Admin-controlled mailing lists",
+          "\u2714",
+          "\u2714",
+          "\u2714"
+        ],
+        [
+          "User-controlled mailing lists",
+          "\u2714",
+          "\u2714",
+          "\u2714"
+        ],
+        [
+          "Personalized email campaigns with mail merge",
+          "",
+          "",
+          "\u2714"
+        ]
+      ]
+    },
+    {
+      "section": "Email usage and limits",
+      "rows": [
+        [
+          "",
+          "Frontline Starter",
+          "Frontline Standard",
+          "Frontline Plus"
+        ],
+        [
+          "Email storage (shared with documents and photos)",
+          "5 GB",
+          "5 GB",
+          "5 GB"
+        ],
+        [
+          "Attachment size limit (sending)",
+          "25 MB",
+          "25 MB",
+          "25 MB"
+        ],
+        [
+          "Attachment size limit (receiving)",
+          "50 MB",
+          "50 MB",
+          "50 MB"
+        ],
+        [
+          "Recipients per message (To, Cc, Bcc fields combined)",
+          "2,000 (500 external)",
+          "2,000 (500 external)",
+          "2,000 (500 external)"
+        ],
+        [
+          "Unique recipients per day (Each unique address counts once.)",
+          "3,000 (2,000 external, 500 external for trial accounts)",
+          "3,000 (2,000 external, 500 external for trial accounts)",
+          "3,000 (2,000 external, 500 external for trial accounts)"
+        ]
+      ]
+    },
+    {
+      "section": "Email security & compliance",
+      "rows": [
+        [
+          "",
+          "Frontline Starter",
+          "Frontline Standard",
+          "Frontline Plus"
+        ],
+        [
+          "Junk email filtering and virus blocking",
+          "\u2714",
+          "\u2714",
+          "\u2714"
+        ],
+        [
+          "Gmail ads turned off",
+          "\u2714",
+          "\u2714",
+          "\u2714"
+        ],
+        [
+          "Custom filtering and content policies",
+          "\u2714",
+          "\u2714",
+          "\u2714"
+        ],
+        [
+          "Email and chat retention policies",
+          "\u2714",
+          "\u2714",
+          "\u2714"
+        ],
+        [
+          "Allowed IP addresses",
+          "\u2714",
+          "\u2714",
+          "\u2714"
+        ],
+        [
+          "User-managed denylists",
+          "\u2714",
+          "\u2714",
+          "\u2714"
+        ],
+        [
+          "Enforced-compliance footers",
+          "\u2714",
+          "\u2714",
+          "\u2714"
+        ],
+        [
+          "Option to disable IMAP & POP access",
+          "\u2714",
+          "\u2714",
+          "\u2714"
+        ],
+        [
+          "Advanced phishing and malware protection",
+          "\u2714",
+          "\u2714",
+          "\u2714"
+        ],
+        [
+          "Gmail data loss prevention (DLP)",
+          "",
+          "",
+          "\u2714"
+        ],
+        [
+          "Use optical character recognition to read images",
+          "",
+          "",
+          "\u2714"
+        ],
+        [
+          "Gmail log search in BigQuery",
+          "",
+          "",
+          "\u2714"
+        ],
+        [
+          "Gmail integration with a 3rd-party archiving solution",
+          "",
+          "",
+          "\u2714"
+        ],
+        [
+          "Advanced email attachment scanning (Security Sandbox)",
+          "",
+          "",
+          "\u2714"
+        ],
+        [
+          "S/MIME encryption for email",
+          "",
+          "",
+          "\u2714"
+        ],
+        [
+          "Client-side encryption for email",
+          "",
+          "",
+          "\u2714"
+        ]
+      ]
+    },
+    {
+      "section": "Advanced email delivery options",
+      "rows": [
+        [
+          "",
+          "Frontline Starter",
+          "Frontline Standard",
+          "Frontline Plus"
+        ],
+        [
+          "Catch-all address",
+          "\u2714",
+          "\u2714",
+          "\u2714"
+        ],
+        [
+          "Email routing options for split and dual delivery",
+          "\u2714",
+          "\u2714",
+          "\u2714"
+        ],
+        [
+          "Inbound gateway",
+          "\u2714",
+          "\u2714",
+          "\u2714"
+        ],
+        [
+          "Outbound gateway (for entire organization)",
+          "\u2714",
+          "\u2714",
+          "\u2714"
+        ],
+        [
+          "Outbound relay server (for alternative From: addresses)",
+          "\u2714",
+          "\u2714",
+          "\u2714"
+        ],
+        [
+          "Receiving from multiple POP addresses",
+          "\u2714",
+          "\u2714",
+          "\u2714"
+        ]
+      ]
+    },
+    {
+      "section": "Drive and Docs editors",
+      "rows": [
+        [
+          "",
+          "Frontline Starter",
+          "Frontline Standard",
+          "Frontline Plus"
+        ],
+        [
+          "Drive storage and Docs editors (includes Google Docs, Sheets, Slides, Forms, and Sites)",
+          "\u2714",
+          "\u2714",
+          "\u2714"
+        ],
+        [
+          "Connected Sheets",
+          "\u2714",
+          "\u2714",
+          "\u2714"
+        ],
+        [
+          "Drive sharing permissions",
+          "\u2714",
+          "\u2714",
+          "\u2714"
+        ],
+        [
+          "Drive audit logs",
+          "\u2714",
+          "\u2714",
+          "\u2714"
+        ],
+        [
+          "Sharing to non-Google accounts (visitor sharing)",
+          "\u2714",
+          "\u2714",
+          "\u2714"
+        ],
+        [
+          "Membership in shared drives",
+          "Viewer only*",
+          "Viewer only*",
+          "Viewer only*"
+        ],
+        [
+          "Drive file suggestions in Chrome Browser address bar",
+          "",
+          "\u2714",
+          "\u2714"
+        ],
+        [
+          "Ransomware detection",
+          "",
+          "\u2714",
+          "\u2714"
+        ],
+        [
+          "Insert smart chips in your Google Sheets",
+          "",
+          "Limited data types",
+          "Limited data types"
+        ],
+        [
+          "Advanced Drive logs and reports (Drive log events)",
+          "",
+          "",
+          "\u2714"
+        ],
+        [
+          "Client-side encryption for Drive files",
+          "",
+          "",
+          "\u2714"
+        ],
+        [
+          "Drive inventory export",
+          "",
+          "",
+          "\u2714"
+        ],
+        [
+          "Trust rules for Drive sharing permissions",
+          "",
+          "",
+          "\u2714"
+        ],
+        [
+          "Limit external connections for Apps Script and Sheets",
+          "",
+          "",
+          "\u2714"
+        ]
+      ]
+    },
+    {
+      "section": "Google Meet",
+      "rows": [
+        [
+          "",
+          "Frontline Starter",
+          "Frontline Standard",
+          "Frontline Plus"
+        ],
+        [
+          "Maximum meeting length",
+          "24 hours",
+          "24 hours",
+          "24 hours"
+        ],
+        [
+          "Maximum number of participants per meeting",
+          "100",
+          "100",
+          "100"
+        ],
+        [
+          "External participants",
+          "\u2714",
+          "\u2714",
+          "\u2714"
+        ],
+        [
+          "Secure meetings",
+          "\u2714",
+          "\u2714",
+          "\u2714"
+        ],
+        [
+          "Presentations and screen sharing",
+          "\u2714",
+          "\u2714",
+          "\u2714"
+        ],
+        [
+          "App for Android and iOS",
+          "\u2714",
+          "\u2714",
+          "\u2714"
+        ],
+        [
+          "Dial in (U.S. & international numbers)",
+          "\u2714",
+          "\u2714",
+          "\u2714"
+        ],
+        [
+          "Hand raising",
+          "\u2714",
+          "\u2714",
+          "\u2714"
+        ],
+        [
+          "Raise a room's hand using Meet hardware",
+          "\u2714",
+          "\u2714",
+          "\u2714"
+        ],
+        [
+          "Noise cancellation",
+          "\u2714",
+          "\u2714",
+          "\u2714"
+        ],
+        [
+          "Join breakout rooms",
+          "\u2714",
+          "\u2714",
+          "\u2714"
+        ],
+        [
+          "Track attendance (requires 5 or more attendees)",
+          "\u2714",
+          "\u2714",
+          "\u2714"
+        ],
+        [
+          "Digital whiteboard",
+          "\u2714",
+          "\u2714",
+          "\u2714"
+        ],
+        [
+          "Add Meet video to Microsoft Outlook",
+          "\u2714",
+          "\u2714",
+          "\u2714"
+        ],
+        [
+          "Reactions",
+          "\u2714",
+          "\u2714",
+          "\u2714"
+        ],
+        [
+          "Meet eCDN",
+          "\u2714",
+          "\u2714",
+          "\u2714"
+        ],
+        [
+          "Meet Media API",
+          "\u2714",
+          "\u2714",
+          "\u2714"
+        ],
+        [
+          "Gemini AI in Meet",
+          "",
+          "",
+          "\u2714"
+        ],
+        [
+          "Client-side encryption for audio and video",
+          "",
+          "",
+          "\u2714"
+        ]
+      ]
+    },
+    {
+      "section": "Google Chat",
+      "rows": [
+        [
+          "",
+          "Frontline Starter",
+          "Frontline Standard",
+          "Frontline Plus"
+        ],
+        [
+          "Turn chat history on or off",
+          "\u2714",
+          "\u2714",
+          "\u2714"
+        ],
+        [
+          "Automatically accept chat invitations",
+          "\u2714",
+          "\u2714",
+          "\u2714"
+        ],
+        [
+          "Allow or restrict external chat",
+          "\u2714",
+          "\u2714",
+          "\u2714"
+        ],
+        [
+          "Use discoverable spaces",
+          "\u2714",
+          "\u2714",
+          "\u2714"
+        ],
+        [
+          "Chat Interoperability for interaction between Chat and non-Chat users (add-on)",
+          "\u2714",
+          "\u2714",
+          "\u2714"
+        ],
+        [
+          "External chat for 1:1 and group direct messages",
+          "\u2714",
+          "\u2714",
+          "\u2714"
+        ],
+        [
+          "Chat data loss prevention (DLP)",
+          "",
+          "\u2714",
+          "\u2714"
+        ],
+        [
+          "Gemini AI in Chat",
+          "",
+          "",
+          "\u2714"
+        ],
+        [
+          "Set space history option for users",
+          "",
+          "",
+          "\u2714"
+        ],
+        [
+          "Allow or restrict Chat apps",
+          "",
+          "",
+          "\u2714"
+        ],
+        [
+          "Turn external spaces on or off",
+          "",
+          "",
+          "\u2714"
+        ],
+        [
+          "Automatically delete Chat messages for your organization",
+          "",
+          "",
+          "\u2714"
+        ],
+        [
+          "Control file sharing in Chat",
+          "",
+          "",
+          "\u2714"
+        ],
+        [
+          "Integrate Chat with a third-party archiving solution",
+          "",
+          "",
+          "\u2714"
+        ],
+        [
+          "Moderate Chat content",
+          "",
+          "",
+          "\u2714"
+        ]
+      ]
+    },
+    {
+      "section": "Groups / Groups for Business",
+      "rows": [
+        [
+          "",
+          "Frontline Starter",
+          "Frontline Standard",
+          "Frontline Plus"
+        ],
+        [
+          "Email list groups",
+          "\u2714",
+          "\u2714",
+          "\u2714"
+        ],
+        [
+          "Groups for content sharing and calendar invitations",
+          "\u2714",
+          "\u2714",
+          "\u2714"
+        ],
+        [
+          "Collaborative Inboxes and message moderation",
+          "\u2714",
+          "\u2714",
+          "\u2714"
+        ],
+        [
+          "User-managed groups",
+          "\u2714",
+          "\u2714",
+          "\u2714"
+        ],
+        [
+          "Configuration groups for use by admins",
+          "\u2714",
+          "\u2714",
+          "\u2714"
+        ],
+        [
+          "Inspect group membership *",
+          "\u2714",
+          "\u2714",
+          "\u2714"
+        ],
+        [
+          "View members of a nested group *",
+          "\u2714",
+          "\u2714",
+          "\u2714"
+        ],
+        [
+          "Target audiences",
+          "",
+          "",
+          "\u2714"
+        ]
+      ]
+    },
+    {
+      "section": "Google Calendar",
+      "rows": [
+        [
+          "",
+          "Frontline Starter",
+          "Frontline Standard",
+          "Frontline Plus"
+        ],
+        [
+          "Team calendars",
+          "\u2714",
+          "\u2714",
+          "\u2714"
+        ],
+        [
+          "Resource booking (rooms, buildings, equipment)",
+          "\u2714",
+          "\u2714",
+          "\u2714"
+        ],
+        [
+          "Events with video conferencing",
+          "\u2714",
+          "\u2714",
+          "\u2714"
+        ],
+        [
+          "Automatically add events to calendars",
+          "\u2714",
+          "\u2714",
+          "\u2714"
+        ],
+        [
+          "Calendars synced with Microsoft Exchange",
+          "\u2714",
+          "\u2714",
+          "\u2714"
+        ],
+        [
+          "Client-side encryption for event descriptions",
+          "",
+          "",
+          "\u2714"
+        ],
+        [
+          "Set up appointment schedules",
+          "",
+          "",
+          ""
+        ],
+        [
+          "Allow users to share working location",
+          "",
+          "",
+          ""
+        ]
+      ]
+    }
+  ]
+}
