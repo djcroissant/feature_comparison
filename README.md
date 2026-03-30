@@ -4,6 +4,8 @@ A beautiful, high-performance web application designed to scrape, aggregate, and
 
 This project automatically downloads and extracts the raw HTML table structures from the official Google Workspace Essentials and Frontline documentation pages, standardizes the metrics across over 400 distinct features, and presents them via a premium, dark-mode Vanilla JS/CSS frontend interface. 
 
+🌐 **[Live Demo: Workspace Features Comparison](https://djcroissant.github.io/feature_comparison/)**
+
 ## Features
 - **Automated Data Extraction**: `scraper.py` parses complex Google Knowledge Base docs into raw JSON tables, capturing `<h2>` and `<h3>` category headings.
 - **Data Normalization Engine**: `processor.py` aggregates and normalizes feature inclusion (`Included`, `Not included`, `N/A`, `Viewer Only`) across the 4 specific SKUs, outputting a centralized `features.json`.
